@@ -1,0 +1,188 @@
+group,generic_name,Risk 
+carbapenems,Cilastatin Sodium/Imipenem,High
+carbapenems,Doripenem,High
+carbapenems,Ertapenem Sodium,High
+carbapenems,Meropenem,High
+cephalosporins,Avibactam/Ceftazidime,High
+cephalosporins,Cefaclor,High
+cephalosporins,Cefadroxil,Low
+cephalosporins,Cefazolin,Low
+cephalosporins,Cefazolin Sodium,Low
+cephalosporins,Cefazolin Sodium/Dextrose,Low
+cephalosporins,Cefazolin Sodium/Sodium Chloride,Low
+cephalosporins,Cefdinir,High
+cephalosporins,Cefditoren Pivoxil,High
+cephalosporins,Cefepime Hydrochloride,High
+cephalosporins,Cefixime,High
+cephalosporins,Cefmetazole Sodium,High
+cephalosporins,Cefonicid Sodium,High
+cephalosporins,Cefoperazone Sodium,High
+cephalosporins,Cefotaxime Sodium,High
+cephalosporins,Cefotetan Disodium,High
+cephalosporins,Cefoxitin,High
+cephalosporins,Cefoxitin Sodium,High 
+cephalosporins,Cefpodoxime Proxetil,High
+cephalosporins,Cefprozil,High
+cephalosporins,Ceftaroline Fosamil,High
+cephalosporins,Ceftazidime,High
+cephalosporins,Ceftazidime Sodium/Dextrose,High
+cephalosporins,Ceftazidime/Sodium Carbonate,High
+cephalosporins,Ceftibuten,High
+cephalosporins,Ceftizoxime Sodium,High
+cephalosporins,Ceftolozane/Tazobactam,High 
+cephalosporins,Ceftriaxone,High
+cephalosporins,Ceftriaxone Sodium,High
+cephalosporins,Ceftriaxone Sodium/Lidocaine,High
+cephalosporins,Cefuroxime Axetil,High
+cephalosporins,Cefuroxime Sodium,High
+cephalosporins,Loracarbef,High
+cephalosporins,Morphine Sulfate,?
+clindamycin,Adapalene;Clindamycin Phosphate;Cream Base,High
+clindamycin,Benzoyl Peroxide;Clindamycin Phosphate,High
+clindamycin,Benzoyl Peroxide/Clindamycin Phosphate,High
+clindamycin,Benzoyl Peroxide/Clindamycin Phosphate;Cleanser,High
+clindamycin,"Benzoyl Peroxide/Clindamycin Phosphate;Lotion, Mul",High
+clindamycin,Clindamycin Hydrochloride,High
+clindamycin,Clindamycin Palmitate Hydrochloride,High
+clindamycin,Clindamycin Phosphate,High
+clindamycin,Clindamycin Phosphate;Cleanser,High
+clindamycin,Clindamycin Phosphate;Cleanser and Moisturizer,High
+clindamycin,Clindamycin Phosphate/Dextrose,High
+clindamycin,Clindamycin Phosphate/Sodium Chloride,High
+clindamycin,Clindamycin Phosphate/Tretinoin,High
+fluoroquinolones,Alatrofloxacin Mesylate,High
+fluoroquinolones,Ciprofloxacin,High
+fluoroquinolones,Ciprofloxacin Hydrochloride,High
+fluoroquinolones,Ciprofloxacin Hydrochloride/Dexamethasone,High
+fluoroquinolones,Ciprofloxacin Hydrochloride/Fluocinolone Acetonide,High
+fluoroquinolones,Ciprofloxacin Hydrochloride/Hydrocortisone,High
+fluoroquinolones,Ciprofloxacin/Ciprofloxacin Hydrochloride,High
+fluoroquinolones,Dextrose/Levofloxacin,High
+fluoroquinolones,Enrofloxacin,High
+fluoroquinolones,Gatifloxacin,High
+fluoroquinolones,Gemifloxacin Mesylate,High
+fluoroquinolones,Levofloxacin,High
+fluoroquinolones,Moxifloxacin Hydrochloride,High
+fluoroquinolones,Norfloxacin,High
+fluoroquinolones,Ofloxacin,High
+macrolides,Amoxicillin;Clarithromycin;Lansoprazole,High
+macrolides,Amoxicillin;Clarithromycin;Omeprazole,High
+macrolides,Azithromycin,High
+macrolides,Azithromycin Dihydrate,High
+macrolides,Azithromycin/Dextrose,High
+macrolides,Benzoyl Peroxide;Erythromycin,High
+macrolides,Benzoyl Peroxide/Erythromycin,High
+macrolides,Clarithromycin,High
+macrolides,Erythromycin,High
+macrolides,Erythromycin Estolate,High
+macrolides,Erythromycin Ethylsuccinate,High
+macrolides,Erythromycin Ethylsuccinate/Sulfisoxazole Acetyl,High
+macrolides,Erythromycin Gluceptate,High
+macrolides,Erythromycin Lactobionate,High
+macrolides,Erythromycin Stearate,High
+macrolides,Erythromycin Thiocyanate,High
+macrolides,"Erythromycin, Topical",High
+macrolides,Fidaxomicin,High
+macrolides,Inactive Record,High
+macrolides,Telithromycin,High
+monobactams,Avibactam/Ceftazidime,High
+monobactams,Aztreonam,High
+monobactams,Ceftazidime,High
+monobactams,Ceftazidime Sodium/Dextrose,High
+monobactams,Ceftazidime/Sodium Carbonate,High
+penicillins,Amdinocillin,Low
+penicillins,Amoxicillin,Low
+penicillins,Amoxicillin;Clarithromycin;Lansoprazole,Low
+penicillins,Amoxicillin;Clarithromycin;Omeprazole,Low
+penicillins,Amoxicillin/Clavulanate Potassium,High 
+penicillins,Ampicillin,Low
+penicillins,Ampicillin Sodium,Low
+penicillins,Ampicillin Sodium/Sulbactam Sodium,High
+penicillins,Ampicillin Trihydrate,Low
+penicillins,Ampicillin/Probenecid,Low
+penicillins,Azlocillin Sodium,Low
+penicillins,Bacampicillin Hydrochloride,Low
+penicillins,Carbenicillin Disodium,Low
+penicillins,Carbenicillin Indanyl Sodium,Low
+penicillins,Ceftolozane/Tazobactam,High 
+penicillins,Clavulanate Potassium/Ticarcillin Disodium,High
+penicillins,Cloxacillin Sodium,Low
+penicillins,Cyclacillin,Low
+penicillins,Dicloxacillin Sodium,Low
+penicillins,Hetacillin,Low
+penicillins,Homeopathic Substance,?
+penicillins,Inactive Record,?
+penicillins,Lactobacillus Acidophilus,Low
+penicillins,Medical Alert Device,?
+penicillins,Methicillin Sodium,Low
+penicillins,Mezlocillin Sodium,Low
+penicillins,Nafcillin Sodium,Low
+penicillins,Oxacillin Sodium,Low
+penicillins,Pen. G. Proc/Probenecid,Low
+penicillins,Penicillin G Benzathine,Low
+penicillins,Penicillin G Benzathine/Penicillin G Procaine,Low
+penicillins,Penicillin G Potassium,Low
+penicillins,Penicillin G Potassium/Sodium Chloride,Low
+penicillins,Penicillin G Procaine,Low
+penicillins,Penicillin G Sodium,Low
+penicillins,Penicillin V Potassium,Low
+penicillins,Piperacillin Sodium,High
+penicillins,Piperacillin Sodium/Tazobactam Sodium,High
+penicillins,Ticarcillin Disodium,Low
+sulfonamides,Avobenzone/Octinoxate/Octisalate;Sulfacetamide Na/,Low
+sulfonamides,Azo-Sulfamethoxazole,Low
+sulfonamides,Colloidal Sulfur/Sulfacetamide Sodium,Low
+sulfonamides,Fluorometholone/Sulfacetamide Sodium,Low
+sulfonamides,Methyl Anthranilate/Ti Dioxide;Sulfacetamide Na/Su,Low
+sulfonamides,Phenazopyridine Hydrochloride/Sulfamethoxazole,Low
+sulfonamides,Phenylephrine Hydrochloride/Sulfacetamide Sodium,Low
+sulfonamides,Polymyxin B Sulfate/Trimethoprim Sulfate,Low
+sulfonamides,Prednisolone Acetate/Sulfacetamide Sodium,Low
+sulfonamides,Prednisolone Sodium Phosphate/Sulfacetamide Sodium,Low
+sulfonamides,Pyrimethamine/Sulfadoxine,Low
+sulfonamides,Silver Sulfadiazine,Low
+sulfonamides,Sulfabenzamide/Sulfacetamide/Sulfathiazole,Low
+sulfonamides,Sulfacetamide,Low
+sulfonamides,Sulfacetamide Na/Sulfur;Cleanser and Moisturizer,Low
+sulfonamides,Sulfacetamide Sodium,Low
+sulfonamides,Sulfacetamide Sodium/Sulfur,Low
+sulfonamides,Sulfacetamide Sodium/Sulfur;Cleanser,Low
+sulfonamides,Sulfacetamide Sodium/Urea,Low
+sulfonamides,Sulfadiazine,Low
+sulfonamides,Sulfadiazine Sodium,Low
+sulfonamides,Sulfadiazine/Sulfamerazine/Sulfamethazine,Low
+sulfonamides,Sulfadimethoxine Sodium,Low
+sulfonamides,Sulfadoxine,Low
+sulfonamides,Sulfamethoxazole,Low
+sulfonamides,"Sulfamethoxazole, Micronized",Low
+sulfonamides,Sulfamethoxazole/Trimethoprim,Low
+sulfonamides,Trimethoprim,Low
+sulfonamides,Trimethoprim Hydrochloride,Low
+sulfonamides,"Trimethoprim, Micronized",Low
+tetracyclines,Benzoyl Peroxide;Doxycycline,Low
+tetracyclines,Bi Subcitrate K/Metronidazole/Tetracycline HCl,Low
+tetracyclines,Bi Subsalicylate;Metronidazole;Tetracycline HCl,Low
+tetracyclines,Bi Subsalicylate/Metronidazole/Tetracycline HCl,Low
+tetracyclines,Chlortetracycline Hydrochloride,Low
+tetracyclines,Demeclocycline Hydrochloride,Low
+tetracyclines,Doxycycline,Low
+tetracyclines,Doxycycline Calcium,Low
+tetracyclines,Doxycycline Hyclate,Low
+tetracyclines,Doxycycline Hyclate;Cleanser and Moisturizer,Low
+tetracyclines,"Doxycycline Hyclate;Eyelid Cleanser;Spray, Multi I",Low
+tetracyclines,Doxycycline;Cleanser,Low
+tetracyclines,Doxycycline;Cleanser and Moisturizer,Low
+tetracyclines,Doxycycline;Flaxseed Oil/Omega-3 Fatty Acids/Vit E,Low
+tetracyclines,Doxycycline;Nutritional Supplement,Low
+tetracyclines,Doxycycline;Octinoxate/Zinc Oxide;Salicylic Acid,Low
+tetracyclines,HC Ace/Oxytetracycline HCl,Low
+tetracyclines,Inactive Record,?
+tetracyclines,Lidocaine Hydrochloride/Oxytetracycline,Low
+tetracyclines,Methacycline Hydrocholride,Low
+tetracyclines,Minocycline Hydrochloride,Low
+tetracyclines,Oxytetracycline,Low
+tetracyclines,Oxytetracycline Hydrochloride,Low
+tetracyclines,Oxytetracycline Hydrochloride/Polymyxin B Sulfate,Low
+tetracyclines,Tetracycline,Low
+tetracyclines,Tetracycline Hydrochloride,Low
+tetracyclines,Tetracycline/Amphotericin,Low

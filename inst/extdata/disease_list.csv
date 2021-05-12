@@ -1,0 +1,10 @@
+name,description
+ami,Acute Myocardial Infarction
+asthma,Asthma
+cdi,Clostridioides difficile infection
+cf_carrier,Cystic Fibrosis Carrier
+cf,Cystic Fibrosis
+covid,COVID-19
+pancreatitis_acute,Acute Pancreatitis
+pancreatitis_chronic,Chronic Pancreatitis
+pancreatitis,Pancreatitis

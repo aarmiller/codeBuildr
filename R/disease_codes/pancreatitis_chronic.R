@@ -1,4 +1,5 @@
-# Diagnosis codes for acute_pancreatitis
+# Diagnosis codes for chronic_pancreatitis
 
-dx_codes_9 <- children(c("5771"))
-dx_codes_10 <- children(c("K860","K861"))
+desc <- "Chronic Pancreatitis"
+icd9_codes <- children(c("5771"))
+icd10_codes <- children(c("K860","K861"))
