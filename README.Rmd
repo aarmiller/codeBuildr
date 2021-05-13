@@ -1,0 +1,108 @@
+---
+title: "codeBuildR"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This package contains useful functions for working with ICD Codes (diagnoses and
+procedures), CCS groupings along with NDC drug codes. It also contains datasets used to generate common code groups such as index diseases (e.g., AMI or CDI), 
+medications (e.g., antibiotics). 
+
+This package is intended to replace and expand upon the `icdplus` package. All
+prior functions and datasets contained in `icdplus` have been placed in this package.
+
+### Structure
+
+Code used to generate common disease, medication or procedure groupings are 
+located in `R/disease_codes`, `R/drug_codes` or `R/proc_codes`, respectively. 
+These scripts should generate .csv files that reside in `inst/extdata`. Note: 
+these files will be stored externally to the package and are saved as raw text
+files to manage code revisions on GitHub, but will be installed with the package.
+
+If code used to generate the common disease, medication and procedure groupings
+require manually created raw csv files, these should be stored in `data-raw/disease_codes`, `data-raw/drug_codes` or `data-raw/proc_codes`, respectively.
+
+
+## Examples - Exisiting `icdplus` codes
+
+```{r, message = FALSE}
+library(codeBuildr)
+```
+
+
+#### Crosswalk ICD-9-CM and ICD-10-CM codes
+
+Covert ICD-9 code for C.diff to ICD-10
+```{r}
+icd9_to_icd10("00845")
+```
+
+Use `children()` from `icd` package to collect any nested codes
+```{r}
+icd9_to_icd10("00845") %>% children()
+```
+
+Convert ICD-10 back to ICD-9 for C.diff
+```{r}
+icd10_to_icd9("A047")
+```
+
+#### Working with CCS codes
+
+Find a ccs code from a term:
+```{r}
+find_ccs("flu")
+find_ccs("influenza")
+```
+
+Get descriptions for CCS codes:
+```{r}
+explain_ccs(c(1,100))
+```
+
+Get ICD-9 codes for a CCS group
+```{r}
+get_icd_from_ccs(100)
+```
+
+Get ICD-10 codes for a CCS group
+```{r}
+get_icd_from_ccs(100,icd_version = 10)
+```
+
+
+## Examples - Loading Code Sets
+
+#### Loading diagnosis code sets
+
+See the available disease code sets
+```{r}
+avail_disease_codes()
+```
+
+Load disease codes sets
+```{r}
+load_disease_codes(c("ami","cdi"))
+```
+
+
+#### Loading RX (medication) code sets
+
+See the available rx code sets
+```{r}
+avail_rx_codes()
+```
+
+Load an rx code set
+```{r}
+all_abx <- load_rx_codes("all_abx")
+
+names(all_abx)
+
+head(all_abx$clindamycin)
+```
