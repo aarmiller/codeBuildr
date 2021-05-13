@@ -6,7 +6,9 @@ Author: Aaron Miller
 Maintainer: Aaron Miller <aaron-miller@uiowa.edu>
 Description: This project provides useful functions to load in diagnosis,
  procedure, and medication codes for particular projects.
-Depends: icd, icdplus
+Depends: 
+    icd,
+    R (>= 2.10)
 License: GPL
 Encoding: UTF-8
 LazyData: true

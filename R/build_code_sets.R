@@ -43,8 +43,3 @@ build_code_sets <- function(){
   readr::write_csv(desc_file, file = "inst/extdata/disease_list.csv")
 }
 
-
-add_rx_code_set <- function(rx_set_name, description){
-
-}
-
