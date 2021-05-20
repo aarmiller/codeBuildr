@@ -1,15 +1,15 @@
-## Codes for pancreatitis_chronic
+## Codes for cocci
 
 
 # Description:
 
-desc <- "Chronic Pancreatitis"
+desc <- "Coccidioidomycosis"
 
 # Diagnosis codes:
 
-icd9_codes <- children(c("5771"))
+icd9_codes <- as.character(children("114"))
 
-icd10_codes <- children(c("K860","K861"))
+icd10_codes <- as.character(children("B38"))
 
 # Procedure codes:
 

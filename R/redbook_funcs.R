@@ -13,7 +13,8 @@
 get_ndc_from_terms <- function(terms,return_all=FALSE,
                               redbook_path = "~/Data/redbook.csv"){
 
-  redbook <- read_csv(redbook_path,col_types = cols())
+  redbook <- readr::read_csv(redbook_path,
+                             col_types = readr::cols())
 
   terms <- tolower(terms)
 

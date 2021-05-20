@@ -1,5 +1,5 @@
-code,icd_version
-00845,9
-A047,10
-A0471,10
-A0472,10
+code,type
+00845,icd9
+A047,icd10
+A0471,icd10
+A0472,icd10

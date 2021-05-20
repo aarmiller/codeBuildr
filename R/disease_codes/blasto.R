@@ -1,15 +1,15 @@
-## Codes for pancreatitis_chronic
+## Codes for blasto
 
 
 # Description:
 
-desc <- "Chronic Pancreatitis"
+desc <- "Blastomycosis"
 
 # Diagnosis codes:
 
-icd9_codes <- children(c("5771"))
+icd9_codes <- as.character(children("116"))
 
-icd10_codes <- children(c("K860","K861"))
+icd10_codes <- as.character(children("B40"))
 
 # Procedure codes:
 

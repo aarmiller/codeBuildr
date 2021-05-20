@@ -24,9 +24,17 @@ build_code_sets <- function(){
     dis_name <- stringr::str_remove(i,".R")
 
     tmp <- rbind(tibble::tibble(code = icd9_codes,
-                                icd_version = 9),
+                                type = "icd9"),
                  tibble::tibble(code = icd10_codes,
-                                icd_version = 10))
+                                type = "icd10"),
+                 tibble::tibble(code = as.character(pr_codes_icd9),
+                                type = "icd9pcs"),
+                 tibble::tibble(code = as.character(pr_codes_icd10),
+                                type = "icd10pcs"),
+                 tibble::tibble(code = as.character(pr_codes_cpt),
+                                type = "cpt"),
+                 tibble::tibble(code = as.character(rx_codes),
+                                type = "ndc"))
 
     readr::write_csv(tmp, file = paste0("inst/extdata/diag_",dis_name,
                                         ".csv"))
@@ -36,10 +44,50 @@ build_code_sets <- function(){
 
     desc_file <- rbind(desc_file,tmp_row)
 
-    rm(icd9_codes, icd10_codes, desc)
+    rm(desc, icd9_codes, icd10_codes, pr_codes_icd9, pr_codes_icd10,
+       pr_codes_cpt, rx_codes)
 
   }
 
   readr::write_csv(desc_file, file = "inst/extdata/disease_list.csv")
+}
+
+#' Build condition files
+#'
+#' Builds files for conditions
+#'
+#'
+build_cond_file <- function(cond_name, type = "disease"){
+
+  file_name <- paste0(cond_name,".R")
+
+  if (type == "disease"){
+    file_path <- "R/disease_codes/"
+  } else if (type == "symptom"){
+    file_path <- "R/symptom_codes/"
+  }
+
+  current_files <- list.files(file_path)
+
+  file_path <- paste0(file_path,file_name)
+
+  if (file_name %in% current_files) {
+    warning("File Already Exists - No changes made")
+  } else {
+
+    cat(paste0("## Codes for ", cond_name),
+        '\n
+    \n# Description:
+    \ndesc <- ""
+    \n# Diagnosis codes:
+    \nicd9_codes <- as.character(children_safe(c()))
+    \nicd10_codes <- as.character(children_safe(c()))
+    \n# Procedure codes:
+    \npr_codes_icd9 <- c()
+    \npr_codes_icd10 <- c()
+    \npr_codes_cpt <- c()
+    \n# Medication codes
+    \nrx_codes <- c()', file = file_path)
+  }
 }
 

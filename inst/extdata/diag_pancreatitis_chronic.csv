@@ -1,4 +1,4 @@
-code,icd_version
-5771,9
-K860,10
-K861,10
+code,type
+5771,icd9
+K860,icd10
+K861,icd10

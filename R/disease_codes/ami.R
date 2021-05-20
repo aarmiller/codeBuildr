@@ -1,7 +1,24 @@
-# Diagnosis codes for ami
+## Codes for ami
+
+
+# Description:
 
 desc <- "Acute Myocardial Infarction"
-icd9_codes<- icd::children("410")
-icd10_codes <- icd::children(c("I21","I22"))
 
+# Diagnosis codes:
 
+icd9_codes <- as.character(children(c("410")))
+
+icd10_codes <- as.character(children(c("I21","I22")))
+
+# Procedure codes:
+
+pr_codes_icd9 <- c()
+
+pr_codes_icd10 <- c()
+
+pr_codes_cpt <- c()
+
+# Medication codes
+
+rx_codes <- c()

@@ -1,15 +1,15 @@
-## Codes for pancreatitis_chronic
+## Codes for histo
 
 
 # Description:
 
-desc <- "Chronic Pancreatitis"
+desc <- "Histoplasmosis"
 
 # Diagnosis codes:
 
-icd9_codes <- children(c("5771"))
+icd9_codes <- as.character(children("115"))
 
-icd10_codes <- children(c("K860","K861"))
+icd10_codes <- as.character(children("B39"))
 
 # Procedure codes:
 

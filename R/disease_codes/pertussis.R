@@ -1,15 +1,15 @@
-## Codes for pancreatitis_chronic
+## Codes for pertussis
 
 
 # Description:
 
-desc <- "Chronic Pancreatitis"
+desc <- "Pertussis"
 
 # Diagnosis codes:
 
-icd9_codes <- children(c("5771"))
+icd9_codes <- as.character(children_safe(c("033")))
 
-icd10_codes <- children(c("K860","K861"))
+icd10_codes <- as.character(children_safe(c("A37")))
 
 # Procedure codes:
 

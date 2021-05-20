@@ -1,10 +1,23 @@
 name,description
 ami,Acute Myocardial Infarction
+append,Appendicitis
 asthma,Asthma
-cdi,Clostridioides difficile infection
+blasto,Blastomycosis
+cdi,Clostridioides difficile Infection
 cf_carrier,Cystic Fibrosis Carrier
 cf,Cystic Fibrosis
+cocci,Coccidioidomycosis
 covid,COVID-19
+dengue,Dengue Fever
+endocarditis,Endocarditis
+histo,Histoplasmosis
+hsv_enceph,Herpes Simplex Virus Encephalitis
+malaria,Malaria
+nontb_myco,Nontuberculous Mycobacteria
 pancreatitis_acute,Acute Pancreatitis
 pancreatitis_chronic,Chronic Pancreatitis
 pancreatitis,Pancreatitis
+pd,Parkinson's Disease
+pertussis,Pertussis
+spine_abs,Spinal Abscess
+tb,Tuberculosis

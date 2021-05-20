@@ -1,8 +1,8 @@
-code,icd_version
-U071,10
-Z1152,10
-Z20822,10
-Z8616,10
-M3581,10
-M3589,10
-J1282,10
+code,type
+U071,icd10
+Z1152,icd10
+Z20822,icd10
+Z8616,icd10
+M3581,icd10
+M3589,icd10
+J1282,icd10

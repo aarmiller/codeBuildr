@@ -1,5 +1,24 @@
-# Diagnosis codes for cf
+## Codes for cf
+
+
+# Description:
 
 desc <- "Cystic Fibrosis"
-icd9_codes<- as.character(children(c("2770")))
+
+# Diagnosis codes:
+
+icd9_codes <- as.character(children(c("2770")))
+
 icd10_codes <- as.character(children(c("E84","E840","E841","E8411","E8419","E848","E849")))
+
+# Procedure codes:
+
+pr_codes_icd9 <- c()
+
+pr_codes_icd10 <- c()
+
+pr_codes_cpt <- c()
+
+# Medication codes
+
+rx_codes <- c()

@@ -23,13 +23,17 @@ load_disease_codes <- function(project_names){
                                        paste0("diag_",project_names,".csv"),
                                        package = "codeBuildr"),
                            col_types = readr::cols(code = readr::col_character(),
-                                                   icd_version = readr::col_double())
+                                                   type = readr::col_character())
                            )
 
 
     return(list(desc = descriptions[descriptions$name==project_names,]$description,
-                icd9_codes = tmp[tmp$icd_version==9,]$code,
-                icd10_codes = tmp[tmp$icd_version==10,]$code))
+                icd9_codes = tmp[tmp$type=="icd9",]$code,
+                icd10_codes = tmp[tmp$type=="icd10",]$code,
+                icd9pcs_codes = tmp[tmp$type=="icd9pcs",]$code,
+                icd10pcs_codes = tmp[tmp$type=="icd10pcs",]$code,
+                rx_codes = tmp[tmp$type=="ndc",]$code
+                ))
   }
 
   # otherwise return named sublists
@@ -42,12 +46,15 @@ load_disease_codes <- function(project_names){
                                        paste0("diag_",i,".csv"),
                                        package = "codeBuildr"),
                            col_types = readr::cols(code = readr::col_character(),
-                                                   icd_version = readr::col_double())
+                                                   type = readr::col_character())
                            )
 
     out_list[[i]] <- list(desc = descriptions[descriptions$name==i,]$description,
-                          icd9_codes = tmp[tmp$icd_version==9,]$code,
-                          icd10_codes = tmp[tmp$icd_version==10,]$code)
+                          icd9_codes = tmp[tmp$type=="icd9",]$code,
+                          icd10_codes = tmp[tmp$type=="icd10",]$code,
+                          icd9pcs_codes = tmp[tmp$type=="icd9pcs",]$code,
+                          icd10pcs_codes = tmp[tmp$type=="icd10pcs",]$code,
+                          rx_codes = tmp[tmp$type=="ndc",]$code)
   }
 
   return(out_list)
@@ -114,6 +121,17 @@ avail_rx_codes <- function(description = TRUE){
   out <- stringr::str_remove(stringr::str_remove(out,".csv"),"rx_")
 
   return(out)
+
+}
+
+#' Load diagnosis codes for particular symptoms
+#'
+#' Return the sets of codes used to identify a particular symptoms
+#'
+#' @param symptoms_names a vector of project names to get codes for
+#'
+#' @export
+load_symptom_codes <- function(symptom_names){
 
 }
 
