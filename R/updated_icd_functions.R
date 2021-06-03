@@ -11,6 +11,10 @@
 #'
 #' @export
 children_safe <- function(icd_codes){
+
+  if (is.null(icd_codes)){
+    return("")
+  }
   tmp <- children(icd_codes)
 
   unique(c(tmp,icd_codes))

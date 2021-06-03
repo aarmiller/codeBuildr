@@ -9,6 +9,10 @@ cf,Cystic Fibrosis
 cocci,Coccidioidomycosis
 covid,COVID-19
 dengue,Dengue Fever
+diabetes_gest,Gestational Diabetes
+diabetes_sec,
+diabetes_type1,
+diabetes_type2,
 endocarditis,Endocarditis
 histo,Histoplasmosis
 hsv_enceph,Herpes Simplex Virus Encephalitis

@@ -40,3 +40,19 @@ get_ndc_from_terms <- function(terms,return_all=FALSE,
 
   return(ndc_out)
 }
+
+
+#' Get Entire Redbook
+#'
+#' `load_redbook` returns the redbook file as a tibble
+#'
+#' @param redbook_path The path to the redbook file.
+#'
+#' @export
+load_redbook <- function(redbook_path = "~/Data/redbook.csv"){
+
+  redbook <- readr::read_csv(redbook_path,
+                             col_types = readr::cols())
+
+  return(redbook)
+}
