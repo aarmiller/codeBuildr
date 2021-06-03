@@ -50,6 +50,51 @@ build_code_sets <- function(){
   }
 
   readr::write_csv(desc_file, file = "inst/extdata/disease_list.csv")
+
+  # write symptom codes
+
+  # get file names
+  symp_files <- list.files(path = "R/symptom_codes/")
+
+  # description file
+  desc_file <- tibble::tibble(name = character(),
+                              description = character())
+
+  # for each disease build code set
+  for (i in symp_files){
+
+    source(paste0("R/symptom_codes/",i),local = TRUE)
+
+    symp_name <- stringr::str_remove(i,".R")
+
+    tmp <- rbind(tibble::tibble(code = icd9_codes,
+                                type = "icd9"),
+                 tibble::tibble(code = icd10_codes,
+                                type = "icd10"),
+                 tibble::tibble(code = as.character(pr_codes_icd9),
+                                type = "icd9pcs"),
+                 tibble::tibble(code = as.character(pr_codes_icd10),
+                                type = "icd10pcs"),
+                 tibble::tibble(code = as.character(pr_codes_cpt),
+                                type = "cpt"),
+                 tibble::tibble(code = as.character(rx_codes),
+                                type = "ndc"))
+
+    readr::write_csv(tmp, file = paste0("inst/extdata/symp_",symp_name,
+                                        ".csv"))
+
+    tmp_row <- tibble::tibble(name = stringr::str_remove(i,".R"),
+                              description = desc)
+
+    desc_file <- rbind(desc_file,tmp_row)
+
+    rm(desc, icd9_codes, icd10_codes, pr_codes_icd9, pr_codes_icd10,
+       pr_codes_cpt, rx_codes)
+
+  }
+
+  readr::write_csv(desc_file, file = "inst/extdata/symptom_list.csv")
+
 }
 
 #' Build condition files

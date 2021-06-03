@@ -3,6 +3,8 @@ ami,Acute Myocardial Infarction
 append,Appendicitis
 asthma,Asthma
 blasto,Blastomycosis
+bronchitis_acute,Acute Bronchitis
+bronchitis_chronic,Chronic Bronchitis
 cdi,Clostridioides difficile Infection
 cf_carrier,Cystic Fibrosis Carrier
 cf,Cystic Fibrosis

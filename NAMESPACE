@@ -3,6 +3,7 @@
 export("%>%")
 export(avail_disease_codes)
 export(avail_rx_codes)
+export(avail_symptom_codes)
 export(children_safe)
 export(explain_ccs)
 export(find_ccs)

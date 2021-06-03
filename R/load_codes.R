@@ -135,3 +135,27 @@ load_symptom_codes <- function(symptom_names){
 
 }
 
+
+
+#' Return available symptom code sets
+#'
+#' Return the names and descriptions of the available symptom code sets
+#'
+#' @param description a logical indicator for whether to return descriptions
+#'
+#' @export
+avail_symptom_codes <- function(description = TRUE){
+
+  out <- readr::read_csv(system.file("extdata","symptom_list.csv",package = "codeBuildr"),
+                         col_types = readr::cols(name = readr::col_character(),
+                                                 description = readr::col_character()
+                         ))
+
+  if (description == FALSE) {
+    out <- out$name
+  }
+
+  return(out)
+
+}
+
