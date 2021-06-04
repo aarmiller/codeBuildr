@@ -7,7 +7,7 @@
 load_symptom_codes(symptom_names)
 }
 \arguments{
-\item{symptoms_names}{a vector of project names to get codes for}
+\item{symptom_names}{a vector of project names to get codes for}
 }
 \description{
 Return the sets of codes used to identify a particular symptoms

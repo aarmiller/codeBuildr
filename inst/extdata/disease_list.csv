@@ -1,24 +1,44 @@
 name,description
 ami,Acute Myocardial Infarction
 append,Appendicitis
+ascities,Ascites
+aspergillosis,Aspergillosis associated disease
 asthma,Asthma
 blasto,Blastomycosis
+bronchiectasis,Bronchiectasis
 bronchitis_acute,Acute Bronchitis
 bronchitis_chronic,Chronic Bronchitis
 cdi,Clostridioides difficile Infection
 cf_carrier,Cystic Fibrosis Carrier
 cf,Cystic Fibrosis
+cholelithiasis,Cholelithiasis
+cirrhosis,Cirrhosis
+clubbing,Hypertrophic osteoarthropathy/clubbing
 cocci,Coccidioidomycosis
 covid,COVID-19
+cystic_lung,Congenital cystic lung
 dengue,Dengue Fever
 diabetes_gest,Gestational Diabetes
 diabetes_sec,
 diabetes_type1,
 diabetes_type2,
 endocarditis,Endocarditis
+esophagitis,Esophagitis
+failure_to_thrive_adult,Cachexia and Adult Failure to thrive
+failure_to_thrive_child,Failure to thrive (child)
+gerd,Gastroesophageal reflux disease (GERD)
+hepatitis_chronic,Chronic Hepatitis
 histo,Histoplasmosis
 hsv_enceph,Herpes Simplex Virus Encephalitis
+infertility_male,Male infertility
+intestinal_atresia,Intestinal atresia
+intestinal_malabsorption,Intestinal Malabsorption
+intestinal_obstruction,Intestinal obstruction
 malaria,Malaria
+meconium_ileus,Meconium obstruction in fetus or newborn
+meconium_peritonitis,Meconium peritonitis
+mycobact,Nontuberculous Mycobacterial Infection
+nasal_polyps,Nasal Polyposis
 nontb_myco,Nontuberculous Mycobacteria
 pancreatitis_acute,Acute Pancreatitis
 pancreatitis_chronic,Chronic Pancreatitis
@@ -27,3 +47,4 @@ pd,Parkinson's Disease
 pertussis,Pertussis
 spine_abs,Spinal Abscess
 tb,Tuberculosis
+unspec_upper_resp,Upper Respiratory Infection-Unspecified

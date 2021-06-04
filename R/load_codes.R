@@ -128,10 +128,58 @@ avail_rx_codes <- function(description = TRUE){
 #'
 #' Return the sets of codes used to identify a particular symptoms
 #'
-#' @param symptoms_names a vector of project names to get codes for
+#' @param symptom_names a vector of project names to get codes for
 #'
 #' @export
 load_symptom_codes <- function(symptom_names){
+
+
+  # get_descriptions
+  descriptions <- avail_disease_codes()
+
+  # if single code return a single list
+  if (length(symptom_names)==1){
+
+    # load code
+    tmp <- readr::read_csv(system.file("extdata",
+                                       paste0("symp_",symptom_names,".csv"),
+                                       package = "codeBuildr"),
+                           col_types = readr::cols(code = readr::col_character(),
+                                                   type = readr::col_character())
+    )
+
+
+    return(list(desc = descriptions[descriptions$name==symptom_names,]$description,
+                icd9_codes = tmp[tmp$type=="icd9",]$code,
+                icd10_codes = tmp[tmp$type=="icd10",]$code,
+                icd9pcs_codes = tmp[tmp$type=="icd9pcs",]$code,
+                icd10pcs_codes = tmp[tmp$type=="icd10pcs",]$code,
+                rx_codes = tmp[tmp$type=="ndc",]$code
+    ))
+  }
+
+  # otherwise return named sublists
+  out_list <- list()
+
+  for (i in symptom_names){
+
+    # load code
+    tmp <- readr::read_csv(system.file("extdata",
+                                       paste0("symp_",i,".csv"),
+                                       package = "codeBuildr"),
+                           col_types = readr::cols(code = readr::col_character(),
+                                                   type = readr::col_character())
+    )
+
+    out_list[[i]] <- list(desc = descriptions[descriptions$name==i,]$description,
+                          icd9_codes = tmp[tmp$type=="icd9",]$code,
+                          icd10_codes = tmp[tmp$type=="icd10",]$code,
+                          icd9pcs_codes = tmp[tmp$type=="icd9pcs",]$code,
+                          icd10pcs_codes = tmp[tmp$type=="icd10pcs",]$code,
+                          rx_codes = tmp[tmp$type=="ndc",]$code)
+  }
+
+  return(out_list)
 
 }
 
