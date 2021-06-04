@@ -1,14 +1,27 @@
 name,description
 abdominal_pain,Abdominal pain
+chest_pain,Chest Pain
+chills,Chills
 constipation,Constipation
+cough,Cough
 dehydration,Dehydration
 diarrhea,Diarrhea
+dyspnea,Dyspnea
 fecal_impaction,Fecal impaction
 feeding_difficulties,Feeding difficulties and mismanagement
+fever,Fever
 fluid_electrolyte,Fluid and electrolyte disorders
+headache,Headache
+heart_murmur,Heart Murmur
 hemoptysis,Hemoptysis
 jaundice_neonatal,Neonatal jaundice
 jaundice,Jaundice (not of newborn)
 liver_enzyme,Abnormal liver serum enzyme levels
 loss_smell_taste,Loss of Sense of Smell and Taste
+malaise_fatigue,Malaise and Fatigue
+muscle_weakness,Muscle Weakness
 nausea_vomitting,Nausea or Vomiting
+night_sweats,Night Sweats
+pain_unspec,Pain Unspecified
+swelling_abdom,Abdominal Swelling
+swelling_limb,Swelling of Limb
