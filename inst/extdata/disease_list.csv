@@ -4,6 +4,8 @@ append,Appendicitis
 ascities,Ascites
 aspergillosis,Aspergillosis associated disease
 asthma,Asthma
+babesiosis,Babesiosis
+bladder_cancer,Bladder Cancer
 blasto,Blastomycosis
 bronchiectasis,Bronchiectasis
 bronchitis_acute,Acute Bronchitis
@@ -16,35 +18,80 @@ cirrhosis,Cirrhosis
 clubbing,Hypertrophic osteoarthropathy/clubbing
 cocci,Coccidioidomycosis
 covid,COVID-19
+cryptococ,Cryptococcosis
+cryptospor,Cryptosporidiosis
+cvid,Common Variable Immunodeficiency
 cystic_lung,Congenital cystic lung
 dengue,Dengue Fever
 diabetes_gest,Gestational Diabetes
 diabetes_sec,
 diabetes_type1,
 diabetes_type2,
+echino,Echinococcosis
+ehrlic,Ehrlichiosis
 endocarditis,Endocarditis
+epidural_abs,Epidural Abscess
 esophagitis,Esophagitis
 failure_to_thrive_adult,Cachexia and Adult Failure to thrive
 failure_to_thrive_child,Failure to thrive (child)
+fourniers,Fournier's Gangrene
 gerd,Gastroesophageal reflux disease (GERD)
+hanta,Hantavirus
 hepatitis_chronic,Chronic Hepatitis
 histo,Histoplasmosis
+hiv,HIV infection
 hsv_enceph,Herpes Simplex Virus Encephalitis
 infertility_male,Male infertility
 intestinal_atresia,Intestinal atresia
 intestinal_malabsorption,Intestinal Malabsorption
 intestinal_obstruction,Intestinal obstruction
+lack_of_development,Lack of Expected Normal Development
+legion,Legionellosis
+lepto,Leptospirosis
+liver_abs,Liver Abscess
+lyme,Lyme Disease
 malaria,Malaria
+measles,Measles
 meconium_ileus,Meconium obstruction in fetus or newborn
 meconium_peritonitis,Meconium peritonitis
+meningitis,Meningitis
 mycobact,Nontuberculous Mycobacterial Infection
 nasal_polyps,Nasal Polyposis
+nec_fasc,Necrotizing Faciitis
+nephrolithiasis,Nephrolithiasis
 nontb_myco,Nontuberculous Mycobacteria
+opioid_overdose,Opioid Overdose
+osteopenia,Osteopenia
+osteoporosis,Osteoporosis
+pancreatic_cysts,Cyst/pseudocyst of pancreas
+pancreatic_other,Other Pancreatic Disorders
+pancreatic_steatorrhea,Pancreatic Steatorrhea
 pancreatitis_acute,Acute Pancreatitis
 pancreatitis_chronic,Chronic Pancreatitis
 pancreatitis,Pancreatitis
+pcp,Pneumocystic Pneumonia
 pd,Parkinson's Disease
+pe,Pulmonary Embolism
 pertussis,Pertussis
+phar_cancer,Pharyngeal Cancer
+pneumonia_congenital,Congenital pneumonia
+pneumonia_recurrent,Personal history of recurrent pneumonia
+pneumonia,Pneumonia
+pseudomonas,Pseudomonas Infections
+q_fever,Q Fever
+resp_failure_newborn,Respiratory Failure of Newborn
+resp_failure,Respiratory Failure
+sarcoid,Sarcoidosis
+scoliosis,Scoliosis
+sepsis,Sepsis
+short_stature,Short stature
+sinusitis_acute,Acute Sinusitis
+sinusitis_chronic,Chronic Sinusitis
 spine_abs,Spinal Abscess
+stroke,Stroke
+syphilis,Syphilis
 tb,Tuberculosis
+toxo,Toxoplasmosis
 unspec_upper_resp,Upper Respiratory Infection-Unspecified
+venous_thromboembolism,Venous thromboembolism
+vert_osteo,Vertebral Osteomyelitis
