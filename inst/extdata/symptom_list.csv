@@ -6,6 +6,7 @@ constipation,Constipation
 cough,Cough
 dehydration,Dehydration
 diarrhea,Diarrhea
+disturbance_of_skin,Disturbance of Skin
 dyspnea,Dyspnea
 fecal_impaction,Fecal impaction
 feeding_difficulties,Feeding difficulties and mismanagement
@@ -25,5 +26,7 @@ night_sweats,Night Sweats
 obesity_morbid,Morbid Obesity
 obesity,Obesity
 pain_unspec,Pain Unspecified
+paralysis,Paralysis
 swelling_abdom,Abdominal Swelling
 swelling_limb,Swelling of Limb
+urinary_retention,Urinary Retention
