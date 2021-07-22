@@ -207,3 +207,30 @@ avail_symptom_codes <- function(description = TRUE){
 
 }
 
+
+#' Load diagnosis codes for for a set of ccs codes
+#'
+#' Return the sets of codes that correspond to particular CCS codes. This function
+#' loads the icd-9 and icd-10 codes in the dx code list format along with the
+#' description of the ccs category
+#'
+#' @param symptom_names a vector of project names to get codes for
+#'
+#' @export
+load_ccs_codes <- function(ccs_codes){
+  
+  return_ccs_dx_list <- function(ccs_code){
+    
+    list(desc = explain_ccs(ccs_code)$ccs_category,
+         icd9_codes = get_icd_from_ccs(c(ccs_code)),
+         icd10_codes = get_icd_from_ccs(ccs_code,icd_version = 10))
+  }
+  
+  out <- lapply(ccs_codes,return_ccs_dx_list)
+  
+  names(out) <- paste0("ccs_",ccs_codes)
+  
+  return(out)
+  
+}
+
