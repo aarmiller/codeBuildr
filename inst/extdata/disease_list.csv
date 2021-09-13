@@ -56,6 +56,8 @@ measles,Measles
 meconium_ileus,Meconium obstruction in fetus or newborn
 meconium_peritonitis,Meconium peritonitis
 meningitis,Meningitis
+mrsa_other,Methicillin Resistant Staphylococcus Aureus Colonization/Carrier or History
+mrsa,Methicillin Resistant Staphylococcus Aureus
 mycobact,Nontuberculous Mycobacterial Infection
 nasal_polyps,Nasal Polyposis
 nec_fasc,Necrotizing Faciitis
