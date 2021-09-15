@@ -21,6 +21,7 @@ cocci,Coccidioidomycosis
 covid,COVID-19
 cryptococ,Cryptococcosis
 cryptospor,Cryptosporidiosis
+crystal_arthropathies,Other Crystal Arthropathies
 cvid,Common Variable Immunodeficiency
 cystic_lung,Congenital cystic lung
 dengue,Dengue Fever
@@ -37,6 +38,7 @@ failure_to_thrive_adult,Cachexia and Adult Failure to thrive
 failure_to_thrive_child,Failure to thrive (child)
 fourniers,Fournier's Gangrene
 gerd,Gastroesophageal reflux disease (GERD)
+gout,Gout
 hanta,Hantavirus
 hepatitis_chronic,Chronic Hepatitis
 histo,Histoplasmosis
@@ -50,6 +52,7 @@ lack_of_development,Lack of Expected Normal Development
 legion,Legionellosis
 lepto,Leptospirosis
 liver_abs,Liver Abscess
+lupus,Lupus
 lyme,Lyme Disease
 malaria,Malaria
 measles,Measles
@@ -80,22 +83,29 @@ phar_cancer,Pharyngeal Cancer
 pneumonia_congenital,Congenital pneumonia
 pneumonia_recurrent,Personal history of recurrent pneumonia
 pneumonia,Pneumonia
+postinfective_arthropathies,Postinfective and reactive arthropathies
+pseudomonas_pneumonia,Pseudomonas Pneumonia
 pseudomonas,Pseudomonas Infections
+pyoderma_gangrenosum,Pyoderma gangrenosum
 q_fever,Q Fever
 resp_failure_newborn,Respiratory Failure of Newborn
 resp_failure,Respiratory Failure
+rheumatoid_arthritis,Rheumatoid arthritis 
 sarcoid,Sarcoidosis
 scoliosis,Scoliosis
 sepsis,Sepsis
 short_stature,Short stature
 sinusitis_acute,Acute Sinusitis
 sinusitis_chronic,Chronic Sinusitis
+skin_ulcers_chronic,Chronic skin ulcers
 spine_abs,Spinal Abscess
 sporotrichosis,Sporotrichosis
 stroke,Stroke
+sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
 tb,Tuberculosis
 toxo,Toxoplasmosis
 unspec_upper_resp,Upper Respiratory Infection-Unspecified
+vasculitis_skin,Vasculitis of the Skin
 venous_thromboembolism,Venous thromboembolism
 vert_osteo,Vertebral Osteomyelitis
