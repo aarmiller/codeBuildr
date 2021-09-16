@@ -75,6 +75,8 @@ pancreatic_steatorrhea,Pancreatic Steatorrhea
 pancreatitis_acute,Acute Pancreatitis
 pancreatitis_chronic,Chronic Pancreatitis
 pancreatitis,Pancreatitis
+pansinusitis_acute,Acute pansinusitis
+pansinusitis_chronic,Chronic pansinusitis
 pcp,Pneumocystic Pneumonia
 pd,Parkinson's Disease
 pe,Pulmonary Embolism
@@ -95,7 +97,19 @@ sarcoid,Sarcoidosis
 scoliosis,Scoliosis
 sepsis,Sepsis
 short_stature,Short stature
+sinusitis_acute_ethmoidal,Acute ethmoidal sinusitis
+sinusitis_acute_frontal,Acute frontal sinusitis
+sinusitis_acute_maxillary,Acute maxillary sinusitis
+sinusitis_acute_other,Other acute sinusitis
+sinusitis_acute_sphenoidal,Acute sphenoidal sinusitis
+sinusitis_acute_unspecified,"Acute sinusitis, unspecified"
 sinusitis_acute,Acute Sinusitis
+sinusitis_chronic_ethmoidal,Chronic ethmoidal sinusitis
+sinusitis_chronic_frontal,Chronic frontal sinusitis
+sinusitis_chronic_maxillary,Chronic maxillary sinusitis
+sinusitis_chronic_other,Other chronic sinusitis
+sinusitis_chronic_sphenoidal,Chronic sphenoidal sinusitis
+sinusitis_chronic_unspecified,Unspecified sinusitis chronic
 sinusitis_chronic,Chronic Sinusitis
 skin_ulcers_chronic,Chronic skin ulcers
 spine_abs,Spinal Abscess
