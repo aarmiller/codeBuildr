@@ -19,6 +19,7 @@ cirrhosis,Cirrhosis
 clubbing,Hypertrophic osteoarthropathy/clubbing
 cocci,Coccidioidomycosis
 covid,COVID-19
+crohns,Crohn's disease
 cryptococ,Cryptococcosis
 cryptospor,Cryptosporidiosis
 crystal_arthropathies,Other Crystal Arthropathies
@@ -119,6 +120,7 @@ sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
 tb,Tuberculosis
 toxo,Toxoplasmosis
+ulcerative_colitis,Ulcerative colitis
 unspec_upper_resp,Upper Respiratory Infection-Unspecified
 vasculitis_skin,Vasculitis of the Skin
 venous_thromboembolism,Venous thromboembolism
