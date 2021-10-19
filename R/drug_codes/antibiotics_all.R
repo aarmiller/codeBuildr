@@ -60,6 +60,35 @@ all_abx <- ndc_codes %>%
 
 write_csv(all_abx,"inst/extdata/rx_all_abx.csv")
 
+## Expanded 10/19/21 -------------
+
+
+abx_old <- read_csv("inst/extdata/rx_all_abx.csv")
+
+# add in the ones sent to Phil and Fellow in August
+abx_add <- read_csv("~/Data/ndc/antibiotic_anti_infective_codes.csv")
+
+abx_add <- select(abx_add,ndc_code=ndcnum) %>% distinct()
+
+new_codes1 <- abx_add %>% 
+  anti_join(abx_old)
+
+
+new_abx <- rbind(abx_old,
+                 tibble(group="uncategorized",
+                        ndc_code = new_codes1$ndc_code))
+
+write_csv(new_abx,"inst/extdata/rx_all_abx.csv")
+
+# distinct(abx_old,ndc_code) # 27,224
+# distinct(new_abx,ndc_code) # 30,659
+
+# codeBuildr::avail_rx_codes()
+# codeBuildr::load_rx_codes("all_abx") %>% 
+#   unlist(use.names = F) %>% 
+#   unique() %>% 
+#   length()
+
 #
 # write_csv(antibiotic_drug_codes,"data/all_abx_codes.csv")
 #
