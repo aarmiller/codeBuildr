@@ -84,9 +84,9 @@ write_csv(new_abx,"inst/extdata/rx_all_abx.csv")
 # distinct(new_abx,ndc_code) # 30,659
 
 # codeBuildr::avail_rx_codes()
-# codeBuildr::load_rx_codes("all_abx") %>% 
-#   unlist(use.names = F) %>% 
-#   unique() %>% 
+# codeBuildr::load_rx_codes("all_abx") %>%
+#   unlist(use.names = F) %>%
+#   unique() %>%
 #   length()
 
 #
