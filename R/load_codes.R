@@ -15,27 +15,6 @@ load_disease_codes <- function(project_names){
   # get_descriptions
   descriptions <- avail_disease_codes()
 
-  # if single code return a single list
-  if (length(project_names)==1){
-
-    # load code
-    tmp <- readr::read_csv(system.file("extdata",
-                                       paste0("diag_",project_names,".csv"),
-                                       package = "codeBuildr"),
-                           col_types = readr::cols(code = readr::col_character(),
-                                                   type = readr::col_character())
-                           )
-
-
-    return(list(desc = descriptions[descriptions$name==project_names,]$description,
-                icd9_codes = tmp[tmp$type=="icd9",]$code,
-                icd10_codes = tmp[tmp$type=="icd10",]$code,
-                icd9pcs_codes = tmp[tmp$type=="icd9pcs",]$code,
-                icd10pcs_codes = tmp[tmp$type=="icd10pcs",]$code,
-                rx_codes = tmp[tmp$type=="ndc",]$code
-                ))
-  }
-
   # otherwise return named sublists
   out_list <- list()
 
