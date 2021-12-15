@@ -89,6 +89,8 @@ pe,Pulmonary Embolism
 pertussis,Pertussis
 phar_cancer,Pharyngeal Cancer
 pneumonia_congenital,Congenital pneumonia
+pneumonia_gn,Pneumonia due to other gram-negative bacteria
+pneumonia_mrsa,Methicillin resistant pneumonia due to Staphylococcus aureus
 pneumonia_recurrent,Personal history of recurrent pneumonia
 pneumonia,Pneumonia
 postinfective_arthropathies,Postinfective and reactive arthropathies
