@@ -11,6 +11,8 @@ bronchiectasis,Bronchiectasis
 bronchitis_acute,Acute Bronchitis
 bronchitis_chronic,Chronic Bronchitis
 cdi,Clostridioides difficile Infection
+cerebellar_stroke,Cerebellar Stroke
+cervical_dissection,Cervical and Cerebral Artery Dissection
 cf_carrier,Cystic Fibrosis Carrier
 cf,Cystic Fibrosis
 cftr,CFTR Mutation (CF or CF Carrier)
@@ -24,6 +26,7 @@ cryptococ,Cryptococcosis
 cryptospor,Cryptosporidiosis
 crystal_arthropathies,Other Crystal Arthropathies
 cvid,Common Variable Immunodeficiency
+cvst,Cerebral Venous Sinus Thrombosis
 cystic_lung,Congenital cystic lung
 dengue,Dengue Fever
 diabetes_gest,Gestational Diabetes
@@ -57,6 +60,7 @@ lack_of_development,Lack of Expected Normal Development
 legion,Legionellosis
 lepto,Leptospirosis
 liver_abs,Liver Abscess
+long_covid,"Post COVID-19 condition, unspecified"
 lupus,Lupus
 lyme,Lyme Disease
 malaria,Malaria
