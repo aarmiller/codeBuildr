@@ -16,6 +16,8 @@ cervical_dissection,Cervical and Cerebral Artery Dissection
 cf_carrier,Cystic Fibrosis Carrier
 cf,Cystic Fibrosis
 cftr,CFTR Mutation (CF or CF Carrier)
+chancroid,Chancroid
+chlamydia,Clamydia
 cholelithiasis,Cholelithiasis
 cirrhosis,Cirrhosis
 clubbing,Hypertrophic osteoarthropathy/clubbing
@@ -42,12 +44,16 @@ failure_to_thrive_adult,Cachexia and Adult Failure to thrive
 failure_to_thrive_child,Failure to thrive (child)
 fourniers_reduced,Fournier's Final Codes (Updated 12/9/21)
 fourniers,Fournier's Gangrene
+genital_herpes,Genital Herpes
 gerd,Gastroesophageal reflux disease (GERD)
+gonorrhea,Gonorrhea
 gout,Gout
+granuloma_inguinale,Granuloma inguinale
 hanta,Hantavirus
 hepatitis_chronic,Chronic Hepatitis
 histo,Histoplasmosis
 hiv,HIV infection
+hpv,Human papillomavirus
 hsv_enceph,Herpes Simplex Virus Encephalitis
 hypersensitivity_pneumonitis,Hypersensitivity Pneumonitis
 infertility_male,Male infertility
@@ -103,6 +109,7 @@ pseudomonas_pneumonia,Pseudomonas Pneumonia
 pseudomonas,Pseudomonas Infections
 pyoderma_gangrenosum,Pyoderma gangrenosum
 q_fever,Q Fever
+reiters,Reiter's disease
 resp_failure_newborn,Respiratory Failure of Newborn
 resp_failure,Respiratory Failure
 rheumatoid_arthritis,Rheumatoid arthritis 
@@ -133,9 +140,11 @@ sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
 tb,Tuberculosis
 toxo,Toxoplasmosis
+trichomoniasis,Trichomoniasis
 tularemia,Tularemia
 ulcerative_colitis,Ulcerative colitis
 unspec_upper_resp,Upper Respiratory Infection-Unspecified
+unspecified_sti,Unspecified STI
 vasculitis_skin,Vasculitis of the Skin
 venous_thromboembolism,Venous thromboembolism
 vert_osteo,Vertebral Osteomyelitis
