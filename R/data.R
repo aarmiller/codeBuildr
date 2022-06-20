@@ -118,3 +118,13 @@
 #' }
 #' @source Version: 2015 \url{https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp}
 "ccs_labels"
+
+#' AHRQ Elixhauser Comorbidity Score Indicators for ICD-10 Codes
+#'
+#' A dataset containing corrected indicator lists of ICD-10 codes for each comorbidity.
+#' Codes were taken from software lists from 2016-2022. Details of construction
+#' can be found in the comorbidity repository.
+#'
+#' @format A list with 30 vectors named for each
+#' @source \url{https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp#overview}
+"icd10_map_ahrq_corrected"

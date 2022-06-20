@@ -1,5 +1,14 @@
 
 
+# New ICD-10 comorbidity list
+icd10_map_ahrq_corrected <- read_csv("../comorbidity/data/new_icd10_elix_ahrq_set.csv") %>% 
+  group_by(name) %>% 
+  nest() %>%
+  mutate(data=map(data,~.$code)) %>% 
+  deframe()
+usethis::use_data(icd10_map_ahrq_corrected,name = icd10_map_ahrq_corrected)
+
+
 # load nber diagnosis crosswalk
 icd10cm_to_9 <- read_csv("https://data.nber.org/gem/icd10cmtoicd9gem.csv")
 usethis::use_data(icd10cm_to_9,name = icd10cm_to_9)
