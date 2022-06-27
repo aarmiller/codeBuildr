@@ -128,3 +128,19 @@
 #' @format A list with 30 vectors named for each
 #' @source \url{https://www.hcup-us.ahrq.gov/toolssoftware/comorbidityicd10/comorbidity_icd10.jsp#overview}
 "icd10_map_ahrq_corrected"
+
+#' ICD10 Labels
+#'
+#' A dataset containing ICD-10-CM codes along with short and long descriptions. This
+#' dataset was created from the base data inside the icd package from `icd::icd10cm2019`
+#' and appended with CMS order labels from 2017-2022
+#'
+#' @format A data frame with 95,711 rows and 4 variables:
+#' \describe{
+#'   \item{code}{ICD-10-CM code}
+#'   \item{billable}{Indicator if the code is a billable code}
+#'   \item{short_desc}{Short code description}
+#'   \item{long_desc}{Long code description}
+#' }
+#' @source \url{https://www.cms.gov/medicare/icd-10/2022-icd-10-cm}
+"icd10cm_labels"
