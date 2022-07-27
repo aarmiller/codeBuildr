@@ -78,6 +78,7 @@ icd10cm2019 %>%
   anti_join(all_codes) %>% 
   inner_join(icd10cm2019) 
 
+tmp <- icd10cm2019 %>% filter(str_detect(short_desc, "heat"))
 
 add_2018 <- icd10cm2018 %>% 
   distinct(code) %>% 
