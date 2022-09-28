@@ -9,13 +9,14 @@ desc <- "Meningitis"
 
 icd9_codes <- c(as.character(children_safe(c("00321","0270","0360","0361","320"))),
                 icd::icd9cm_hierarchy %>% 
-                  filter(str_detect(long_desc,"meningitis")) %>% 
+                  as_tibble() %>% 
+                  filter(str_detect(tolower(long_desc),"meningitis"))  %>% 
                   .$code) %>% unique()
 
 
 icd10_codes <- c(as.character(children_safe(c("G00","G03","A87"))),
                  codeBuildr::icd10cm_labels %>% 
-                   filter(str_detect(long_desc,"meningitis")) %>% 
+                   filter(str_detect(tolower(long_desc),"meningitis")) %>% 
                    .$code) %>% unique()
 
 # Procedure codes:
