@@ -40,3 +40,41 @@ describe_icd10 <- function(icd_codes,return_short = FALSE){
   }
   
 }
+
+
+#' Get 10 Child codes 
+#'
+#' Returns the set of child codes corresponding to a given set of ICD 10 codes. 
+#' This updates the children function from the ICD package to use the most recent
+#' library of ICD codes.
+#'
+#' @param icd_codes a vector of icd codes to get children for
+#'
+#' @export
+children10 <- function(icd_10_codes,only_code=TRUE){
+  
+  if (is.null(icd_10_codes)){
+    return("")
+  } else if (length(icd_10_codes)==1){
+    
+    tmp <- codeBuildr::icd10cm_labels %>% 
+      dplyr::filter(stringr::str_starts(code,icd_10_codes))
+    
+  } else {
+    
+    tmp <- tibble::tibble(parent = icd_10_codes) %>% 
+      dplyr::mutate(children = purrr::map(parent,~dplyr::filter(codeBuildr::icd10cm_labels,
+                                           stringr::str_starts(code,.)))) %>% 
+      tidyr::unnest(children)
+    
+  }
+    
+  if (only_code) {
+    return(unique(tmp$code))
+  } 
+  
+  dplyr::distinct(tmp)
+}
+
+
+

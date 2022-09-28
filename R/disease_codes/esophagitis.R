@@ -3,13 +3,13 @@
 
 # Description:
 
-desc <- "Esophagitis"
+desc <- "Eosinophilic Esophagitis"
 
 # Diagnosis codes:
 
-icd9_codes <- as.character(children_safe(c("78791")))
+icd9_codes <- as.character(children_safe(c("53013")))
 
-icd10_codes <- as.character(children_safe(c("R197")))
+icd10_codes <- as.character(children_safe(c("K200")))
 
 # Procedure codes:
 

@@ -3,13 +3,14 @@
     
 # Description:
     
-desc <- ""
+desc <- "Secondary Diabetes"
     
 # Diagnosis codes:
     
-icd9_codes <- as.character(children_safe(c()))
-    
-icd10_codes <- as.character(children_safe(c()))
+icd9_codes <- as.character(children_safe(c("249")))
+
+# Note: need to double check this one
+icd10_codes <- as.character(children_safe(c("249"))) %>% icd9_to_icd10() %>% unique()
     
 # Procedure codes:
     

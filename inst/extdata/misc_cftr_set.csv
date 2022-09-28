@@ -1,0 +1,1828 @@
+desc,icd_code,icd_ver
+Abdominal pain,7890,9
+Abdominal pain,78900,9
+Abdominal pain,78901,9
+Abdominal pain,78902,9
+Abdominal pain,78903,9
+Abdominal pain,78904,9
+Abdominal pain,78905,9
+Abdominal pain,78906,9
+Abdominal pain,78907,9
+Abdominal pain,78909,9
+Abdominal pain,R10,10
+Abdominal pain,R100,10
+Abdominal pain,R101,10
+Abdominal pain,R1010,10
+Abdominal pain,R1011,10
+Abdominal pain,R1012,10
+Abdominal pain,R1013,10
+Abdominal pain,R102,10
+Abdominal pain,R103,10
+Abdominal pain,R1030,10
+Abdominal pain,R1031,10
+Abdominal pain,R1032,10
+Abdominal pain,R1033,10
+Abdominal pain,R108,10
+Abdominal pain,R1081,10
+Abdominal pain,R10811,10
+Abdominal pain,R10812,10
+Abdominal pain,R10813,10
+Abdominal pain,R10814,10
+Abdominal pain,R10815,10
+Abdominal pain,R10816,10
+Abdominal pain,R10817,10
+Abdominal pain,R10819,10
+Abdominal pain,R1082,10
+Abdominal pain,R10821,10
+Abdominal pain,R10822,10
+Abdominal pain,R10823,10
+Abdominal pain,R10824,10
+Abdominal pain,R10825,10
+Abdominal pain,R10826,10
+Abdominal pain,R10827,10
+Abdominal pain,R10829,10
+Abdominal pain,R1083,10
+Abdominal pain,R1084,10
+Abdominal pain,R109,10
+Abnormal liver serum enzyme levels,7905,9
+Abnormal liver serum enzyme levels,R748,10
+Acute Bronchitis,466,9
+Acute Bronchitis,4660,9
+Acute Bronchitis,4661,9
+Acute Bronchitis,46611,9
+Acute Bronchitis,46619,9
+Acute Bronchitis,J20,10
+Acute Bronchitis,J200,10
+Acute Bronchitis,J201,10
+Acute Bronchitis,J202,10
+Acute Bronchitis,J203,10
+Acute Bronchitis,J204,10
+Acute Bronchitis,J205,10
+Acute Bronchitis,J206,10
+Acute Bronchitis,J207,10
+Acute Bronchitis,J208,10
+Acute Bronchitis,J209,10
+Acute Bronchitis,J21,10
+Acute Bronchitis,J210,10
+Acute Bronchitis,J211,10
+Acute Bronchitis,J218,10
+Acute Bronchitis,J219,10
+Acute Pancreatitis,5770,9
+Acute Pancreatitis,K85,10
+Acute Pancreatitis,K850,10
+Acute Pancreatitis,K8500,10
+Acute Pancreatitis,K8501,10
+Acute Pancreatitis,K8502,10
+Acute Pancreatitis,K851,10
+Acute Pancreatitis,K8510,10
+Acute Pancreatitis,K8511,10
+Acute Pancreatitis,K8512,10
+Acute Pancreatitis,K852,10
+Acute Pancreatitis,K8520,10
+Acute Pancreatitis,K8521,10
+Acute Pancreatitis,K8522,10
+Acute Pancreatitis,K853,10
+Acute Pancreatitis,K8530,10
+Acute Pancreatitis,K8531,10
+Acute Pancreatitis,K8532,10
+Acute Pancreatitis,K858,10
+Acute Pancreatitis,K8580,10
+Acute Pancreatitis,K8581,10
+Acute Pancreatitis,K8582,10
+Acute Pancreatitis,K859,10
+Acute Pancreatitis,K8590,10
+Acute Pancreatitis,K8591,10
+Acute Pancreatitis,K8592,10
+Acute Sinusitis,4610,9
+Acute Sinusitis,4611,9
+Acute Sinusitis,4612,9
+Acute Sinusitis,4613,9
+Acute Sinusitis,4618,9
+Acute Sinusitis,J010,10
+Acute Sinusitis,J0100,10
+Acute Sinusitis,J0101,10
+Acute Sinusitis,J011,10
+Acute Sinusitis,J0110,10
+Acute Sinusitis,J0111,10
+Acute Sinusitis,J012,10
+Acute Sinusitis,J0120,10
+Acute Sinusitis,J0121,10
+Acute Sinusitis,J013,10
+Acute Sinusitis,J0130,10
+Acute Sinusitis,J0131,10
+Acute Sinusitis,J014,10
+Acute Sinusitis,J0140,10
+Acute Sinusitis,J0141,10
+Acute Sinusitis,J018,10
+Acute Sinusitis,J0180,10
+Acute Sinusitis,J0181,10
+Ascites,7895,9
+Ascites,78951,9
+Ascites,78959,9
+Ascites,R180,10
+Ascites,R188,10
+Aspergillosis associated disease,1173,9
+Aspergillosis associated disease,4846,9
+Aspergillosis associated disease,5186,9
+Aspergillosis associated disease,B440,10
+Aspergillosis associated disease,B4481,10
+Aspergillosis associated disease,B449,10
+Asthma,49300,9
+Asthma,49301,9
+Asthma,49302,9
+Asthma,49310,9
+Asthma,49311,9
+Asthma,49312,9
+Asthma,49320,9
+Asthma,49321,9
+Asthma,49322,9
+Asthma,49381,9
+Asthma,49382,9
+Asthma,49390,9
+Asthma,49391,9
+Asthma,49392,9
+Asthma,J4520,10
+Asthma,J4521,10
+Asthma,J4522,10
+Asthma,J4530,10
+Asthma,J4531,10
+Asthma,J4532,10
+Asthma,J4540,10
+Asthma,J4541,10
+Asthma,J4542,10
+Asthma,J4550,10
+Asthma,J4551,10
+Asthma,J4552,10
+Asthma,J45901,10
+Asthma,J45902,10
+Asthma,J45909,10
+Asthma,J45990,10
+Asthma,J45991,10
+Asthma,J45998,10
+Bronchiectasis,494,9
+Bronchiectasis,4940,9
+Bronchiectasis,4941,9
+Bronchiectasis,J47,10
+Bronchiectasis,J470,10
+Bronchiectasis,J471,10
+Bronchiectasis,J479,10
+Cachexia and Adult Failure to thrive,7837,9
+Cachexia and Adult Failure to thrive,7994,9
+Cachexia and Adult Failure to thrive,R627,10
+Cachexia and Adult Failure to thrive,R64,10
+Cancer of other GI organs; peritoneum,1520,9
+Cancer of other GI organs; peritoneum,1521,9
+Cancer of other GI organs; peritoneum,1522,9
+Cancer of other GI organs; peritoneum,1523,9
+Cancer of other GI organs; peritoneum,1528,9
+Cancer of other GI organs; peritoneum,1529,9
+Cancer of other GI organs; peritoneum,1560,9
+Cancer of other GI organs; peritoneum,1561,9
+Cancer of other GI organs; peritoneum,1562,9
+Cancer of other GI organs; peritoneum,1568,9
+Cancer of other GI organs; peritoneum,1569,9
+Cancer of other GI organs; peritoneum,1580,9
+Cancer of other GI organs; peritoneum,1588,9
+Cancer of other GI organs; peritoneum,1589,9
+Cancer of other GI organs; peritoneum,1591,9
+Cancer of other GI organs; peritoneum,1598,9
+Cancer of other GI organs; peritoneum,1599,9
+Cancer of other GI organs; peritoneum,20900,9
+Cancer of other GI organs; peritoneum,20901,9
+Cancer of other GI organs; peritoneum,20902,9
+Cancer of other GI organs; peritoneum,20903,9
+Cancer of other GI organs; peritoneum,2307,9
+Cancer of other GI organs; peritoneum,2309,9
+Cancer of other GI organs; peritoneum,V1000,9
+Cancer of other GI organs; peritoneum,V1009,9
+Cancer of other GI organs; peritoneum,1520,10
+Cancer of other GI organs; peritoneum,1521,10
+Cancer of other GI organs; peritoneum,1522,10
+Cancer of other GI organs; peritoneum,1523,10
+Cancer of other GI organs; peritoneum,1528,10
+Cancer of other GI organs; peritoneum,1529,10
+Cancer of other GI organs; peritoneum,1560,10
+Cancer of other GI organs; peritoneum,1561,10
+Cancer of other GI organs; peritoneum,1562,10
+Cancer of other GI organs; peritoneum,1568,10
+Cancer of other GI organs; peritoneum,1569,10
+Cancer of other GI organs; peritoneum,1580,10
+Cancer of other GI organs; peritoneum,1588,10
+Cancer of other GI organs; peritoneum,1589,10
+Cancer of other GI organs; peritoneum,1591,10
+Cancer of other GI organs; peritoneum,1598,10
+Cancer of other GI organs; peritoneum,1599,10
+Cancer of other GI organs; peritoneum,20900,10
+Cancer of other GI organs; peritoneum,20901,10
+Cancer of other GI organs; peritoneum,20902,10
+Cancer of other GI organs; peritoneum,20903,10
+Cancer of other GI organs; peritoneum,2307,10
+Cancer of other GI organs; peritoneum,2309,10
+Cancer of other GI organs; peritoneum,7955,10
+Cancer of other GI organs; peritoneum,79551,10
+Cancer of other GI organs; peritoneum,79552,10
+Cancer of other GI organs; peritoneum,7956,10
+Cancer of other GI organs; peritoneum,79579,10
+Cancer of other GI organs; peritoneum,V010,10
+Cancer of other GI organs; peritoneum,V011,10
+Cancer of other GI organs; peritoneum,V012,10
+Cancer of other GI organs; peritoneum,V013,10
+Cancer of other GI organs; peritoneum,V014,10
+Cancer of other GI organs; peritoneum,V015,10
+Cancer of other GI organs; peritoneum,V016,10
+Cancer of other GI organs; peritoneum,V017,10
+Cancer of other GI organs; peritoneum,V0171,10
+Cancer of other GI organs; peritoneum,V0179,10
+Cancer of other GI organs; peritoneum,V018,10
+Cancer of other GI organs; peritoneum,V0181,10
+Cancer of other GI organs; peritoneum,V0182,10
+Cancer of other GI organs; peritoneum,V0183,10
+Cancer of other GI organs; peritoneum,V0184,10
+Cancer of other GI organs; peritoneum,V0189,10
+Cancer of other GI organs; peritoneum,V019,10
+Cancer of other GI organs; peritoneum,V020,10
+Cancer of other GI organs; peritoneum,V021,10
+Cancer of other GI organs; peritoneum,V022,10
+Cancer of other GI organs; peritoneum,V023,10
+Cancer of other GI organs; peritoneum,V024,10
+Cancer of other GI organs; peritoneum,V025,10
+Cancer of other GI organs; peritoneum,V0251,10
+Cancer of other GI organs; peritoneum,V0252,10
+Cancer of other GI organs; peritoneum,V0253,10
+Cancer of other GI organs; peritoneum,V0254,10
+Cancer of other GI organs; peritoneum,V0259,10
+Cancer of other GI organs; peritoneum,V026,10
+Cancer of other GI organs; peritoneum,V0260,10
+Cancer of other GI organs; peritoneum,V0261,10
+Cancer of other GI organs; peritoneum,V0262,10
+Cancer of other GI organs; peritoneum,V0269,10
+Cancer of other GI organs; peritoneum,V027,10
+Cancer of other GI organs; peritoneum,V028,10
+Cancer of other GI organs; peritoneum,V029,10
+Cancer of other GI organs; peritoneum,V030,10
+Cancer of other GI organs; peritoneum,V031,10
+Cancer of other GI organs; peritoneum,V032,10
+Cancer of other GI organs; peritoneum,V033,10
+Cancer of other GI organs; peritoneum,V034,10
+Cancer of other GI organs; peritoneum,V035,10
+Cancer of other GI organs; peritoneum,V036,10
+Cancer of other GI organs; peritoneum,V037,10
+Cancer of other GI organs; peritoneum,V038,10
+Cancer of other GI organs; peritoneum,V0381,10
+Cancer of other GI organs; peritoneum,V0382,10
+Cancer of other GI organs; peritoneum,V0389,10
+Cancer of other GI organs; peritoneum,V039,10
+Cancer of other GI organs; peritoneum,V040,10
+Cancer of other GI organs; peritoneum,V041,10
+Cancer of other GI organs; peritoneum,V042,10
+Cancer of other GI organs; peritoneum,V043,10
+Cancer of other GI organs; peritoneum,V044,10
+Cancer of other GI organs; peritoneum,V045,10
+Cancer of other GI organs; peritoneum,V046,10
+Cancer of other GI organs; peritoneum,V047,10
+Cancer of other GI organs; peritoneum,V048,10
+Cancer of other GI organs; peritoneum,V0481,10
+Cancer of other GI organs; peritoneum,V0482,10
+Cancer of other GI organs; peritoneum,V0489,10
+Cancer of other GI organs; peritoneum,V050,10
+Cancer of other GI organs; peritoneum,V051,10
+Cancer of other GI organs; peritoneum,V052,10
+Cancer of other GI organs; peritoneum,V053,10
+Cancer of other GI organs; peritoneum,V054,10
+Cancer of other GI organs; peritoneum,V058,10
+Cancer of other GI organs; peritoneum,V059,10
+Cancer of other GI organs; peritoneum,V060,10
+Cancer of other GI organs; peritoneum,V061,10
+Cancer of other GI organs; peritoneum,V062,10
+Cancer of other GI organs; peritoneum,V063,10
+Cancer of other GI organs; peritoneum,V064,10
+Cancer of other GI organs; peritoneum,V065,10
+Cancer of other GI organs; peritoneum,V066,10
+Cancer of other GI organs; peritoneum,V068,10
+Cancer of other GI organs; peritoneum,V069,10
+Cancer of other GI organs; peritoneum,V1000,10
+Cancer of other GI organs; peritoneum,V1009,10
+Cancer of other GI organs; peritoneum,V286,10
+Cancer of other GI organs; peritoneum,V712,10
+Cancer of other GI organs; peritoneum,V7182,10
+Cancer of other GI organs; peritoneum,V7183,10
+Cancer of other GI organs; peritoneum,V730,10
+Cancer of other GI organs; peritoneum,V731,10
+Cancer of other GI organs; peritoneum,V732,10
+Cancer of other GI organs; peritoneum,V733,10
+Cancer of other GI organs; peritoneum,V734,10
+Cancer of other GI organs; peritoneum,V735,10
+Cancer of other GI organs; peritoneum,V736,10
+Cancer of other GI organs; peritoneum,V738,10
+Cancer of other GI organs; peritoneum,V7381,10
+Cancer of other GI organs; peritoneum,V7388,10
+Cancer of other GI organs; peritoneum,V7389,10
+Cancer of other GI organs; peritoneum,V739,10
+Cancer of other GI organs; peritoneum,V7398,10
+Cancer of other GI organs; peritoneum,V7399,10
+Cancer of other GI organs; peritoneum,V740,10
+Cancer of other GI organs; peritoneum,V741,10
+Cancer of other GI organs; peritoneum,V742,10
+Cancer of other GI organs; peritoneum,V743,10
+Cancer of other GI organs; peritoneum,V744,10
+Cancer of other GI organs; peritoneum,V745,10
+Cancer of other GI organs; peritoneum,V746,10
+Cancer of other GI organs; peritoneum,V748,10
+Cancer of other GI organs; peritoneum,V749,10
+Cancer of other GI organs; peritoneum,V750,10
+Cancer of other GI organs; peritoneum,V751,10
+Cancer of other GI organs; peritoneum,V752,10
+Cancer of other GI organs; peritoneum,V753,10
+Cancer of other GI organs; peritoneum,V754,10
+Cancer of other GI organs; peritoneum,V755,10
+Cancer of other GI organs; peritoneum,V756,10
+Cancer of other GI organs; peritoneum,V757,10
+Cancer of other GI organs; peritoneum,V758,10
+Cancer of other GI organs; peritoneum,V759,10
+Cholelithiasis,574,9
+Cholelithiasis,5740,9
+Cholelithiasis,57400,9
+Cholelithiasis,57401,9
+Cholelithiasis,5741,9
+Cholelithiasis,57410,9
+Cholelithiasis,57411,9
+Cholelithiasis,5742,9
+Cholelithiasis,57420,9
+Cholelithiasis,57421,9
+Cholelithiasis,5743,9
+Cholelithiasis,57430,9
+Cholelithiasis,57431,9
+Cholelithiasis,5744,9
+Cholelithiasis,57440,9
+Cholelithiasis,57441,9
+Cholelithiasis,5745,9
+Cholelithiasis,57450,9
+Cholelithiasis,57451,9
+Cholelithiasis,5746,9
+Cholelithiasis,57460,9
+Cholelithiasis,57461,9
+Cholelithiasis,5747,9
+Cholelithiasis,57470,9
+Cholelithiasis,57471,9
+Cholelithiasis,5748,9
+Cholelithiasis,57480,9
+Cholelithiasis,57481,9
+Cholelithiasis,5749,9
+Cholelithiasis,57490,9
+Cholelithiasis,57491,9
+Cholelithiasis,K80,10
+Cholelithiasis,K800,10
+Cholelithiasis,K8000,10
+Cholelithiasis,K8001,10
+Cholelithiasis,K801,10
+Cholelithiasis,K8010,10
+Cholelithiasis,K8011,10
+Cholelithiasis,K8012,10
+Cholelithiasis,K8013,10
+Cholelithiasis,K8018,10
+Cholelithiasis,K8019,10
+Cholelithiasis,K802,10
+Cholelithiasis,K8020,10
+Cholelithiasis,K8021,10
+Cholelithiasis,K803,10
+Cholelithiasis,K8030,10
+Cholelithiasis,K8031,10
+Cholelithiasis,K8032,10
+Cholelithiasis,K8033,10
+Cholelithiasis,K8034,10
+Cholelithiasis,K8035,10
+Cholelithiasis,K8036,10
+Cholelithiasis,K8037,10
+Cholelithiasis,K804,10
+Cholelithiasis,K8040,10
+Cholelithiasis,K8041,10
+Cholelithiasis,K8042,10
+Cholelithiasis,K8043,10
+Cholelithiasis,K8044,10
+Cholelithiasis,K8045,10
+Cholelithiasis,K8046,10
+Cholelithiasis,K8047,10
+Cholelithiasis,K805,10
+Cholelithiasis,K8050,10
+Cholelithiasis,K8051,10
+Cholelithiasis,K806,10
+Cholelithiasis,K8060,10
+Cholelithiasis,K8061,10
+Cholelithiasis,K8062,10
+Cholelithiasis,K8063,10
+Cholelithiasis,K8064,10
+Cholelithiasis,K8065,10
+Cholelithiasis,K8066,10
+Cholelithiasis,K8067,10
+Cholelithiasis,K807,10
+Cholelithiasis,K8070,10
+Cholelithiasis,K8071,10
+Cholelithiasis,K808,10
+Cholelithiasis,K8080,10
+Cholelithiasis,K8081,10
+Chronic Bronchitis,491,9
+Chronic Bronchitis,4910,9
+Chronic Bronchitis,4911,9
+Chronic Bronchitis,4912,9
+Chronic Bronchitis,49120,9
+Chronic Bronchitis,49121,9
+Chronic Bronchitis,49122,9
+Chronic Bronchitis,4918,9
+Chronic Bronchitis,4919,9
+Chronic Bronchitis,J410,10
+Chronic Bronchitis,J411,10
+Chronic Bronchitis,J418,10
+Chronic Bronchitis,J42,10
+Chronic Bronchitis,J440,10
+Chronic Bronchitis,J441,10
+Chronic Bronchitis,J449,10
+Chronic Hepatitis,57140,9
+Chronic Hepatitis,57141,9
+Chronic Hepatitis,57149,9
+Chronic Hepatitis,K73,10
+Chronic Hepatitis,K730,10
+Chronic Hepatitis,K731,10
+Chronic Hepatitis,K732,10
+Chronic Hepatitis,K738,10
+Chronic Hepatitis,K739,10
+Chronic Pancreatitis,5771,9
+Chronic Pancreatitis,K860,10
+Chronic Pancreatitis,K861,10
+Chronic Sinusitis,4730,9
+Chronic Sinusitis,4731,9
+Chronic Sinusitis,4732,9
+Chronic Sinusitis,4733,9
+Chronic Sinusitis,4738,9
+Chronic Sinusitis,4739,9
+Chronic Sinusitis,J320,10
+Chronic Sinusitis,J321,10
+Chronic Sinusitis,J322,10
+Chronic Sinusitis,J323,10
+Chronic Sinusitis,J324,10
+Chronic Sinusitis,J328,10
+Chronic Sinusitis,J329,10
+Cirrhosis,5715,9
+Cirrhosis,5716,9
+Cirrhosis,5719,9
+Cirrhosis,K74,10
+Cirrhosis,K740,10
+Cirrhosis,K741,10
+Cirrhosis,K742,10
+Cirrhosis,K743,10
+Cirrhosis,K744,10
+Cirrhosis,K745,10
+Cirrhosis,K746,10
+Cirrhosis,K7460,10
+Cirrhosis,K7469,10
+Colon Cancer,1530,9
+Colon Cancer,1531,9
+Colon Cancer,1532,9
+Colon Cancer,1533,9
+Colon Cancer,1534,9
+Colon Cancer,1535,9
+Colon Cancer,1536,9
+Colon Cancer,1537,9
+Colon Cancer,1538,9
+Colon Cancer,1539,9
+Colon Cancer,1590,9
+Colon Cancer,20910,9
+Colon Cancer,20911,9
+Colon Cancer,20912,9
+Colon Cancer,20913,9
+Colon Cancer,20914,9
+Colon Cancer,20915,9
+Colon Cancer,20916,9
+Colon Cancer,2303,9
+Colon Cancer,V1005,9
+Colon Cancer,1530,10
+Colon Cancer,1531,10
+Colon Cancer,1532,10
+Colon Cancer,1533,10
+Colon Cancer,1534,10
+Colon Cancer,1535,10
+Colon Cancer,1536,10
+Colon Cancer,1537,10
+Colon Cancer,1538,10
+Colon Cancer,1539,10
+Colon Cancer,1590,10
+Colon Cancer,20910,10
+Colon Cancer,20911,10
+Colon Cancer,20912,10
+Colon Cancer,20913,10
+Colon Cancer,20914,10
+Colon Cancer,20915,10
+Colon Cancer,20916,10
+Colon Cancer,2303,10
+Colon Cancer,7955,10
+Colon Cancer,79551,10
+Colon Cancer,79552,10
+Colon Cancer,7956,10
+Colon Cancer,79579,10
+Colon Cancer,V010,10
+Colon Cancer,V011,10
+Colon Cancer,V012,10
+Colon Cancer,V013,10
+Colon Cancer,V014,10
+Colon Cancer,V015,10
+Colon Cancer,V016,10
+Colon Cancer,V017,10
+Colon Cancer,V0171,10
+Colon Cancer,V0179,10
+Colon Cancer,V018,10
+Colon Cancer,V0181,10
+Colon Cancer,V0182,10
+Colon Cancer,V0183,10
+Colon Cancer,V0184,10
+Colon Cancer,V0189,10
+Colon Cancer,V019,10
+Colon Cancer,V020,10
+Colon Cancer,V021,10
+Colon Cancer,V022,10
+Colon Cancer,V023,10
+Colon Cancer,V024,10
+Colon Cancer,V025,10
+Colon Cancer,V0251,10
+Colon Cancer,V0252,10
+Colon Cancer,V0253,10
+Colon Cancer,V0254,10
+Colon Cancer,V0259,10
+Colon Cancer,V026,10
+Colon Cancer,V0260,10
+Colon Cancer,V0261,10
+Colon Cancer,V0262,10
+Colon Cancer,V0269,10
+Colon Cancer,V027,10
+Colon Cancer,V028,10
+Colon Cancer,V029,10
+Colon Cancer,V030,10
+Colon Cancer,V031,10
+Colon Cancer,V032,10
+Colon Cancer,V033,10
+Colon Cancer,V034,10
+Colon Cancer,V035,10
+Colon Cancer,V036,10
+Colon Cancer,V037,10
+Colon Cancer,V038,10
+Colon Cancer,V0381,10
+Colon Cancer,V0382,10
+Colon Cancer,V0389,10
+Colon Cancer,V039,10
+Colon Cancer,V040,10
+Colon Cancer,V041,10
+Colon Cancer,V042,10
+Colon Cancer,V043,10
+Colon Cancer,V044,10
+Colon Cancer,V045,10
+Colon Cancer,V046,10
+Colon Cancer,V047,10
+Colon Cancer,V048,10
+Colon Cancer,V0481,10
+Colon Cancer,V0482,10
+Colon Cancer,V0489,10
+Colon Cancer,V050,10
+Colon Cancer,V051,10
+Colon Cancer,V052,10
+Colon Cancer,V053,10
+Colon Cancer,V054,10
+Colon Cancer,V058,10
+Colon Cancer,V059,10
+Colon Cancer,V060,10
+Colon Cancer,V061,10
+Colon Cancer,V062,10
+Colon Cancer,V063,10
+Colon Cancer,V064,10
+Colon Cancer,V065,10
+Colon Cancer,V066,10
+Colon Cancer,V068,10
+Colon Cancer,V069,10
+Colon Cancer,V1005,10
+Colon Cancer,V286,10
+Colon Cancer,V712,10
+Colon Cancer,V7182,10
+Colon Cancer,V7183,10
+Colon Cancer,V730,10
+Colon Cancer,V731,10
+Colon Cancer,V732,10
+Colon Cancer,V733,10
+Colon Cancer,V734,10
+Colon Cancer,V735,10
+Colon Cancer,V736,10
+Colon Cancer,V738,10
+Colon Cancer,V7381,10
+Colon Cancer,V7388,10
+Colon Cancer,V7389,10
+Colon Cancer,V739,10
+Colon Cancer,V7398,10
+Colon Cancer,V7399,10
+Colon Cancer,V740,10
+Colon Cancer,V741,10
+Colon Cancer,V742,10
+Colon Cancer,V743,10
+Colon Cancer,V744,10
+Colon Cancer,V745,10
+Colon Cancer,V746,10
+Colon Cancer,V748,10
+Colon Cancer,V749,10
+Colon Cancer,V750,10
+Colon Cancer,V751,10
+Colon Cancer,V752,10
+Colon Cancer,V753,10
+Colon Cancer,V754,10
+Colon Cancer,V755,10
+Colon Cancer,V756,10
+Colon Cancer,V757,10
+Colon Cancer,V758,10
+Colon Cancer,V759,10
+Congenital cystic lung,7484,9
+Congenital cystic lung,Q330,10
+Congenital pneumonia,7700,9
+Congenital pneumonia,P23,10
+Congenital pneumonia,P230,10
+Congenital pneumonia,P231,10
+Congenital pneumonia,P232,10
+Congenital pneumonia,P233,10
+Congenital pneumonia,P234,10
+Congenital pneumonia,P235,10
+Congenital pneumonia,P236,10
+Congenital pneumonia,P238,10
+Congenital pneumonia,P239,10
+Constipation,5640,9
+Constipation,56400,9
+Constipation,56401,9
+Constipation,56402,9
+Constipation,56409,9
+Constipation,K590,10
+Constipation,K5900,10
+Constipation,K5901,10
+Constipation,K5902,10
+Constipation,K5903,10
+Constipation,K5904,10
+Constipation,K5909,10
+Cyst/pseudocyst of pancreas,5772,9
+Cyst/pseudocyst of pancreas,K862,10
+Cyst/pseudocyst of pancreas,K863,10
+Dehydration,27651,9
+Dehydration,E860,10
+Dehydration,E8600,10
+Dehydration,E8601,10
+Dehydration,E8602,10
+Dehydration,E8603,10
+Dehydration,E8604,10
+Dehydration,E8608,10
+Dehydration,E8609,10
+Diarrhea,78791,9
+Diarrhea,R197,10
+Eosinophilic Esophagitis,53013,9
+Eosinophilic Esophagitis,K200,10
+Failure to thrive (child),78341,9
+Failure to thrive (child),R6251,10
+Fecal impaction,56032,9
+Fecal impaction,K5641,10
+Feeding difficulties and mismanagement,7833,9
+Feeding difficulties and mismanagement,R633,10
+Fluid and electrolyte disorders,2760,9
+Fluid and electrolyte disorders,2761,9
+Fluid and electrolyte disorders,2762,9
+Fluid and electrolyte disorders,2763,9
+Fluid and electrolyte disorders,2764,9
+Fluid and electrolyte disorders,2765,9
+Fluid and electrolyte disorders,27650,9
+Fluid and electrolyte disorders,27651,9
+Fluid and electrolyte disorders,27652,9
+Fluid and electrolyte disorders,2766,9
+Fluid and electrolyte disorders,27669,9
+Fluid and electrolyte disorders,2767,9
+Fluid and electrolyte disorders,2768,9
+Fluid and electrolyte disorders,2769,9
+Fluid and electrolyte disorders,9951,9
+Fluid and electrolyte disorders,2760,10
+Fluid and electrolyte disorders,2761,10
+Fluid and electrolyte disorders,2762,10
+Fluid and electrolyte disorders,2763,10
+Fluid and electrolyte disorders,2764,10
+Fluid and electrolyte disorders,2765,10
+Fluid and electrolyte disorders,27650,10
+Fluid and electrolyte disorders,27651,10
+Fluid and electrolyte disorders,27652,10
+Fluid and electrolyte disorders,2766,10
+Fluid and electrolyte disorders,27669,10
+Fluid and electrolyte disorders,2767,10
+Fluid and electrolyte disorders,2768,10
+Fluid and electrolyte disorders,2769,10
+Fluid and electrolyte disorders,7955,10
+Fluid and electrolyte disorders,79551,10
+Fluid and electrolyte disorders,79552,10
+Fluid and electrolyte disorders,7956,10
+Fluid and electrolyte disorders,79579,10
+Fluid and electrolyte disorders,9951,10
+Fluid and electrolyte disorders,V010,10
+Fluid and electrolyte disorders,V011,10
+Fluid and electrolyte disorders,V012,10
+Fluid and electrolyte disorders,V013,10
+Fluid and electrolyte disorders,V014,10
+Fluid and electrolyte disorders,V015,10
+Fluid and electrolyte disorders,V016,10
+Fluid and electrolyte disorders,V017,10
+Fluid and electrolyte disorders,V0171,10
+Fluid and electrolyte disorders,V0179,10
+Fluid and electrolyte disorders,V018,10
+Fluid and electrolyte disorders,V0181,10
+Fluid and electrolyte disorders,V0182,10
+Fluid and electrolyte disorders,V0183,10
+Fluid and electrolyte disorders,V0184,10
+Fluid and electrolyte disorders,V0189,10
+Fluid and electrolyte disorders,V019,10
+Fluid and electrolyte disorders,V020,10
+Fluid and electrolyte disorders,V021,10
+Fluid and electrolyte disorders,V022,10
+Fluid and electrolyte disorders,V023,10
+Fluid and electrolyte disorders,V024,10
+Fluid and electrolyte disorders,V025,10
+Fluid and electrolyte disorders,V0251,10
+Fluid and electrolyte disorders,V0252,10
+Fluid and electrolyte disorders,V0253,10
+Fluid and electrolyte disorders,V0254,10
+Fluid and electrolyte disorders,V0259,10
+Fluid and electrolyte disorders,V026,10
+Fluid and electrolyte disorders,V0260,10
+Fluid and electrolyte disorders,V0261,10
+Fluid and electrolyte disorders,V0262,10
+Fluid and electrolyte disorders,V0269,10
+Fluid and electrolyte disorders,V027,10
+Fluid and electrolyte disorders,V028,10
+Fluid and electrolyte disorders,V029,10
+Fluid and electrolyte disorders,V030,10
+Fluid and electrolyte disorders,V031,10
+Fluid and electrolyte disorders,V032,10
+Fluid and electrolyte disorders,V033,10
+Fluid and electrolyte disorders,V034,10
+Fluid and electrolyte disorders,V035,10
+Fluid and electrolyte disorders,V036,10
+Fluid and electrolyte disorders,V037,10
+Fluid and electrolyte disorders,V038,10
+Fluid and electrolyte disorders,V0381,10
+Fluid and electrolyte disorders,V0382,10
+Fluid and electrolyte disorders,V0389,10
+Fluid and electrolyte disorders,V039,10
+Fluid and electrolyte disorders,V040,10
+Fluid and electrolyte disorders,V041,10
+Fluid and electrolyte disorders,V042,10
+Fluid and electrolyte disorders,V043,10
+Fluid and electrolyte disorders,V044,10
+Fluid and electrolyte disorders,V045,10
+Fluid and electrolyte disorders,V046,10
+Fluid and electrolyte disorders,V047,10
+Fluid and electrolyte disorders,V048,10
+Fluid and electrolyte disorders,V0481,10
+Fluid and electrolyte disorders,V0482,10
+Fluid and electrolyte disorders,V0489,10
+Fluid and electrolyte disorders,V050,10
+Fluid and electrolyte disorders,V051,10
+Fluid and electrolyte disorders,V052,10
+Fluid and electrolyte disorders,V053,10
+Fluid and electrolyte disorders,V054,10
+Fluid and electrolyte disorders,V058,10
+Fluid and electrolyte disorders,V059,10
+Fluid and electrolyte disorders,V060,10
+Fluid and electrolyte disorders,V061,10
+Fluid and electrolyte disorders,V062,10
+Fluid and electrolyte disorders,V063,10
+Fluid and electrolyte disorders,V064,10
+Fluid and electrolyte disorders,V065,10
+Fluid and electrolyte disorders,V066,10
+Fluid and electrolyte disorders,V068,10
+Fluid and electrolyte disorders,V069,10
+Fluid and electrolyte disorders,V286,10
+Fluid and electrolyte disorders,V712,10
+Fluid and electrolyte disorders,V7182,10
+Fluid and electrolyte disorders,V7183,10
+Fluid and electrolyte disorders,V730,10
+Fluid and electrolyte disorders,V731,10
+Fluid and electrolyte disorders,V732,10
+Fluid and electrolyte disorders,V733,10
+Fluid and electrolyte disorders,V734,10
+Fluid and electrolyte disorders,V735,10
+Fluid and electrolyte disorders,V736,10
+Fluid and electrolyte disorders,V738,10
+Fluid and electrolyte disorders,V7381,10
+Fluid and electrolyte disorders,V7388,10
+Fluid and electrolyte disorders,V7389,10
+Fluid and electrolyte disorders,V739,10
+Fluid and electrolyte disorders,V7398,10
+Fluid and electrolyte disorders,V7399,10
+Fluid and electrolyte disorders,V740,10
+Fluid and electrolyte disorders,V741,10
+Fluid and electrolyte disorders,V742,10
+Fluid and electrolyte disorders,V743,10
+Fluid and electrolyte disorders,V744,10
+Fluid and electrolyte disorders,V745,10
+Fluid and electrolyte disorders,V746,10
+Fluid and electrolyte disorders,V748,10
+Fluid and electrolyte disorders,V749,10
+Fluid and electrolyte disorders,V750,10
+Fluid and electrolyte disorders,V751,10
+Fluid and electrolyte disorders,V752,10
+Fluid and electrolyte disorders,V753,10
+Fluid and electrolyte disorders,V754,10
+Fluid and electrolyte disorders,V755,10
+Fluid and electrolyte disorders,V756,10
+Fluid and electrolyte disorders,V757,10
+Fluid and electrolyte disorders,V758,10
+Fluid and electrolyte disorders,V759,10
+Gastroesophageal reflux disease (GERD),53081,9
+Gastroesophageal reflux disease (GERD),K21,10
+Gastroesophageal reflux disease (GERD),K210,10
+Gastroesophageal reflux disease (GERD),K219,10
+Hemoptysis,7863,9
+Hemoptysis,78630,9
+Hemoptysis,78631,9
+Hemoptysis,78639,9
+Hemoptysis,R042,10
+Hemoptysis,R048,10
+Hemoptysis,R0481,10
+Hemoptysis,R0489,10
+Hemoptysis,R049,10
+Hypertrophic osteoarthropathy/clubbing,7312,9
+Hypertrophic osteoarthropathy/clubbing,7815,9
+Hypertrophic osteoarthropathy/clubbing,M8940,10
+Hypertrophic osteoarthropathy/clubbing,R683,10
+Intestinal atresia,7511,9
+Intestinal atresia,7512,9
+Intestinal atresia,Q419,10
+Intestinal atresia,Q429,10
+Intestinal Malabsorption,579,9
+Intestinal Malabsorption,5790,9
+Intestinal Malabsorption,5791,9
+Intestinal Malabsorption,5792,9
+Intestinal Malabsorption,5793,9
+Intestinal Malabsorption,5794,9
+Intestinal Malabsorption,5798,9
+Intestinal Malabsorption,5799,9
+Intestinal Malabsorption,K90,10
+Intestinal Malabsorption,K900,10
+Intestinal Malabsorption,K901,10
+Intestinal Malabsorption,K902,10
+Intestinal Malabsorption,K903,10
+Intestinal Malabsorption,K904,10
+Intestinal Malabsorption,K9041,10
+Intestinal Malabsorption,K9049,10
+Intestinal Malabsorption,K908,10
+Intestinal Malabsorption,K9081,10
+Intestinal Malabsorption,K9089,10
+Intestinal Malabsorption,K909,10
+Intestinal obstruction,560,9
+Intestinal obstruction,5600,9
+Intestinal obstruction,5601,9
+Intestinal obstruction,5602,9
+Intestinal obstruction,5603,9
+Intestinal obstruction,56030,9
+Intestinal obstruction,56031,9
+Intestinal obstruction,56032,9
+Intestinal obstruction,56039,9
+Intestinal obstruction,5608,9
+Intestinal obstruction,56081,9
+Intestinal obstruction,56089,9
+Intestinal obstruction,5609,9
+Intestinal obstruction,K56,10
+Intestinal obstruction,K560,10
+Intestinal obstruction,K561,10
+Intestinal obstruction,K562,10
+Intestinal obstruction,K563,10
+Intestinal obstruction,K564,10
+Intestinal obstruction,K5641,10
+Intestinal obstruction,K5649,10
+Intestinal obstruction,K565,10
+Intestinal obstruction,K5650,10
+Intestinal obstruction,K5651,10
+Intestinal obstruction,K5652,10
+Intestinal obstruction,K566,10
+Intestinal obstruction,K5660,10
+Intestinal obstruction,K56600,10
+Intestinal obstruction,K56601,10
+Intestinal obstruction,K56609,10
+Intestinal obstruction,K5669,10
+Intestinal obstruction,K56690,10
+Intestinal obstruction,K56691,10
+Intestinal obstruction,K56699,10
+Intestinal obstruction,K567,10
+Jaundice (not of newborn),7824,9
+Jaundice (not of newborn),R17,10
+Lack of Expected Normal Development,78340,9
+Lack of Expected Normal Development,R6250,10
+Male infertility,606,9
+Male infertility,6060,9
+Male infertility,6061,9
+Male infertility,6068,9
+Male infertility,6069,9
+Male infertility,N46,10
+Male infertility,N460,10
+Male infertility,N4601,10
+Male infertility,N4602,10
+Male infertility,N46021,10
+Male infertility,N46022,10
+Male infertility,N46023,10
+Male infertility,N46024,10
+Male infertility,N46025,10
+Male infertility,N46029,10
+Male infertility,N461,10
+Male infertility,N4611,10
+Male infertility,N4612,10
+Male infertility,N46121,10
+Male infertility,N46122,10
+Male infertility,N46123,10
+Male infertility,N46124,10
+Male infertility,N46125,10
+Male infertility,N46129,10
+Male infertility,N468,10
+Male infertility,N469,10
+Meconium obstruction in fetus or newborn,7771,9
+Meconium obstruction in fetus or newborn,P760,10
+Meconium peritonitis,7776,9
+Meconium peritonitis,P780,10
+Nasal Polyposis,471,9
+Nasal Polyposis,4710,9
+Nasal Polyposis,4711,9
+Nasal Polyposis,4718,9
+Nasal Polyposis,4719,9
+Nasal Polyposis,J33,10
+Nasal Polyposis,J330,10
+Nasal Polyposis,J331,10
+Nasal Polyposis,J338,10
+Nasal Polyposis,J339,10
+Nausea or Vomiting,5362,9
+Nausea or Vomiting,56987,9
+Nausea or Vomiting,78701,9
+Nausea or Vomiting,78703,9
+Nausea or Vomiting,78704,9
+Nausea or Vomiting,78720,9
+Nausea or Vomiting,R110,10
+Nausea or Vomiting,R111,10
+Nausea or Vomiting,R1110,10
+Nausea or Vomiting,R1111,10
+Nausea or Vomiting,R1112,10
+Nausea or Vomiting,R1113,10
+Nausea or Vomiting,R1114,10
+Nausea or Vomiting,R112,10
+Neonatal jaundice,774,9
+Neonatal jaundice,7740,9
+Neonatal jaundice,7741,9
+Neonatal jaundice,7742,9
+Neonatal jaundice,7743,9
+Neonatal jaundice,77430,9
+Neonatal jaundice,77431,9
+Neonatal jaundice,77439,9
+Neonatal jaundice,7744,9
+Neonatal jaundice,7745,9
+Neonatal jaundice,7746,9
+Neonatal jaundice,7747,9
+Neonatal jaundice,P57,10
+Neonatal jaundice,P570,10
+Neonatal jaundice,P578,10
+Neonatal jaundice,P579,10
+Neonatal jaundice,P58,10
+Neonatal jaundice,P580,10
+Neonatal jaundice,P581,10
+Neonatal jaundice,P582,10
+Neonatal jaundice,P583,10
+Neonatal jaundice,P584,10
+Neonatal jaundice,P5841,10
+Neonatal jaundice,P5842,10
+Neonatal jaundice,P585,10
+Neonatal jaundice,P588,10
+Neonatal jaundice,P589,10
+Neonatal jaundice,P59,10
+Neonatal jaundice,P590,10
+Neonatal jaundice,P591,10
+Neonatal jaundice,P592,10
+Neonatal jaundice,P5920,10
+Neonatal jaundice,P5929,10
+Neonatal jaundice,P593,10
+Neonatal jaundice,P598,10
+Neonatal jaundice,P599,10
+Nephrolithiasis,5920,9
+Nephrolithiasis,N200,10
+Nontuberculous Mycobacterial Infection,031,9
+Nontuberculous Mycobacterial Infection,0310,9
+Nontuberculous Mycobacterial Infection,0311,9
+Nontuberculous Mycobacterial Infection,0312,9
+Nontuberculous Mycobacterial Infection,0318,9
+Nontuberculous Mycobacterial Infection,0319,9
+Nontuberculous Mycobacterial Infection,A31,10
+Nontuberculous Mycobacterial Infection,A310,10
+Nontuberculous Mycobacterial Infection,A311,10
+Nontuberculous Mycobacterial Infection,A312,10
+Nontuberculous Mycobacterial Infection,A318,10
+Nontuberculous Mycobacterial Infection,A319,10
+Osteopenia,73390,9
+Osteopenia,M8580,10
+Osteoporosis,73300,9
+Osteoporosis,73301,9
+Osteoporosis,73302,9
+Osteoporosis,73303,9
+Osteoporosis,73309,9
+Osteoporosis,M810,10
+Osteoporosis,M816,10
+Osteoporosis,M818,10
+Other Pancreatic Disorders,5778,9
+Other Pancreatic Disorders,5779,9
+Other Pancreatic Disorders,K868,10
+Other Pancreatic Disorders,K8681,10
+Other Pancreatic Disorders,K8689,10
+Other Pancreatic Disorders,K869,10
+Other Pancreatic Disorders,K9689,10
+Pancreatic Cancer,1570,9
+Pancreatic Cancer,1571,9
+Pancreatic Cancer,1572,9
+Pancreatic Cancer,1573,9
+Pancreatic Cancer,1574,9
+Pancreatic Cancer,1578,9
+Pancreatic Cancer,1579,9
+Pancreatic Cancer,1570,10
+Pancreatic Cancer,1571,10
+Pancreatic Cancer,1572,10
+Pancreatic Cancer,1573,10
+Pancreatic Cancer,1574,10
+Pancreatic Cancer,1578,10
+Pancreatic Cancer,1579,10
+Pancreatic Cancer,7955,10
+Pancreatic Cancer,79551,10
+Pancreatic Cancer,79552,10
+Pancreatic Cancer,7956,10
+Pancreatic Cancer,79579,10
+Pancreatic Cancer,V010,10
+Pancreatic Cancer,V011,10
+Pancreatic Cancer,V012,10
+Pancreatic Cancer,V013,10
+Pancreatic Cancer,V014,10
+Pancreatic Cancer,V015,10
+Pancreatic Cancer,V016,10
+Pancreatic Cancer,V017,10
+Pancreatic Cancer,V0171,10
+Pancreatic Cancer,V0179,10
+Pancreatic Cancer,V018,10
+Pancreatic Cancer,V0181,10
+Pancreatic Cancer,V0182,10
+Pancreatic Cancer,V0183,10
+Pancreatic Cancer,V0184,10
+Pancreatic Cancer,V0189,10
+Pancreatic Cancer,V019,10
+Pancreatic Cancer,V020,10
+Pancreatic Cancer,V021,10
+Pancreatic Cancer,V022,10
+Pancreatic Cancer,V023,10
+Pancreatic Cancer,V024,10
+Pancreatic Cancer,V025,10
+Pancreatic Cancer,V0251,10
+Pancreatic Cancer,V0252,10
+Pancreatic Cancer,V0253,10
+Pancreatic Cancer,V0254,10
+Pancreatic Cancer,V0259,10
+Pancreatic Cancer,V026,10
+Pancreatic Cancer,V0260,10
+Pancreatic Cancer,V0261,10
+Pancreatic Cancer,V0262,10
+Pancreatic Cancer,V0269,10
+Pancreatic Cancer,V027,10
+Pancreatic Cancer,V028,10
+Pancreatic Cancer,V029,10
+Pancreatic Cancer,V030,10
+Pancreatic Cancer,V031,10
+Pancreatic Cancer,V032,10
+Pancreatic Cancer,V033,10
+Pancreatic Cancer,V034,10
+Pancreatic Cancer,V035,10
+Pancreatic Cancer,V036,10
+Pancreatic Cancer,V037,10
+Pancreatic Cancer,V038,10
+Pancreatic Cancer,V0381,10
+Pancreatic Cancer,V0382,10
+Pancreatic Cancer,V0389,10
+Pancreatic Cancer,V039,10
+Pancreatic Cancer,V040,10
+Pancreatic Cancer,V041,10
+Pancreatic Cancer,V042,10
+Pancreatic Cancer,V043,10
+Pancreatic Cancer,V044,10
+Pancreatic Cancer,V045,10
+Pancreatic Cancer,V046,10
+Pancreatic Cancer,V047,10
+Pancreatic Cancer,V048,10
+Pancreatic Cancer,V0481,10
+Pancreatic Cancer,V0482,10
+Pancreatic Cancer,V0489,10
+Pancreatic Cancer,V050,10
+Pancreatic Cancer,V051,10
+Pancreatic Cancer,V052,10
+Pancreatic Cancer,V053,10
+Pancreatic Cancer,V054,10
+Pancreatic Cancer,V058,10
+Pancreatic Cancer,V059,10
+Pancreatic Cancer,V060,10
+Pancreatic Cancer,V061,10
+Pancreatic Cancer,V062,10
+Pancreatic Cancer,V063,10
+Pancreatic Cancer,V064,10
+Pancreatic Cancer,V065,10
+Pancreatic Cancer,V066,10
+Pancreatic Cancer,V068,10
+Pancreatic Cancer,V069,10
+Pancreatic Cancer,V286,10
+Pancreatic Cancer,V712,10
+Pancreatic Cancer,V7182,10
+Pancreatic Cancer,V7183,10
+Pancreatic Cancer,V730,10
+Pancreatic Cancer,V731,10
+Pancreatic Cancer,V732,10
+Pancreatic Cancer,V733,10
+Pancreatic Cancer,V734,10
+Pancreatic Cancer,V735,10
+Pancreatic Cancer,V736,10
+Pancreatic Cancer,V738,10
+Pancreatic Cancer,V7381,10
+Pancreatic Cancer,V7388,10
+Pancreatic Cancer,V7389,10
+Pancreatic Cancer,V739,10
+Pancreatic Cancer,V7398,10
+Pancreatic Cancer,V7399,10
+Pancreatic Cancer,V740,10
+Pancreatic Cancer,V741,10
+Pancreatic Cancer,V742,10
+Pancreatic Cancer,V743,10
+Pancreatic Cancer,V744,10
+Pancreatic Cancer,V745,10
+Pancreatic Cancer,V746,10
+Pancreatic Cancer,V748,10
+Pancreatic Cancer,V749,10
+Pancreatic Cancer,V750,10
+Pancreatic Cancer,V751,10
+Pancreatic Cancer,V752,10
+Pancreatic Cancer,V753,10
+Pancreatic Cancer,V754,10
+Pancreatic Cancer,V755,10
+Pancreatic Cancer,V756,10
+Pancreatic Cancer,V757,10
+Pancreatic Cancer,V758,10
+Pancreatic Cancer,V759,10
+Pancreatic Steatorrhea,5794,9
+Pancreatic Steatorrhea,K903,10
+Personal history of recurrent pneumonia,V1261,9
+Personal history of recurrent pneumonia,Z8701,10
+Pneumonia,00322,9
+Pneumonia,0203,9
+Pneumonia,0204,9
+Pneumonia,0205,9
+Pneumonia,0212,9
+Pneumonia,0221,9
+Pneumonia,0310,9
+Pneumonia,0391,9
+Pneumonia,0521,9
+Pneumonia,0551,9
+Pneumonia,0730,9
+Pneumonia,0830,9
+Pneumonia,1124,9
+Pneumonia,1140,9
+Pneumonia,1144,9
+Pneumonia,1145,9
+Pneumonia,11505,9
+Pneumonia,11515,9
+Pneumonia,11595,9
+Pneumonia,1304,9
+Pneumonia,1363,9
+Pneumonia,4800,9
+Pneumonia,4801,9
+Pneumonia,4802,9
+Pneumonia,4803,9
+Pneumonia,4808,9
+Pneumonia,4809,9
+Pneumonia,481,9
+Pneumonia,4820,9
+Pneumonia,4821,9
+Pneumonia,4822,9
+Pneumonia,4823,9
+Pneumonia,48230,9
+Pneumonia,48231,9
+Pneumonia,48232,9
+Pneumonia,48239,9
+Pneumonia,4824,9
+Pneumonia,48240,9
+Pneumonia,48241,9
+Pneumonia,48242,9
+Pneumonia,48249,9
+Pneumonia,4828,9
+Pneumonia,48281,9
+Pneumonia,48282,9
+Pneumonia,48283,9
+Pneumonia,48284,9
+Pneumonia,48289,9
+Pneumonia,4829,9
+Pneumonia,483,9
+Pneumonia,4830,9
+Pneumonia,4831,9
+Pneumonia,4838,9
+Pneumonia,4841,9
+Pneumonia,4843,9
+Pneumonia,4845,9
+Pneumonia,4846,9
+Pneumonia,4847,9
+Pneumonia,4848,9
+Pneumonia,485,9
+Pneumonia,486,9
+Pneumonia,5130,9
+Pneumonia,5171,9
+Pneumonia,A0103,10
+Pneumonia,A0222,10
+Pneumonia,A202,10
+Pneumonia,A212,10
+Pneumonia,A221,10
+Pneumonia,A310,10
+Pneumonia,A3701,10
+Pneumonia,A3711,10
+Pneumonia,A430,10
+Pneumonia,A481,10
+Pneumonia,B012,10
+Pneumonia,B052,10
+Pneumonia,B0681,10
+Pneumonia,B250,10
+Pneumonia,B371,10
+Pneumonia,B380,10
+Pneumonia,B381,10
+Pneumonia,B382,10
+Pneumonia,B390,10
+Pneumonia,B391,10
+Pneumonia,B392,10
+Pneumonia,B583,10
+Pneumonia,B59,10
+Pneumonia,B7781,10
+Pneumonia,J120,10
+Pneumonia,J121,10
+Pneumonia,J122,10
+Pneumonia,J123,10
+Pneumonia,J1281,10
+Pneumonia,J1289,10
+Pneumonia,J129,10
+Pneumonia,J13,10
+Pneumonia,J14,10
+Pneumonia,J150,10
+Pneumonia,J151,10
+Pneumonia,J1520,10
+Pneumonia,J15211,10
+Pneumonia,J15212,10
+Pneumonia,J1529,10
+Pneumonia,J153,10
+Pneumonia,J154,10
+Pneumonia,J155,10
+Pneumonia,J156,10
+Pneumonia,J157,10
+Pneumonia,J158,10
+Pneumonia,J159,10
+Pneumonia,J160,10
+Pneumonia,J168,10
+Pneumonia,J17,10
+Pneumonia,J180,10
+Pneumonia,J181,10
+Pneumonia,J188,10
+Pneumonia,J189,10
+Pneumonia,J851,10
+Pseudomonas Infections,0417,9
+Pseudomonas Infections,4821,9
+Pseudomonas Infections,B965,10
+Pseudomonas Infections,J151,10
+Respiratory Failure,51851,9
+Respiratory Failure,51852,9
+Respiratory Failure,51853,9
+Respiratory Failure,51881,9
+Respiratory Failure,51882,9
+Respiratory Failure,51883,9
+Respiratory Failure,51884,9
+Respiratory Failure,51889,9
+Respiratory Failure,J80,10
+Respiratory Failure,J951,10
+Respiratory Failure,J952,10
+Respiratory Failure,J953,10
+Respiratory Failure,J95821,10
+Respiratory Failure,J95822,10
+Respiratory Failure,J96,10
+Respiratory Failure,J960,10
+Respiratory Failure,J9600,10
+Respiratory Failure,J9601,10
+Respiratory Failure,J9602,10
+Respiratory Failure,J961,10
+Respiratory Failure,J9610,10
+Respiratory Failure,J9611,10
+Respiratory Failure,J9612,10
+Respiratory Failure,J962,10
+Respiratory Failure,J9620,10
+Respiratory Failure,J9621,10
+Respiratory Failure,J9622,10
+Respiratory Failure,J969,10
+Respiratory Failure,J9690,10
+Respiratory Failure,J9691,10
+Respiratory Failure,J9692,10
+Respiratory Failure,J984,10
+Respiratory Failure of Newborn,77081,9
+Respiratory Failure of Newborn,77082,9
+Respiratory Failure of Newborn,77083,9
+Respiratory Failure of Newborn,77084,9
+Respiratory Failure of Newborn,77087,9
+Respiratory Failure of Newborn,77088,9
+Respiratory Failure of Newborn,77089,9
+Respiratory Failure of Newborn,P282,10
+Respiratory Failure of Newborn,P283,10
+Respiratory Failure of Newborn,P284,10
+Respiratory Failure of Newborn,P285,10
+Respiratory Failure of Newborn,P2881,10
+Respiratory Failure of Newborn,P2889,10
+Respiratory Failure of Newborn,P84,10
+Scoliosis,73730,9
+Scoliosis,M4120,10
+Secondary Diabetes,249,9
+Secondary Diabetes,2490,9
+Secondary Diabetes,24900,9
+Secondary Diabetes,24901,9
+Secondary Diabetes,2491,9
+Secondary Diabetes,24910,9
+Secondary Diabetes,24911,9
+Secondary Diabetes,2492,9
+Secondary Diabetes,24920,9
+Secondary Diabetes,24921,9
+Secondary Diabetes,2493,9
+Secondary Diabetes,24930,9
+Secondary Diabetes,24931,9
+Secondary Diabetes,2494,9
+Secondary Diabetes,24940,9
+Secondary Diabetes,24941,9
+Secondary Diabetes,2495,9
+Secondary Diabetes,24950,9
+Secondary Diabetes,24951,9
+Secondary Diabetes,2496,9
+Secondary Diabetes,24960,9
+Secondary Diabetes,24961,9
+Secondary Diabetes,2497,9
+Secondary Diabetes,24970,9
+Secondary Diabetes,24971,9
+Secondary Diabetes,2498,9
+Secondary Diabetes,24980,9
+Secondary Diabetes,24981,9
+Secondary Diabetes,2499,9
+Secondary Diabetes,24990,9
+Secondary Diabetes,24991,9
+Secondary Diabetes,E0801,10
+Secondary Diabetes,E0810,10
+Secondary Diabetes,E0811,10
+Secondary Diabetes,E0821,10
+Secondary Diabetes,E08311,10
+Secondary Diabetes,E08319,10
+Secondary Diabetes,E0836,10
+Secondary Diabetes,E0839,10
+Secondary Diabetes,E0840,10
+Secondary Diabetes,E0841,10
+Secondary Diabetes,E0842,10
+Secondary Diabetes,E0843,10
+Secondary Diabetes,E0844,10
+Secondary Diabetes,E0849,10
+Secondary Diabetes,E0851,10
+Secondary Diabetes,E08610,10
+Secondary Diabetes,E08618,10
+Secondary Diabetes,E08620,10
+Secondary Diabetes,E08621,10
+Secondary Diabetes,E08622,10
+Secondary Diabetes,E08628,10
+Secondary Diabetes,E08630,10
+Secondary Diabetes,E08638,10
+Secondary Diabetes,E08641,10
+Secondary Diabetes,E0865,10
+Secondary Diabetes,E0869,10
+Secondary Diabetes,E088,10
+Secondary Diabetes,E089,10
+Secondary Diabetes,E0901,10
+Secondary Diabetes,E0910,10
+Secondary Diabetes,E0911,10
+Secondary Diabetes,E0921,10
+Secondary Diabetes,E09311,10
+Secondary Diabetes,E09319,10
+Secondary Diabetes,E0936,10
+Secondary Diabetes,E0939,10
+Secondary Diabetes,E0940,10
+Secondary Diabetes,E0941,10
+Secondary Diabetes,E0942,10
+Secondary Diabetes,E0943,10
+Secondary Diabetes,E0944,10
+Secondary Diabetes,E0949,10
+Secondary Diabetes,E0951,10
+Secondary Diabetes,E09610,10
+Secondary Diabetes,E09618,10
+Secondary Diabetes,E09620,10
+Secondary Diabetes,E09621,10
+Secondary Diabetes,E09622,10
+Secondary Diabetes,E09628,10
+Secondary Diabetes,E09630,10
+Secondary Diabetes,E09638,10
+Secondary Diabetes,E09641,10
+Secondary Diabetes,E09649,10
+Secondary Diabetes,E0965,10
+Secondary Diabetes,E0969,10
+Secondary Diabetes,E098,10
+Secondary Diabetes,E099,10
+Secondary Diabetes,E1300,10
+Secondary Diabetes,E1310,10
+Secondary Diabetes,E1311,10
+Secondary Diabetes,E1339,10
+Secondary Diabetes,E1340,10
+Secondary Diabetes,E1341,10
+Secondary Diabetes,E1342,10
+Secondary Diabetes,E1343,10
+Secondary Diabetes,E1344,10
+Secondary Diabetes,E1349,10
+Secondary Diabetes,E1359,10
+Secondary Diabetes,E13620,10
+Secondary Diabetes,E13621,10
+Secondary Diabetes,E13622,10
+Secondary Diabetes,E13628,10
+Secondary Diabetes,E13638,10
+Secondary Diabetes,E13641,10
+Secondary Diabetes,E13649,10
+Secondary Diabetes,E1365,10
+Secondary Diabetes,E1369,10
+Secondary Diabetes,E138,10
+Secondary Diabetes,E139,10
+Short stature,78343,9
+Short stature,R6252,10
+Stomach Cancer,1510,9
+Stomach Cancer,1511,9
+Stomach Cancer,1512,9
+Stomach Cancer,1513,9
+Stomach Cancer,1514,9
+Stomach Cancer,1515,9
+Stomach Cancer,1516,9
+Stomach Cancer,1518,9
+Stomach Cancer,1519,9
+Stomach Cancer,20923,9
+Stomach Cancer,2302,9
+Stomach Cancer,V1004,9
+Stomach Cancer,1510,10
+Stomach Cancer,1511,10
+Stomach Cancer,1512,10
+Stomach Cancer,1513,10
+Stomach Cancer,1514,10
+Stomach Cancer,1515,10
+Stomach Cancer,1516,10
+Stomach Cancer,1518,10
+Stomach Cancer,1519,10
+Stomach Cancer,20923,10
+Stomach Cancer,2302,10
+Stomach Cancer,7955,10
+Stomach Cancer,79551,10
+Stomach Cancer,79552,10
+Stomach Cancer,7956,10
+Stomach Cancer,79579,10
+Stomach Cancer,V010,10
+Stomach Cancer,V011,10
+Stomach Cancer,V012,10
+Stomach Cancer,V013,10
+Stomach Cancer,V014,10
+Stomach Cancer,V015,10
+Stomach Cancer,V016,10
+Stomach Cancer,V017,10
+Stomach Cancer,V0171,10
+Stomach Cancer,V0179,10
+Stomach Cancer,V018,10
+Stomach Cancer,V0181,10
+Stomach Cancer,V0182,10
+Stomach Cancer,V0183,10
+Stomach Cancer,V0184,10
+Stomach Cancer,V0189,10
+Stomach Cancer,V019,10
+Stomach Cancer,V020,10
+Stomach Cancer,V021,10
+Stomach Cancer,V022,10
+Stomach Cancer,V023,10
+Stomach Cancer,V024,10
+Stomach Cancer,V025,10
+Stomach Cancer,V0251,10
+Stomach Cancer,V0252,10
+Stomach Cancer,V0253,10
+Stomach Cancer,V0254,10
+Stomach Cancer,V0259,10
+Stomach Cancer,V026,10
+Stomach Cancer,V0260,10
+Stomach Cancer,V0261,10
+Stomach Cancer,V0262,10
+Stomach Cancer,V0269,10
+Stomach Cancer,V027,10
+Stomach Cancer,V028,10
+Stomach Cancer,V029,10
+Stomach Cancer,V030,10
+Stomach Cancer,V031,10
+Stomach Cancer,V032,10
+Stomach Cancer,V033,10
+Stomach Cancer,V034,10
+Stomach Cancer,V035,10
+Stomach Cancer,V036,10
+Stomach Cancer,V037,10
+Stomach Cancer,V038,10
+Stomach Cancer,V0381,10
+Stomach Cancer,V0382,10
+Stomach Cancer,V0389,10
+Stomach Cancer,V039,10
+Stomach Cancer,V040,10
+Stomach Cancer,V041,10
+Stomach Cancer,V042,10
+Stomach Cancer,V043,10
+Stomach Cancer,V044,10
+Stomach Cancer,V045,10
+Stomach Cancer,V046,10
+Stomach Cancer,V047,10
+Stomach Cancer,V048,10
+Stomach Cancer,V0481,10
+Stomach Cancer,V0482,10
+Stomach Cancer,V0489,10
+Stomach Cancer,V050,10
+Stomach Cancer,V051,10
+Stomach Cancer,V052,10
+Stomach Cancer,V053,10
+Stomach Cancer,V054,10
+Stomach Cancer,V058,10
+Stomach Cancer,V059,10
+Stomach Cancer,V060,10
+Stomach Cancer,V061,10
+Stomach Cancer,V062,10
+Stomach Cancer,V063,10
+Stomach Cancer,V064,10
+Stomach Cancer,V065,10
+Stomach Cancer,V066,10
+Stomach Cancer,V068,10
+Stomach Cancer,V069,10
+Stomach Cancer,V1004,10
+Stomach Cancer,V286,10
+Stomach Cancer,V712,10
+Stomach Cancer,V7182,10
+Stomach Cancer,V7183,10
+Stomach Cancer,V730,10
+Stomach Cancer,V731,10
+Stomach Cancer,V732,10
+Stomach Cancer,V733,10
+Stomach Cancer,V734,10
+Stomach Cancer,V735,10
+Stomach Cancer,V736,10
+Stomach Cancer,V738,10
+Stomach Cancer,V7381,10
+Stomach Cancer,V7388,10
+Stomach Cancer,V7389,10
+Stomach Cancer,V739,10
+Stomach Cancer,V7398,10
+Stomach Cancer,V7399,10
+Stomach Cancer,V740,10
+Stomach Cancer,V741,10
+Stomach Cancer,V742,10
+Stomach Cancer,V743,10
+Stomach Cancer,V744,10
+Stomach Cancer,V745,10
+Stomach Cancer,V746,10
+Stomach Cancer,V748,10
+Stomach Cancer,V749,10
+Stomach Cancer,V750,10
+Stomach Cancer,V751,10
+Stomach Cancer,V752,10
+Stomach Cancer,V753,10
+Stomach Cancer,V754,10
+Stomach Cancer,V755,10
+Stomach Cancer,V756,10
+Stomach Cancer,V757,10
+Stomach Cancer,V758,10
+Stomach Cancer,V759,10
+Type I Diabetes,25001,9
+Type I Diabetes,25003,9
+Type I Diabetes,25011,9
+Type I Diabetes,25013,9
+Type I Diabetes,25021,9
+Type I Diabetes,25023,9
+Type I Diabetes,25031,9
+Type I Diabetes,25033,9
+Type I Diabetes,25041,9
+Type I Diabetes,25043,9
+Type I Diabetes,25051,9
+Type I Diabetes,25053,9
+Type I Diabetes,25061,9
+Type I Diabetes,25063,9
+Type I Diabetes,25071,9
+Type I Diabetes,25073,9
+Type I Diabetes,25081,9
+Type I Diabetes,25083,9
+Type I Diabetes,25091,9
+Type I Diabetes,25093,9
+Type I Diabetes,V5867,9
+Type I Diabetes,E10,10
+Type I Diabetes,E101,10
+Type I Diabetes,E1010,10
+Type I Diabetes,E1011,10
+Type I Diabetes,E102,10
+Type I Diabetes,E1021,10
+Type I Diabetes,E1022,10
+Type I Diabetes,E1029,10
+Type I Diabetes,E103,10
+Type I Diabetes,E1031,10
+Type I Diabetes,E10311,10
+Type I Diabetes,E10319,10
+Type I Diabetes,E1032,10
+Type I Diabetes,E10321,10
+Type I Diabetes,E103211,10
+Type I Diabetes,E103212,10
+Type I Diabetes,E103213,10
+Type I Diabetes,E103219,10
+Type I Diabetes,E10329,10
+Type I Diabetes,E103291,10
+Type I Diabetes,E103292,10
+Type I Diabetes,E103293,10
+Type I Diabetes,E103299,10
+Type I Diabetes,E1033,10
+Type I Diabetes,E10331,10
+Type I Diabetes,E103311,10
+Type I Diabetes,E103312,10
+Type I Diabetes,E103313,10
+Type I Diabetes,E103319,10
+Type I Diabetes,E10339,10
+Type I Diabetes,E103391,10
+Type I Diabetes,E103392,10
+Type I Diabetes,E103393,10
+Type I Diabetes,E103399,10
+Type I Diabetes,E1034,10
+Type I Diabetes,E10341,10
+Type I Diabetes,E103411,10
+Type I Diabetes,E103412,10
+Type I Diabetes,E103413,10
+Type I Diabetes,E103419,10
+Type I Diabetes,E10349,10
+Type I Diabetes,E103491,10
+Type I Diabetes,E103492,10
+Type I Diabetes,E103493,10
+Type I Diabetes,E103499,10
+Type I Diabetes,E1035,10
+Type I Diabetes,E10351,10
+Type I Diabetes,E103511,10
+Type I Diabetes,E103512,10
+Type I Diabetes,E103513,10
+Type I Diabetes,E103519,10
+Type I Diabetes,E10352,10
+Type I Diabetes,E103521,10
+Type I Diabetes,E103522,10
+Type I Diabetes,E103523,10
+Type I Diabetes,E103529,10
+Type I Diabetes,E10353,10
+Type I Diabetes,E103531,10
+Type I Diabetes,E103532,10
+Type I Diabetes,E103533,10
+Type I Diabetes,E103539,10
+Type I Diabetes,E10354,10
+Type I Diabetes,E103541,10
+Type I Diabetes,E103542,10
+Type I Diabetes,E103543,10
+Type I Diabetes,E103549,10
+Type I Diabetes,E10355,10
+Type I Diabetes,E103551,10
+Type I Diabetes,E103552,10
+Type I Diabetes,E103553,10
+Type I Diabetes,E103559,10
+Type I Diabetes,E10359,10
+Type I Diabetes,E103591,10
+Type I Diabetes,E103592,10
+Type I Diabetes,E103593,10
+Type I Diabetes,E103599,10
+Type I Diabetes,E1036,10
+Type I Diabetes,E1037,10
+Type I Diabetes,E1037X1,10
+Type I Diabetes,E1037X2,10
+Type I Diabetes,E1037X3,10
+Type I Diabetes,E1037X9,10
+Type I Diabetes,E1039,10
+Type I Diabetes,E104,10
+Type I Diabetes,E1040,10
+Type I Diabetes,E1041,10
+Type I Diabetes,E1042,10
+Type I Diabetes,E1043,10
+Type I Diabetes,E1044,10
+Type I Diabetes,E1049,10
+Type I Diabetes,E105,10
+Type I Diabetes,E1051,10
+Type I Diabetes,E1052,10
+Type I Diabetes,E1059,10
+Type I Diabetes,E106,10
+Type I Diabetes,E1061,10
+Type I Diabetes,E10610,10
+Type I Diabetes,E10618,10
+Type I Diabetes,E1062,10
+Type I Diabetes,E10620,10
+Type I Diabetes,E10621,10
+Type I Diabetes,E10622,10
+Type I Diabetes,E10628,10
+Type I Diabetes,E1063,10
+Type I Diabetes,E10630,10
+Type I Diabetes,E10638,10
+Type I Diabetes,E1064,10
+Type I Diabetes,E10641,10
+Type I Diabetes,E10649,10
+Type I Diabetes,E1065,10
+Type I Diabetes,E1069,10
+Type I Diabetes,E108,10
+Type I Diabetes,E109,10
+Upper Respiratory Infection-Unspecified,465,9
+Upper Respiratory Infection-Unspecified,4650,9
+Upper Respiratory Infection-Unspecified,4658,9
+Upper Respiratory Infection-Unspecified,4659,9
+Upper Respiratory Infection-Unspecified,J060,10
+Upper Respiratory Infection-Unspecified,J069,10
+Upper Respiratory Infection-Unspecified,J069,10
+Venous thromboembolism,451,9
+Venous thromboembolism,4510,9
+Venous thromboembolism,4511,9
+Venous thromboembolism,45111,9
+Venous thromboembolism,45119,9
+Venous thromboembolism,4512,9
+Venous thromboembolism,4518,9
+Venous thromboembolism,45181,9
+Venous thromboembolism,45182,9
+Venous thromboembolism,45183,9
+Venous thromboembolism,45184,9
+Venous thromboembolism,45189,9
+Venous thromboembolism,4519,9
+Venous thromboembolism,453,9
+Venous thromboembolism,4530,9
+Venous thromboembolism,4531,9
+Venous thromboembolism,4532,9
+Venous thromboembolism,4533,9
+Venous thromboembolism,4534,9
+Venous thromboembolism,45340,9
+Venous thromboembolism,45341,9
+Venous thromboembolism,45342,9
+Venous thromboembolism,4535,9
+Venous thromboembolism,45350,9
+Venous thromboembolism,45351,9
+Venous thromboembolism,45352,9
+Venous thromboembolism,4536,9
+Venous thromboembolism,4537,9
+Venous thromboembolism,45371,9
+Venous thromboembolism,45372,9
+Venous thromboembolism,45373,9
+Venous thromboembolism,45374,9
+Venous thromboembolism,45375,9
+Venous thromboembolism,45376,9
+Venous thromboembolism,45377,9
+Venous thromboembolism,45379,9
+Venous thromboembolism,4538,9
+Venous thromboembolism,45381,9
+Venous thromboembolism,45382,9
+Venous thromboembolism,45383,9
+Venous thromboembolism,45384,9
+Venous thromboembolism,45385,9
+Venous thromboembolism,45386,9
+Venous thromboembolism,45387,9
+Venous thromboembolism,45389,9
+Venous thromboembolism,4539,9
+Venous thromboembolism,I8000,10
+Venous thromboembolism,I8010,10
+Venous thromboembolism,I80209,10
+Venous thromboembolism,I80219,10
+Venous thromboembolism,I803,10
+Venous thromboembolism,I808,10
+Venous thromboembolism,I808,10
+Venous thromboembolism,I808,10
+Venous thromboembolism,I808,10
+Venous thromboembolism,I809,10
+Venous thromboembolism,I820,10
+Venous thromboembolism,I821,10
+Venous thromboembolism,I82220,10
+Venous thromboembolism,I82221,10
+Venous thromboembolism,I82290,10
+Venous thromboembolism,I82291,10
+Venous thromboembolism,I823,10
+Venous thromboembolism,I82409,10
+Venous thromboembolism,I82419,10
+Venous thromboembolism,I82429,10
+Venous thromboembolism,I82439,10
+Venous thromboembolism,I82449,10
+Venous thromboembolism,I82499,10
+Venous thromboembolism,I824Y9,10
+Venous thromboembolism,I824Z9,10
+Venous thromboembolism,I82509,10
+Venous thromboembolism,I82519,10
+Venous thromboembolism,I82529,10
+Venous thromboembolism,I82539,10
+Venous thromboembolism,I82549,10
+Venous thromboembolism,I82599,10
+Venous thromboembolism,I825Y9,10
+Venous thromboembolism,I825Z9,10
+Venous thromboembolism,I82609,10
+Venous thromboembolism,I82619,10
+Venous thromboembolism,I82629,10
+Venous thromboembolism,I82709,10
+Venous thromboembolism,I82719,10
+Venous thromboembolism,I82729,10
+Venous thromboembolism,I82819,10
+Venous thromboembolism,I82890,10
+Venous thromboembolism,I82891,10
+Venous thromboembolism,I8291,10
+Venous thromboembolism,I82A19,10
+Venous thromboembolism,I82A29,10
+Venous thromboembolism,I82B19,10
+Venous thromboembolism,I82B29,10
+Venous thromboembolism,I82C19,10
+Venous thromboembolism,I82C29,10

@@ -84,6 +84,9 @@ load_rx_codes <- function(rx_group){
     tibble::deframe()
 }
 
+
+
+
 #' Return available rx code sets
 #'
 #' Return the names and descriptions of the available disease code sets
@@ -103,6 +106,7 @@ avail_rx_codes <- function(description = TRUE){
 
 }
 
+
 #' Load diagnosis codes for particular symptoms
 #'
 #' Return the sets of codes used to identify a particular symptoms
@@ -114,7 +118,7 @@ load_symptom_codes <- function(symptom_names){
 
 
   # get_descriptions
-  descriptions <- avail_disease_codes()
+  descriptions <- avail_symptom_codes()
 
   # if single code return a single list
   if (length(symptom_names)==1){
@@ -296,3 +300,40 @@ load_procedure_codes <- function(procedure_names){
   return(out_list)
 }
 
+
+#' Load misc code sets
+#'
+#' Get miscellaneous code sets
+#'
+#' @param misc_group an misc code set to load
+#'
+#' @export
+load_misc_codes <- function(misc_group){
+  
+  readr::read_csv(system.file("extdata",
+                              paste0("misc_",misc_group,".csv"),
+                              package = "codeBuildr"))
+}
+
+
+#' Return available miscellaneous code sets
+#'
+#' Return the names and descriptions of the available miscellaneous code sets
+#'
+#' @param description a logical indicator for whether to return descriptions
+#'
+#' @export
+avail_misc_codes <- function(description = TRUE){
+  
+  out <- readr::read_csv(system.file("extdata","misc_list.csv",package = "codeBuildr"),
+                         col_types = readr::cols(name = readr::col_character(),
+                                                 description = readr::col_character()
+                         ))
+  
+  if (description == FALSE) {
+    out <- out$name
+  }
+  
+  return(out)
+  
+}

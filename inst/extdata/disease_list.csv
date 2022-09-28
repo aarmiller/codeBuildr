@@ -22,6 +22,7 @@ cholelithiasis,Cholelithiasis
 cirrhosis,Cirrhosis
 clubbing,Hypertrophic osteoarthropathy/clubbing
 cocci,Coccidioidomycosis
+colon_cancer,Colon Cancer
 covid,COVID-19
 crohns,Crohn's disease
 cryptococ,Cryptococcosis
@@ -32,20 +33,21 @@ cvst,Cerebral Venous Sinus Thrombosis
 cystic_lung,Congenital cystic lung
 dengue,Dengue Fever
 diabetes_gest,Gestational Diabetes
-diabetes_sec,
-diabetes_type1,
+diabetes_sec,Secondary Diabetes
+diabetes_type1,Type I Diabetes
 diabetes_type2,
 echino,Echinococcosis
 ehrlic,Ehrlichiosis
 endocarditis,Endocarditis
 epidural_abs,Epidural Abscess
-esophagitis,Esophagitis
+esophagitis,Eosinophilic Esophagitis
 failure_to_thrive_adult,Cachexia and Adult Failure to thrive
 failure_to_thrive_child,Failure to thrive (child)
 fourniers_reduced,Fournier's Final Codes (Updated 12/9/21)
 fourniers,Fournier's Gangrene
 genital_herpes,Genital Herpes
 gerd,Gastroesophageal reflux disease (GERD)
+gi_cancer,Cancer of other GI organs; peritoneum
 gonorrhea,Gonorrhea
 gout,Gout
 granuloma_inguinale,Granuloma inguinale
@@ -85,6 +87,7 @@ nontb_myco,Nontuberculous Mycobacteria
 opioid_overdose,Opioid Overdose
 osteopenia,Osteopenia
 osteoporosis,Osteoporosis
+pancreatic_cancer,Pancreatic Cancer
 pancreatic_cysts,Cyst/pseudocyst of pancreas
 pancreatic_other,Other Pancreatic Disorders
 pancreatic_steatorrhea,Pancreatic Steatorrhea
@@ -135,6 +138,7 @@ sinusitis_chronic,Chronic Sinusitis
 skin_ulcers_chronic,Chronic skin ulcers
 spine_abs,Spinal Abscess
 sporotrichosis,Sporotrichosis
+stomach_cancer,Stomach Cancer
 stroke,Stroke
 sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
