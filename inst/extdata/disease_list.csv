@@ -10,6 +10,7 @@ blasto,Blastomycosis
 bronchiectasis,Bronchiectasis
 bronchitis_acute,Acute Bronchitis
 bronchitis_chronic,Chronic Bronchitis
+campylobacter,Campylobacter
 cdi,Clostridioides difficile Infection
 cerebellar_stroke,Cerebellar Stroke
 cervical_dissection,Cervical and Cerebral Artery Dissection
@@ -36,6 +37,7 @@ diabetes_gest,Gestational Diabetes
 diabetes_sec,Secondary Diabetes
 diabetes_type1,Type I Diabetes
 diabetes_type2,
+e_coli,E. coli O157
 echino,Echinococcosis
 ehrlic,Ehrlichiosis
 endocarditis,Endocarditis
@@ -48,10 +50,12 @@ fourniers,Fournier's Gangrene
 genital_herpes,Genital Herpes
 gerd,Gastroesophageal reflux disease (GERD)
 gi_cancer,Cancer of other GI organs; peritoneum
+giardiasis,Giardiasis
 gonorrhea,Gonorrhea
 gout,Gout
 granuloma_inguinale,Granuloma inguinale
 hanta,Hantavirus
+hepatitis_a,Hepatitis A
 hepatitis_chronic,Chronic Hepatitis
 histo,Histoplasmosis
 hiv,HIV infection
@@ -59,6 +63,7 @@ hpv,Human papillomavirus
 hsv_enceph,Herpes Simplex Virus Encephalitis
 hypersensitivity_pneumonitis,Hypersensitivity Pneumonitis
 infertility_male,Male infertility
+influenza,Influenza
 interstitial_lung,Interstitial Lung Disease
 intestinal_atresia,Intestinal atresia
 intestinal_malabsorption,Intestinal Malabsorption
@@ -77,13 +82,17 @@ measles,Measles
 meconium_ileus,Meconium obstruction in fetus or newborn
 meconium_peritonitis,Meconium peritonitis
 meningitis,Meningitis
+meningococcal,Meningococcal disease
 mrsa_other,Methicillin Resistant Staphylococcus Aureus Colonization/Carrier or History
 mrsa,Methicillin Resistant Staphylococcus Aureus
+mumps,Mumps
 mycobact,Nontuberculous Mycobacterial Infection
+mycoplasma_pneumonia,Mycoplasma pneumonia
 nasal_polyps,Nasal Polyposis
 nec_fasc,Necrotizing Faciitis
 nephrolithiasis,Nephrolithiasis
 nontb_myco,Nontuberculous Mycobacteria
+norovirus,Norovirus
 opioid_overdose,Opioid Overdose
 osteopenia,Osteopenia
 osteoporosis,Osteoporosis
@@ -116,11 +125,15 @@ reiters,Reiter's disease
 resp_failure_newborn,Respiratory Failure of Newborn
 resp_failure,Respiratory Failure
 rheumatoid_arthritis,Rheumatoid arthritis 
+rotavirus,Rotavirus
+rsv,Respiratory Syncytial Virus (RSV)
+salmonella,Salmonella
 sarcoid,Sarcoidosis
 scabies,Scabies
 scoliosis,Scoliosis
 sepsis_basic,Sepsis Basic Codes
 sepsis,Sepsis
+shigella,Shigella
 short_stature,Short stature
 sinusitis_acute_ethmoidal,Acute ethmoidal sinusitis
 sinusitis_acute_frontal,Acute frontal sinusitis
@@ -140,6 +153,7 @@ skin_ulcers_chronic,Chronic skin ulcers
 spine_abs,Spinal Abscess
 sporotrichosis,Sporotrichosis
 stomach_cancer,Stomach Cancer
+strep_group_a,Group A Streptococcus
 stroke,Stroke
 sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
@@ -150,6 +164,7 @@ tularemia,Tularemia
 ulcerative_colitis,Ulcerative colitis
 unspec_upper_resp,Upper Respiratory Infection-Unspecified
 unspecified_sti,Unspecified STI
+varicella,Vericella
 vasculitis_skin,Vasculitis of the Skin
 venous_thromboembolism,Venous thromboembolism
 vert_osteo,Vertebral Osteomyelitis
