@@ -9,7 +9,7 @@ desc <- "Sepsis Basic Codes"
     
 icd9_codes <- as.character(children_safe(c("0031","0362","038","99591","99592","78552")))
     
-icd10_codes <- as.character(children_safe(c("A021","A394","A40","A41","R652")))
+icd10_codes <- as.character(children_safe(c("A021","A394","A40","A41","R652"))) %>% unique()
 
 
 # Procedure codes:
