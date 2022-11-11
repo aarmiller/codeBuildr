@@ -23,7 +23,7 @@ icd10_codes <- as.character(children_safe(c("A039","A021","A207","A217",
                                             "P362","P363","P364","P365",
                                             "P368","P369","P352","P372","P375",
                                             "A047","B9548","B956","B962","J189",
-                                            "J440","N390"))) %>% unique()
+                                            "J440","N390","R652"))) %>% unique()
     
 # Procedure codes:
     
