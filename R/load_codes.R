@@ -337,3 +337,40 @@ avail_misc_codes <- function(description = TRUE){
   return(out)
   
 }
+
+
+#' Load misc code sets
+#'
+#' Get SSD code sets
+#'
+#' @param ssd_group an ssd code set to load
+#'
+#' @export
+load_ssd_codes <- function(ssd_group){
+  
+  readr::read_csv(system.file("extdata",
+                              paste0("ssd_",ssd_group,".csv"),
+                              package = "codeBuildr"))
+}
+
+#' Return available SSD code sets
+#'
+#' Return the names and descriptions of the available ssd code sets
+#'
+#' @param description a logical indicator for whether to return descriptions
+#'
+#' @export
+avail_ssd_codes <- function(description = TRUE){
+  
+  out <- readr::read_csv(system.file("extdata","ssd_list.csv",package = "codeBuildr"),
+                         col_types = readr::cols(name = readr::col_character(),
+                                                 description = readr::col_character()
+                         ))
+  
+  if (description == FALSE) {
+    out <- out$name
+  }
+  
+  return(out)
+  
+}

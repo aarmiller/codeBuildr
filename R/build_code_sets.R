@@ -140,6 +140,50 @@ build_code_sets <- function(){
   }
   
   readr::write_csv(desc_file, file = "inst/extdata/procedure_list.csv")
+  
+  ## BUILD SSD CODE SETS ---------------------------------------------------
+  
+  # get file names
+  ssd_files <- list.files(path = "R/ssd_codes/")
+  
+  # description file
+  desc_file <- tibble::tibble(name = character(),
+                              description = character())
+  
+  # for each ssd build code set
+  for (i in ssd_files){
+    
+    source(paste0("R/ssd_codes/",i),local = TRUE)
+    
+    dis_name <- stringr::str_remove(i,".R")
+    
+    tmp <- rbind(tibble::tibble(code = as.character(icd9_codes),
+                                type = "icd9"),
+                 tibble::tibble(code = as.character(icd10_codes),
+                                type = "icd10"),
+                 tibble::tibble(code = as.character(pr_codes_icd9),
+                                type = "icd9pcs"),
+                 tibble::tibble(code = as.character(pr_codes_icd10),
+                                type = "icd10pcs"),
+                 tibble::tibble(code = as.character(pr_codes_cpt),
+                                type = "cpt"),
+                 tibble::tibble(code = as.character(rx_codes),
+                                type = "ndc"))
+    
+    readr::write_csv(tmp, file = paste0("inst/extdata/ssd_",dis_name,
+                                        ".csv"))
+    
+    tmp_row <- tibble::tibble(name = stringr::str_remove(i,".R"),
+                              description = desc)
+    
+    desc_file <- rbind(desc_file,tmp_row)
+    
+    rm(desc, icd9_codes, icd10_codes, pr_codes_icd9, pr_codes_icd10,
+       pr_codes_cpt, rx_codes)
+    
+  }
+  
+  readr::write_csv(desc_file, file = "inst/extdata/ssd_list.csv")
 
 }
 
@@ -158,6 +202,8 @@ build_cond_file <- function(cond_name, type = "disease"){
     file_path <- "R/symptom_codes/"
   } else if (type == "procedure") {
     file_path <- "R/procedure_codes/"
+  } else if (type == "ssd") {
+    file_path <- "R/ssd_codes/"
   }
 
   current_files <- list.files(file_path)
