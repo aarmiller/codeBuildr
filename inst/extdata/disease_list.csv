@@ -11,6 +11,7 @@ bronchiectasis,Bronchiectasis
 bronchitis_acute,Acute Bronchitis
 bronchitis_chronic,Chronic Bronchitis
 campylobacter,Campylobacter
+cardiac_arrhythmia,Cardiac arrhythmia
 cdi,Clostridioides difficile Infection
 cellulitis,Cellulitis
 cerebellar_stroke,Cerebellar Stroke
@@ -42,6 +43,7 @@ e_coli,E. coli O157
 echino,Echinococcosis
 ehrlic,Ehrlichiosis
 endocarditis,Endocarditis
+endometriosis,Endometriosis
 epidural_abs,Epidural Abscess
 esophagitis,Eosinophilic Esophagitis
 failure_to_thrive_adult,Cachexia and Adult Failure to thrive
@@ -124,6 +126,7 @@ pseudomonas_pneumonia,Pseudomonas Pneumonia
 pseudomonas,Pseudomonas Infections
 pyoderma_gangrenosum,Pyoderma gangrenosum
 q_fever,Q Fever
+ra,Rheumatoid arthritis
 reiters,Reiter's disease
 resp_failure_newborn,Respiratory Failure of Newborn
 resp_failure,Respiratory Failure
