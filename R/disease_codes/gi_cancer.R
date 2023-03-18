@@ -9,7 +9,7 @@ desc <- "Cancer of other GI organs; peritoneum"
     
 icd9_codes <- as.character(children_safe(c(get_icd_from_ccs(c(18)))))
     
-icd10_codes <- as.character(children_safe(c(get_icd_from_ccs(c(18,10)))))
+icd10_codes <- as.character(children_safe(c(get_icd_from_ccs(18,10))))
     
 # Procedure codes:
     

@@ -9,7 +9,7 @@ desc <- "Pancreatic Cancer"
     
 icd9_codes <- as.character(children_safe(c(get_icd_from_ccs(c(17)))))
     
-icd10_codes <- as.character(children_safe(c(get_icd_from_ccs(c(17,10)))))
+icd10_codes <- as.character(children_safe(c(get_icd_from_ccs(c(17),10))))
     
 # Procedure codes:
     

@@ -9,7 +9,7 @@ desc <- "Stomach Cancer"
     
 icd9_codes <- as.character(children_safe(c(get_icd_from_ccs(c(13)))))
     
-icd10_codes <- as.character(children_safe(c(get_icd_from_ccs(c(13,10)))))
+icd10_codes <- as.character(children_safe(c(get_icd_from_ccs(c(13),10))))
     
 # Procedure codes:
     
