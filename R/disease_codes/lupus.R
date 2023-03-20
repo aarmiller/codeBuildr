@@ -7,9 +7,9 @@ desc <- "Lupus"
     
 # Diagnosis codes:
     
-icd9_codes <- as.character(children_safe(c("7100")))
-    
-icd10_codes <- as.character(children_safe(c("M32")))
+icd9_codes <- as.character(children_safe(codeBuildr::get_icd_from_ccs(210)))
+
+icd10_codes <- as.character(children_safe(codeBuildr::get_icd_from_ccs(210,icd_version=10)))
     
 # Procedure codes:
     
