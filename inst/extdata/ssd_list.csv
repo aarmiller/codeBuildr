@@ -2,6 +2,7 @@ name,description
 ami,Acute myocardial infarction
 append,Appendicitis
 endocarditis,Endocarditis
+epidural_abs,Epidural Abscess
 meningitis,Meningitis
 sepsis,Sepsis
 stroke,Stroke
