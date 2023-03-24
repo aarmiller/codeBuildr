@@ -1,4 +1,8 @@
 name,description
 ami,Acute myocardial infarction
+append,Appendicitis
+endocarditis,Endocarditis
+meningitis,Meningitis
 sepsis,Sepsis
+stroke,Stroke
 tb,Tuberculosis

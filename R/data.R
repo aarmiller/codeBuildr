@@ -144,3 +144,17 @@
 #' }
 #' @source \url{https://www.cms.gov/medicare/icd-10/2022-icd-10-cm}
 "icd10cm_labels"
+
+
+#' ALL ICD9 & ICD10 Labels
+#'
+#' A dataset containing labels for all ICD9 & ICD10 codes
+#'
+#' @format A data frame with 113,272 rows and 3 variables:
+#' \describe{
+#'   \item{dx}{ICD-9-CM or ICD-10-CM code}
+#'   \item{dx_ver}{Indicator of ICD-9 or ICD-10}
+#'   \item{desc}{Code description}
+#' }
+#' @source \url{https://www.cms.gov/medicare/icd-10/2022-icd-10-cm}
+"all_icd_labels"
