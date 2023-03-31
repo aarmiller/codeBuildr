@@ -7,7 +7,7 @@ desc <- "Meningitis"
     
 # Diagnosis codes:
 
-tmp <- read_csv("~/Documents/GitHub/delay_dx/params/ssd_codes/meningitis/ssd_codes.csv")
+# tmp <- read_csv("~/Documents/GitHub/delay_dx/params/ssd_codes/meningitis/ssd_codes.csv")
 
 # NOTE: Need fo fix this to get the actual ICD-10 sets
 # tmp2 <- tmp %>% 

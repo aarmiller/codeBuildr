@@ -1,9 +1,13 @@
 name,description
 ami,Acute myocardial infarction
 append,Appendicitis
+colon_cancer,Colon Cancer
+crohns_uc,Crohn's Disease & Ulcerative Colitis
 endocarditis,Endocarditis
 epidural_abs,Epidural Abscess
+lung_cancer,Lung Cancer
 meningitis,Meningitis
+pe,Pulmonary Embolism
 sepsis,Sepsis
 stroke,Stroke
 tb,Tuberculosis
