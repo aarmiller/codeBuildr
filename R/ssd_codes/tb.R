@@ -7,7 +7,7 @@ desc <- "Tuberculosis"
     
 # Diagnosis codes:
 
-library(tidyverse)
+# library(tidyverse)
 # tmp <- read_csv("~/Documents/GitHub/delay_dx/params/ssd_codes/tb/ssd_codes.csv")
 # 
 # tmp2 <- tmp %>% 
