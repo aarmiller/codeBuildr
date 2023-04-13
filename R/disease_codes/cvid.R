@@ -7,7 +7,7 @@ desc <- "Common Variable Immunodeficiency"
 
 # Diagnosis codes:
 
-icd9_codes <- as.character(icd10_to_icd9(children_safe(c("D83"))))
+icd9_codes <- as.character(icd10_to_icd9(children_safe(c("D83")))) %>% unique()
 
 icd10_codes <- as.character(children_safe(c("D83")))
 

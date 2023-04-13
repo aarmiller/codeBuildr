@@ -1,5 +1,6 @@
 name,description
 ami,Acute Myocardial Infarction
+aortic_dissection,Aortic dissection
 append,Appendicitis
 ascities,Ascites
 aspergillosis,Aspergillosis associated disease
@@ -7,6 +8,7 @@ asthma,Asthma
 babesiosis,Babesiosis
 bladder_cancer,Bladder Cancer
 blasto,Blastomycosis
+breast_cancer,Breast Cancer
 bronchiectasis,Bronchiectasis
 bronchitis_acute,Acute Bronchitis
 bronchitis_chronic,Chronic Bronchitis
