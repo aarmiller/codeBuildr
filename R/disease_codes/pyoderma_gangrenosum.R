@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Pyoderma gangrenosum"
+
+tokens <- c('pyoderma gangrenosum')
     
 # Diagnosis codes:
     

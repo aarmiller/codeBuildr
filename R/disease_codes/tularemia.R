@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Tularemia"
+
+tokens <- c('tularemia')
     
 # Diagnosis codes:
     

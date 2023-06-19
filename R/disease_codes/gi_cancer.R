@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Cancer of other GI organs; peritoneum"
+
+tokens <- c("gastrointestinal cancer")
     
 # Diagnosis codes:
     

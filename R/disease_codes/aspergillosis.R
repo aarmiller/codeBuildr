@@ -5,6 +5,8 @@
 
 desc <- "Aspergillosis associated disease"
 
+tokens <- c("aspergillosis", "aspergillosis associated disease")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5186","4846","1173")))

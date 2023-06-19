@@ -5,6 +5,8 @@
 
 desc <- "Acute Bronchitis"
 
+tokens <- c("bronchitis","acute bronchitis")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("466")))

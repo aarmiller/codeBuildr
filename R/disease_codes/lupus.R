@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Lupus"
+
+tokens <- c('lupus')
     
 # Diagnosis codes:
     

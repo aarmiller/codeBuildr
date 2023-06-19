@@ -4,6 +4,9 @@
 # Description:
     
 desc <- "Cervical and Cerebral Artery Dissection"
+
+tokens <- c("cervical dissection","cervical and cerebral artery dissection",
+            "cerebral artery dissection","cervical artery dissection")
     
 # Diagnosis codes:
     

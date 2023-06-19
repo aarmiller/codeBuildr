@@ -4,6 +4,9 @@
 # Description:
     
 desc <- "Conduction disorders"
+
+tokens <- c("conduction disorders","heart block","bundle branch block",
+            "long qt syndrome","lqts")
     
 # Diagnosis codes:
     

@@ -1,0 +1,305 @@
+disease,token
+ami,acute myocardial infarction
+ami,ami
+ami,heart attack
+ami,myocardial infarction
+angina,angina
+angina,angina pectoris
+angina,chest pain
+aortic_dissection,aortic dissection
+append,appendicitis
+ascities,ascites
+aspergillosis,aspergillosis
+aspergillosis,aspergillosis associated disease
+asthma,asthma
+babesiosis,babesiosis
+babesiosis,babesia
+bladder_cancer,bladder cancer
+bladder_cancer,bladder carcinoma
+blasto,blastomycosis
+blasto,blasto
+blasto,blastomyces
+blasto,blastomyces dermatitidis
+blasto,blastomyces gilchristii
+breast_cancer,breast cancer
+bronchiectasis,bronchiectasis
+bronchitis_acute,bronchitis
+bronchitis_acute,acute bronchitis
+bronchitis_chronic,bronchitis
+bronchitis_chronic,chronic bronchitis
+campylobacter,campylobacter
+campylobacter,campylobacteriosis
+cardiac_arrhythmia,cardiac arrhythmia
+cardiac_arrhythmia,arrhythmia
+cardiac_arrhythmia,irregular heartbeat
+cdi,clostridioides difficile infection
+cdi,clostridium difficile infection
+cdi,clostridioides difficile
+cdi,clostridium difficile
+cdi,cdi
+cdi,cdiff
+cdi,c. diff
+cdi,c. difficile
+cellulitis,cellulitis
+cerebellar_stroke,cerebellar stroke
+cerebellar_stroke,cerebellar infarct
+cerebellar_stroke,stroke
+cervical_dissection,cervical dissection
+cervical_dissection,cervical and cerebral artery dissection
+cervical_dissection,cerebral artery dissection
+cervical_dissection,cervical artery dissection
+cf_carrier,cystic fibrosis carrier
+cf_carrier,cf carrier
+cf,cystic fibrosis
+cf,cf
+cftr,cystic fibrosis transmembrane conductance regulator
+cftr,cftr
+chancroid,chancroid
+chancroid,haemophilus ducreyi
+chlamydia,clamydia
+chlamydia,chlamydia bacteria infection
+cholelithiasis,cholelithiasis
+cholelithiasis,gallstones
+cholelithiasis,gallstone
+cirrhosis,cirrhosis
+cirrhosis,hepatic cirrhosis
+clubbing,hypertrophic osteoarthropathy
+clubbing,clubbing
+clubbing,digital clubbing
+cocci,coccidioidomycosis
+cocci,cocci
+cocci,valley fever
+cocci,coccidioides
+colon_cancer,colon cancer
+colon_cancer,colorectal cancer
+conduction_disorders,conduction disorders
+conduction_disorders,heart block
+conduction_disorders,bundle branch block
+conduction_disorders,long qt syndrome
+conduction_disorders,lqts
+covid,covid
+covid,covid-19
+covid,coronavirus
+covid,sars-cov-2
+crohns_uc,crohn's disease and ulcerative colitis
+crohns,crohn's disease
+crohns,ileitis
+crohns,crohns disease
+crohns,crohn's
+crohns,crohns
+cryptococ,cryptococcosis
+cryptococ,cryptococcus neoformans
+cryptococ,cryptococcus
+cryptococ,cryptococcus gattii
+cryptospor,cryptosporidiosis
+cryptospor,crypto
+cryptospor,cryptosporidium spp
+cryptospor,cryptosporidium
+crystal_arthropathies,crystal arthropathies
+cvid,cvid
+cvid,common variable immunodeficiency
+cvst,cerebral venous sinus thrombosis
+cvst,cvst
+cystic_lung,congenital cystic lung
+cystic_lung,cystic adenomatoid malformation
+cystic_lung,bronchogenic cyst
+cystic_lung,pulmonary sequestration
+cystic_lung,congenital lobar emphysema
+dengue,dengue fever
+dengue,dengue
+dengue,breakbone fever
+diabetes_gest,gestational diabetes
+diabetes_sec,secondary diabetes
+diabetes_type1,type ii diabetes
+diabetes_type1,type 1 diabetes
+diabetes_type1,diabetes
+diabetes_type2,type ii diabetes
+diabetes_type2,type 2 diabetes
+diabetes_type2,diabetes
+e_coli,escherichia coli
+e_coli,e. coli
+e_coli,e coli
+e_coli,e. coli 0157
+echino,echinococcosis
+echino,echinocococcus
+echino,cystic echinococcosis
+echino,alveolar echinococcosis
+ehrlic,ehrlichiosis
+ehrlic,ehrlichia
+endocarditis,endocarditis
+endocarditis,inflammation of the heart valve
+endocarditis,inflammation of heart valve
+endometriosis,endometriosis
+epidural_abs,epidural abscess
+epidural_abs,spinal abscess
+esophagitis,eosinophilic esophagitis
+esophagitis,esophagitis
+failure_to_thrive_adult,cachexia
+failure_to_thrive_adult,adult failure to thrive
+failure_to_thrive_adult,failure to thrive
+failure_to_thrive_adult,wasting syndrome
+failure_to_thrive_child,failure to thrive child
+fourniers_reduced,fournier's
+fourniers_reduced,fourniers
+fourniers_reduced,fournier's gangrene
+fourniers_reduced,fourniers gangrene
+fourniers_reduced,necrotizing fasciitis of genital
+fourniers_reduced,necrotizing fasciitis of scrotum
+fourniers_reduced,necrotizing fasciitis of penis
+fourniers_reduced,necrotizing fasciitis of perineum
+fourniers,fournier's
+fourniers,fourniers
+fourniers,fournier's gangrene
+fourniers,fourniers gangrene
+fourniers,necrotizing fasciitis of genital
+fourniers,necrotizing fasciitis of scrotum
+fourniers,necrotizing fasciitis of penis
+fourniers,necrotizing fasciitis of perineum
+genital_herpes,genital herpes
+genital_herpes,herpes
+genital_herpes,herpes simplex virus
+gerd,gastroesophageal reflux disease
+gerd,gerd
+gerd,reflux
+gerd,acid reflux
+gi_cancer,gastrointestinal cancer
+giardiasis,giardiasis
+giardiasis,giardia
+giardiasis,beaver fever
+giardiasis,giardia duodenalis
+gonorrhea,gonorrhea
+gonorrhea,neisseria gonorrhoeae
+gonorrhea,the clap
+gout,gout
+granuloma_inguinale,granuloma inguinale
+hanta,hantavirus
+head_neck_cancer,head and neck cancer
+hepatitis_a,hepatitis a
+hepatitis_chronic,chronic hepatitis
+histo,histoplasmosis
+hiv,hiv infection
+hpv,human papillomavirus
+hsv_enceph,herpes simplex virus encephalitis
+hypersensitivity_pneumonitis,hypersensitivity pneumonitis
+ili,influenza-like illness
+infertility_male,male infertility
+influenza,influenza
+interstitial_lung,interstitial lung disease
+intestinal_atresia,intestinal atresia
+intestinal_malabsorption,intestinal malabsorption
+intestinal_obstruction,intestinal obstruction
+ipd,interstitial pulmonary diseases
+ipf,idiopathic pulmonary fibrosis
+lack_of_development,lack of expected normal development
+legion,legionellosis
+lepto,leptospirosis
+liver_abs,liver abscess
+long_covid,"post covid-19 condition, unspecified"
+long_covid,long covid
+long_covid,long covid-19
+lung_cancer,lung cancer
+lupus,lupus
+lyme,lyme disease
+malaria,malaria
+measles,measles
+meconium_ileus,meconium obstruction in fetus or newborn
+meconium_peritonitis,meconium peritonitis
+meningitis,meningitis
+meningococcal,meningococcal disease
+mrsa_other,methicillin resistant staphylococcus aureus colonization/carrier or history
+mrsa,methicillin resistant staphylococcus aureus
+multiple_myeloma,multiple myeloma
+multiple_sclerosis,multiple sclerosis
+mumps,mumps
+mycobact,nontuberculous mycobacterial infection
+mycobact,ntm
+mycobact,mycobacterial infection
+mycoplasma_pneumonia,mycoplasma pneumonia
+nasal_polyps,nasal polyposis
+nec_fasc,necrotizing faciitis
+nephrolithiasis,nephrolithiasis
+non_hodgkins_lymphoma,non-hodgkin's lymphoma
+nontb_myco,nontuberculous mycobacteria
+norovirus,norovirus
+opioid_overdose,opioid overdose
+osteopenia,osteopenia
+osteoporosis,osteoporosis
+pancreatic_cancer,pancreatic cancer
+pancreatic_cysts,cyst/pseudocyst of pancreas
+pancreatic_other,other pancreatic disorders
+pancreatic_steatorrhea,pancreatic steatorrhea
+pancreatitis_acute,acute pancreatitis
+pancreatitis_chronic,chronic pancreatitis
+pancreatitis,pancreatitis
+pansinusitis_acute,acute pansinusitis
+pansinusitis_chronic,chronic pansinusitis
+pcd,primary ciliary dyskinesia
+pcp,pneumocystic pneumonia
+pd,parkinson's disease
+pd,parkinsons disease
+pd,parkinsons
+pe,pulmonary embolism
+pertussis,pertussis
+phar_cancer,pharyngeal cancer
+pneumonia_congenital,congenital pneumonia
+pneumonia_gn,pneumonia due to other gram-negative bacteria
+pneumonia_mrsa,methicillin resistant pneumonia due to staphylococcus aureus
+pneumonia_recurrent,personal history of recurrent pneumonia
+pneumonia,pneumonia
+postinfective_arthropathies,postinfective and reactive arthropathies
+pseudomonas_pneumonia,pseudomonas pneumonia
+pseudomonas,pseudomonas infections
+pulmonary_hypertension,pulmonary hypertension
+pyoderma_gangrenosum,pyoderma gangrenosum
+q_fever,q fever
+ra,rheumatoid arthritis
+reiters,reiter's disease
+resp_failure_newborn,respiratory failure of newborn
+resp_failure,respiratory failure
+rheumatoid_arthritis,rheumatoid arthritis
+rotavirus,rotavirus
+rsv,respiratory syncytial virus (rsv)
+salmonella,salmonella
+sarcoid,sarcoidosis
+scabies,scabies
+scoliosis,scoliosis
+sepsis_basic,sepsis basic codes
+sepsis_revised,revised sepsis codes
+sepsis,sepsis
+sepsis10_revised,revised sepsis icd-10 codes
+shigella,shigella
+short_stature,short stature
+sinusitis_acute_ethmoidal,acute ethmoidal sinusitis
+sinusitis_acute_frontal,acute frontal sinusitis
+sinusitis_acute_maxillary,acute maxillary sinusitis
+sinusitis_acute_other,other acute sinusitis
+sinusitis_acute_sphenoidal,acute sphenoidal sinusitis
+sinusitis_acute_unspecified,"acute sinusitis, unspecified"
+sinusitis_acute,acute sinusitis
+sinusitis_chronic_ethmoidal,chronic ethmoidal sinusitis
+sinusitis_chronic_frontal,chronic frontal sinusitis
+sinusitis_chronic_maxillary,chronic maxillary sinusitis
+sinusitis_chronic_other,other chronic sinusitis
+sinusitis_chronic_sphenoidal,chronic sphenoidal sinusitis
+sinusitis_chronic_unspecified,unspecified sinusitis chronic
+sinusitis_chronic,chronic sinusitis
+skin_ulcers_chronic,chronic skin ulcers
+spine_abs,spinal abscess
+sporotrichosis,sporotrichosis
+stomach_cancer,stomach cancer
+strep_group_a,group a streptococcus
+stroke,stroke
+sweets_syndrome,sweet’s syndrome
+syphilis,syphilis
+tb,tuberculosis
+test,measles
+toxo,toxoplasmosis
+trichomoniasis,trichomoniasis
+tularemia,tularemia
+ulcerative_colitis,ulcerative colitis
+unspec_upper_resp,upper respiratory infection-unspecified
+unspecified_sti,unspecified sti
+varicella,vericella
+vasculitis_skin,vasculitis of the skin
+venous_thromboembolism,venous thromboembolism
+vert_osteo,vertebral osteomyelitis

@@ -5,6 +5,8 @@
 
 desc <- "Intestinal obstruction"
 
+tokens <- c('intestinal obstruction')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("560")))

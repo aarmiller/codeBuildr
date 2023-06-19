@@ -5,6 +5,8 @@
 
 desc <- "Venous thromboembolism"
 
+tokens <- c('venous thromboembolism')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("453","451")))

@@ -5,6 +5,8 @@
 
 desc <- "Nontuberculous Mycobacterial Infection"
 
+tokens <- c('nontuberculous mycobacterial infection',"ntm","mycobacterial infection")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("031")))

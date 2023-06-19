@@ -5,6 +5,8 @@
 
 desc <- "COVID-19"
 
+tokens <- c("covid","covid-19","coronavirus","sars-cov-2")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(c())

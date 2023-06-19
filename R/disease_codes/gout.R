@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Gout"
+
+tokens <- c('gout')
     
 # Diagnosis codes:
     

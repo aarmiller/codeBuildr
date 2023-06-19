@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Acute pansinusitis"
+
+tokens <- c('acute pansinusitis')
     
 # Diagnosis codes:
     

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Vericella"
+
+tokens <- c('vericella')
     
 # Diagnosis codes:
     

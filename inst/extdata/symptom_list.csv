@@ -1,5 +1,9 @@
 name,description
 abdominal_pain,Abdominal pain
+abnormal_sputum,Abnormal sputum
+altered_mental_status,Altered Mental Status
+anorexia,Anorexia (loss of appatite)
+anxiety,Anxiety disorders
 chest_pain,Chest Pain
 chills,Chills
 constipation,Constipation
@@ -7,7 +11,9 @@ cough,Cough
 dehydration,Dehydration
 diarrhea,Diarrhea
 disturbance_of_skin,Disturbance of Skin
+dizziness,Dizziness and giddiness
 dyspnea,Dyspnea
+enlarged_lymph_nodes,Enlarged lymph nodes
 fecal_impaction,Fecal impaction
 feeding_difficulties,Feeding difficulties and mismanagement
 fever,Fever
@@ -15,6 +21,7 @@ fluid_electrolyte,Fluid and electrolyte disorders
 headache,Headache
 heart_murmur,Heart Murmur
 hemoptysis,Hemoptysis
+hyperhidrosis,Generalized hyperhidrosis
 jaundice_neonatal,Neonatal jaundice
 jaundice,Jaundice (not of newborn)
 liver_enzyme,Abnormal liver serum enzyme levels
@@ -27,7 +34,13 @@ obesity_morbid,Morbid Obesity
 obesity,Obesity
 pain_unspec,Pain Unspecified
 paralysis,Paralysis
+pruritus,Pruritus
+rash,Skin Rash
+skin_general,General Skin Conditions
+skin_texture,Changes in Skin Texture
 smoking,Smoking or Tobacco Use
 swelling_abdom,Abdominal Swelling
 swelling_limb,Swelling of Limb
+syncope,Syncope and collapse
 urinary_retention,Urinary Retention
+weightloss,Abnormal loss of weight and underweight

@@ -5,6 +5,8 @@
 
 desc <- "Appendicitis"
 
+tokens <- c("appendicitis")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children(c("540","5400", "5401", "5409", "542", "541",

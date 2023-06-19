@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Cellulitis"
+
+tokens <- c("cellulitis")
     
 # Diagnosis codes:
     

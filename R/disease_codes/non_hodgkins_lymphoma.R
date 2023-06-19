@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Non-Hodgkin's lymphoma"
+
+tokens <- c("non-hodgkin's lymphoma")
     
 # Diagnosis codes:
     

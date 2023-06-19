@@ -3,7 +3,9 @@
     
 # Description:
     
-desc <- ""
+desc <- "Type II diabetes"
+
+tokens <- c("type ii diabetes","type 2 diabetes","diabetes")
     
 # Diagnosis codes:
     

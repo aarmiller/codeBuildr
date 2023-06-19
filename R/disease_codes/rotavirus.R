@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Rotavirus"
+
+tokens <- c('rotavirus')
     
 # Diagnosis codes:
     

@@ -5,6 +5,8 @@
 
 desc <- "Nausea or Vomiting"
 
+tokens <- c('nausea or vomiting',"nausea","vomiting","vomit","puke","barf")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5362","56987","78701","78703","78704","78720")))

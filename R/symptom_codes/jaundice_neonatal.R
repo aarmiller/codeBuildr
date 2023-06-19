@@ -5,6 +5,8 @@
 
 desc <- "Neonatal jaundice"
 
+tokens <- c('neonatal jaundice')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("774")))

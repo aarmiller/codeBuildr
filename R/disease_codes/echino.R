@@ -5,6 +5,9 @@
 
 desc <- "Echinococcosis"
 
+tokens <- c("echinococcosis","echinocococcus","cystic echinococcosis",
+            "alveolar echinococcosis")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("122")))

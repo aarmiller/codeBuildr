@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Chronic maxillary sinusitis"
+
+tokens <- c('chronic maxillary sinusitis')
     
 # Diagnosis codes:
     

@@ -5,6 +5,8 @@
 
 desc <- "Fecal impaction"
 
+tokens <- c('fecal impaction')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("56032")))

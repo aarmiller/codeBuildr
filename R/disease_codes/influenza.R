@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Influenza"
+
+tokens <- c('influenza')
     
 # Diagnosis codes:
     

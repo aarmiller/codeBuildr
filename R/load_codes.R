@@ -374,3 +374,54 @@ avail_ssd_codes <- function(description = TRUE){
   return(out)
   
 }
+
+#' Return symptom and disease tokens
+#'
+#' Returns the tokens for disease and symptom codes
+#'
+#' @export
+load_tokens <- function(){
+  
+  symptom_data <- readr::read_csv(system.file("extdata",
+                                              paste0("symptom_tokens.csv"),
+                                              package = "codeBuildr"),
+                                  col_types = readr::cols(symptom = readr::col_character(),
+                                                          token = readr::col_character()))
+  
+  disease_data <- readr::read_csv(system.file("extdata",
+                                              paste0("disease_tokens.csv"),
+                                              package = "codeBuildr"),
+                                  col_types = readr::cols(disease = readr::col_character(),
+                                                          token = readr::col_character()))
+  
+  tokens <- rbind(dplyr::mutate(symptom_data,set = "symptom") %>% 
+                    dplyr::rename(condition=symptom),
+                  dplyr::mutate(disease_data,set = "disease") %>% 
+                    dplyr::rename(condition=disease))
+  
+  return(tokens)
+}
+
+
+#' Find tokens corresponding to diseases and symptoms
+#'
+#' Return the tokens and corresponding disease and symptom sets from a list of
+#' terms. Each term input is matched to all potential tokens
+#'
+#' @param term_list a character vector of terms to scan for token matches
+#'
+#' @export
+find_tokens <- function(term_list){
+  # load tokens
+  tokens <- codeBuildr::load_tokens()
+  
+  # function to filter tokens
+  filter_tokens <- function(data_list,token){data_list[str_detect(data_list,token)]}
+  
+  # output
+  tokens %>% 
+    dplyr::mutate(term = purrr::map(token,~filter_tokens(term_list,.))) %>% 
+    tidyr::unnest(term) %>% 
+    dplyr::distinct(term,condition,set) %>% 
+    dplyr::arrange(term,condition,set)
+}

@@ -5,6 +5,8 @@
 
 desc <- "Liver Abscess"
 
+tokens <- c('liver abscess')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5720","0063")))

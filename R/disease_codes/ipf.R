@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Idiopathic Pulmonary Fibrosis"
+
+tokens <- c('idiopathic pulmonary fibrosis')
     
 # Diagnosis codes:
     

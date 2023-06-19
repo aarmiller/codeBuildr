@@ -5,6 +5,8 @@
 
 desc <- "Bladder Cancer"
 
+tokens <- c("bladder cancer","bladder carcinoma")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("188")))

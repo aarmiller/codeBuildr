@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Methicillin Resistant Staphylococcus Aureus"
+
+tokens <- c('methicillin resistant staphylococcus aureus')
     
 # Diagnosis codes:
     

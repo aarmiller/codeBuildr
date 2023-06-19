@@ -5,6 +5,9 @@
 
 desc <- "Endocarditis"
 
+tokens <- c("endocarditis","inflammation of the heart valve",
+            "inflammation of heart valve")
+
 # Diagnosis codes:
 
 icd9_codes <- c("1363","4210","4211","4219","03642","09884","11281","11504",

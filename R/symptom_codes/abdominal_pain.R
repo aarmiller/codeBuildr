@@ -5,6 +5,8 @@
 
 desc <- "Abdominal pain"
 
+tokens <- c('abdominal pain')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7890")))

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Endometriosis"
+
+tokens <- c("endometriosis")
     
 # Diagnosis codes:
     

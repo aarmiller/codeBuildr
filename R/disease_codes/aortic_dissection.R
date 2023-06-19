@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Aortic dissection"
+
+tokens <- c("aortic dissection")
     
 # Diagnosis codes:
     

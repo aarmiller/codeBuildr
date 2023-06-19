@@ -5,6 +5,8 @@
 
 desc <- "Intestinal Malabsorption"
 
+tokens <- c('intestinal malabsorption')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("579")))

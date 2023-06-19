@@ -5,6 +5,8 @@
 
 desc <- "Other Pancreatic Disorders"
 
+tokens <- c('other pancreatic disorders')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5778","5779")))

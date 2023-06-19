@@ -5,6 +5,8 @@
 
 desc <- "Intestinal atresia"
 
+tokens <- c('intestinal atresia')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7511", "7512")))

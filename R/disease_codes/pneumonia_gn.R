@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Pneumonia due to other gram-negative bacteria"
+
+tokens <- c('pneumonia due to other gram-negative bacteria')
     
 # Diagnosis codes:
     

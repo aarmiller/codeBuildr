@@ -5,6 +5,8 @@
 
 desc <- "Chronic Hepatitis"
 
+tokens <- c('chronic hepatitis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("57141","57149","57140")))

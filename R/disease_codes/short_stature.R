@@ -5,6 +5,8 @@
 
 desc <- "Short stature"
 
+tokens <- c('short stature')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("78343")))

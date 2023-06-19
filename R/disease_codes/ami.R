@@ -5,6 +5,9 @@
 
 desc <- "Acute Myocardial Infarction"
 
+tokens <- c("acute myocardial infarction", "ami", "heart attack", 
+            "myocardial infarction")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children(c("410")))

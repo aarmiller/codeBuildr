@@ -5,6 +5,8 @@
 
 desc <- "Pancreatitis"
 
+tokens <- c('pancreatitis')
+
 # Diagnosis codes:
 
 icd9_codes <- children(c("5770",   # Acute Pancreatitis

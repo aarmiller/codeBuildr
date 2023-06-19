@@ -5,6 +5,8 @@
 
 desc <- "Constipation"
 
+tokens <- c('constipation')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5640")))

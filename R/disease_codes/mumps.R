@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Mumps"
+
+tokens <- c('mumps')
     
 # Diagnosis codes:
     

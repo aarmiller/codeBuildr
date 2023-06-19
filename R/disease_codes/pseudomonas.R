@@ -5,6 +5,8 @@
 
 desc <- "Pseudomonas Infections"
 
+tokens <- c('pseudomonas infections')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("0417","4821")))

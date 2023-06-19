@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Human papillomavirus"
+
+tokens <- c('human papillomavirus')
     
 # Diagnosis codes:
     

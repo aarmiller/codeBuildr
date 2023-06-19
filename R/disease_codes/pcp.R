@@ -5,6 +5,8 @@
 
 desc <- "Pneumocystic Pneumonia"
 
+tokens <- c('pneumocystic pneumonia')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("1363")))

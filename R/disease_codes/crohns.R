@@ -4,6 +4,9 @@
 # Description:
     
 desc <- "Crohn's disease"
+
+tokens <- c("crohn's disease","ileitis","crohns disease",
+            "crohn's","crohns")
     
 # Diagnosis codes:
     

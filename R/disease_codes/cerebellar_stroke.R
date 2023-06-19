@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Cerebellar Stroke"
+
+tokens <- c("cerebellar stroke","cerebellar infarct","stroke")
     
 # Diagnosis codes:
     

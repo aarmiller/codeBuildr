@@ -5,6 +5,8 @@
 
 desc <- "Malaise and Fatigue"
 
+tokens <- c('malaise and fatigue',"fatigue","malaise","weakness")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(get_icd_from_ccs(c(252)))

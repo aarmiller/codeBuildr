@@ -5,6 +5,8 @@
 
 desc <- "Tuberculosis"
 
+tokens <- c('tuberculosis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("013","017","018","011","012","014",

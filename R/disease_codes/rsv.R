@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Respiratory Syncytial Virus (RSV)"
+
+tokens <- c('respiratory syncytial virus (rsv)')
     
 # Diagnosis codes:
     

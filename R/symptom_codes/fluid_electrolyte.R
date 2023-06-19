@@ -5,6 +5,8 @@
 
 desc <- "Fluid and electrolyte disorders"
 
+tokens <- c('fluid and electrolyte disorders')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(get_icd_from_ccs(c(55)))

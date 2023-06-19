@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Post COVID-19 condition, unspecified"
+
+tokens <- c('post covid-19 condition, unspecified',"long covid","long covid-19")
     
 # Diagnosis codes:
     

@@ -5,6 +5,8 @@
 
 desc <- "Cyst/pseudocyst of pancreas"
 
+tokens <- c('cyst/pseudocyst of pancreas')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5772")))

@@ -5,6 +5,8 @@
 
 desc <- "Night Sweats"
 
+tokens <- c('night sweats')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7808")))

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Gonorrhea"
+
+tokens <- c("gonorrhea","neisseria gonorrhoeae","the clap")
     
 # Diagnosis codes:
     

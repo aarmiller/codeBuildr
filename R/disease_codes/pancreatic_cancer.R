@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Pancreatic Cancer"
+
+tokens <- c('pancreatic cancer')
     
 # Diagnosis codes:
     

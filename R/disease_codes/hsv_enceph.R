@@ -5,6 +5,8 @@
 
 desc <- "Herpes Simplex Virus Encephalitis"
 
+tokens <- c('herpes simplex virus encephalitis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("0543")))

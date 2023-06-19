@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Sporotrichosis"
+
+tokens <- c('sporotrichosis')
     
 # Diagnosis codes:
     

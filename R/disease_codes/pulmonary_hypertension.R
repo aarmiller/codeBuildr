@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Pulmonary Hypertension"
+
+tokens <- c('pulmonary hypertension')
     
 # Diagnosis codes:
     

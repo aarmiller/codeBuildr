@@ -5,6 +5,10 @@
 
 desc <- "Clostridioides difficile Infection"
 
+tokens <- c("clostridioides difficile infection","clostridium difficile infection",
+            "clostridioides difficile","clostridium difficile",
+            "cdi","cdiff","c. diff","c. difficile")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(c("00845"))

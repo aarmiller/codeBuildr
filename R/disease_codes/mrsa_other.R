@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Methicillin Resistant Staphylococcus Aureus Colonization/Carrier or History"
+
+tokens <- c('methicillin resistant staphylococcus aureus colonization/carrier or history')
     
 # Diagnosis codes:
     

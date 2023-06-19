@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Acute sphenoidal sinusitis"
+
+tokens <- c('acute sphenoidal sinusitis')
     
 # Diagnosis codes:
     

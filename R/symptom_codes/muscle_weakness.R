@@ -5,6 +5,8 @@
 
 desc <- "Muscle Weakness"
 
+tokens <- c('muscle weakness',"weakness")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("72887")))

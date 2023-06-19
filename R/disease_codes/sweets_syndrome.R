@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Sweet’s Syndrome"
+
+tokens <- c('sweet’s syndrome')
     
 # Diagnosis codes:
     

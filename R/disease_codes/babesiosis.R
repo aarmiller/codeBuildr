@@ -5,6 +5,8 @@
 
 desc <- "Babesiosis"
 
+tokens <- c("babesiosis","babesia")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("08882")))

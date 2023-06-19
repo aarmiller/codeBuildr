@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Chancroid"
+
+tokens <- c("chancroid","haemophilus ducreyi")
     
 # Diagnosis codes:
     

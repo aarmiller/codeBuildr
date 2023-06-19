@@ -1,0 +1,176 @@
+symptom,token
+abdominal_pain,abdominal pain
+abnormal_sputum,abnormal sputum
+abnormal_sputum,coughing sputum
+abnormal_sputum,coughing up sputum
+abnormal_sputum,sputum
+abnormal_sputum,phlegm
+altered_mental_status,altered mental status
+altered_mental_status,confusion
+anorexia,anorexia (loss of appatite)
+anorexia,anorexia
+anorexia,loss of appatite
+anxiety,anxiety
+anxiety,panic
+anxiety,panic attack
+anxiety,overanxious
+anxiety,anxious
+chest_pain,chest pain
+chills,chills
+constipation,constipation
+cough,cough
+dehydration,dehydration
+diarrhea,diarrhea
+disturbance_of_skin,disturbance of skin
+disturbance_of_skin,abnormal skin sensitivity
+disturbance_of_skin,abnormal skin sensitivity
+disturbance_of_skin,altered sensation of skin
+disturbance_of_skin,anesthesia of skin
+disturbance_of_skin,burning sensation of skin
+disturbance_of_skin,circumoral paresthesia
+disturbance_of_skin,Dysesthesia
+disturbance_of_skin,tingling sensation
+disturbance_of_skin,hyperesthesia
+disturbance_of_skin,hyperesthesia (increased sensitivity)
+disturbance_of_skin,hypoesthesia (reduced sensation)
+disturbance_of_skin,numbness and tingling of skin
+disturbance_of_skin,numbness and tingling sensation of skin
+disturbance_of_skin,numbness of skin
+disturbance_of_skin,paresthesia
+disturbance_of_skin,pins and needles
+disturbance_of_skin,prickling sensation
+disturbance_of_skin,prickling sensation of skin
+disturbance_of_skin,sensation of burning of skin
+disturbance_of_skin,sensation of burning or prickling of skin
+disturbance_of_skin,sensory disorder
+disturbance_of_skin,burning or prickling sensation
+disturbance_of_skin,skin sensation disturbance
+disturbance_of_skin,Tingling sensation
+dizziness,dizziness and giddiness
+dizziness,dizziness
+dizziness,giddiness
+dizziness,vertigo
+dizziness,disembarkment syndrome
+dizziness,disequilibrium
+dizziness,dysequilibrium
+dizziness,light headedness
+dizziness,lightheadedness
+dizziness,dedebarquement syndrome
+dizziness,lightheaded
+dyspnea,dyspnea
+dyspnea,shortness of breath
+dyspnea,difficulty breathing
+dyspnea,difficult breathing
+dyspnea,breathlessness
+dyspnea,painful breathing
+dyspnea,labored breathing
+enlarged_lymph_nodes,enlarged lymph nodes
+enlarged_lymph_nodes,swollen lymph nodes
+enlarged_lymph_nodes,lymph nodes
+fecal_impaction,fecal impaction
+feeding_difficulties,feeding difficulties and mismanagement
+fever,fever
+fluid_electrolyte,fluid and electrolyte disorders
+headache,headache
+heart_murmur,heart murmur
+hemoptysis,hemoptysis
+hemoptysis,cough blood
+hemoptysis,coughing blood
+hemoptysis,coughing up blood
+hyperhidrosis,hyperhidrosis
+hyperhidrosis,sweating
+hyperhidrosis,excessive sweating
+hyperhidrosis,night sweats
+jaundice_neonatal,neonatal jaundice
+jaundice,jaundice (not of newborn)
+liver_enzyme,abnormal liver serum enzyme levels
+loss_smell_taste,loss of sense of smell and taste
+malaise_fatigue,malaise and fatigue
+malaise_fatigue,fatigue
+malaise_fatigue,malaise
+malaise_fatigue,weakness
+muscle_weakness,muscle weakness
+muscle_weakness,weakness
+nausea_vomitting,nausea or vomiting
+nausea_vomitting,nausea
+nausea_vomitting,vomiting
+nausea_vomitting,vomit
+nausea_vomitting,puke
+nausea_vomitting,barf
+night_sweats,night sweats
+obesity_morbid,morbid obesity
+obesity,obesity
+pain_unspec,pain unspecified
+paralysis,paralysis
+pruritus,pruritus
+pruritus,itching
+pruritus,itchy skin
+pruritus,itchiness
+pruritus,scratching
+pruritus,scratch
+rash,rash
+rash,skin eruption
+skin_general,changes in skin texture
+skin_general,skin texture
+skin_general,disorder of skin texture
+skin_general,eschar
+skin_general,induration of skin
+skin_general,skin eschar
+skin_general,thickening of skin
+skin_general,blister
+skin_general,bumps on skin
+skin_general,bumps on the skin
+skin_general,rash
+skin_general,skin eruption
+skin_general,disturbance of skin
+skin_general,abnormal skin sensitivity
+skin_general,abnormal skin sensitivity
+skin_general,altered sensation of skin
+skin_general,anesthesia of skin
+skin_general,burning sensation of skin
+skin_general,circumoral paresthesia
+skin_general,Dysesthesia
+skin_general,tingling sensation
+skin_general,hyperesthesia
+skin_general,hyperesthesia (increased sensitivity)
+skin_general,hypoesthesia (reduced sensation)
+skin_general,numbness and tingling of skin
+skin_general,numbness and tingling sensation of skin
+skin_general,numbness of skin
+skin_general,paresthesia
+skin_general,pins and needles
+skin_general,prickling sensation
+skin_general,prickling sensation of skin
+skin_general,sensation of burning of skin
+skin_general,sensation of burning or prickling of skin
+skin_general,sensory disorder
+skin_general,burning or prickling sensation
+skin_general,skin sensation disturbance
+skin_general,tingling sensation
+skin_general,blisters on the skin
+skin_general,crusts on the skin
+skin_general,skin crusts
+skin_texture,changes in skin texture
+skin_texture,skin texture
+skin_texture,disorder of skin texture
+skin_texture,eschar
+skin_texture,induration of skin
+skin_texture,skin eschar
+skin_texture,thickening of skin
+skin_texture,blister
+skin_texture,bumps on skin
+skin_texture,bumps on the skin
+skin_texture,thickening of the skin
+smoking,smoking or tobacco use
+swelling_abdom,abdominal swelling
+swelling_limb,swelling of limb
+syncope,syncope
+syncope,collapse
+syncope,syncope and collapse
+syncope,fainting
+syncope,loss of consciousness
+syncope,faint
+urinary_retention,urinary retention
+weightloss,abnormal loss of weight and underweight
+weightloss,weight loss
+weightloss,underweight

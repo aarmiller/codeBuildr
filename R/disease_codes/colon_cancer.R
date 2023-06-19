@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Colon Cancer"
+
+tokens <- c("colon cancer","colorectal cancer")
     
 # Diagnosis codes:
     

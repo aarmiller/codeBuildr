@@ -5,6 +5,8 @@
 
 desc <- "Lyme Disease"
 
+tokens <- c('lyme disease')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("08881")))

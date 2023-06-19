@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Chronic sphenoidal sinusitis"
+
+tokens <- c('chronic sphenoidal sinusitis')
     
 # Diagnosis codes:
     

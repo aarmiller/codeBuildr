@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Head and Neck Cancer"
+
+tokens <- c('head and neck cancer')
     
 # Diagnosis codes:
     

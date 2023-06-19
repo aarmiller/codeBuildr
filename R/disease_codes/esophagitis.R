@@ -5,6 +5,8 @@
 
 desc <- "Eosinophilic Esophagitis"
 
+tokens <- c("eosinophilic esophagitis","esophagitis")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("53013")))

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Methicillin resistant pneumonia due to Staphylococcus aureus"
+
+tokens <- c('methicillin resistant pneumonia due to staphylococcus aureus')
     
 # Diagnosis codes:
     

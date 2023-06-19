@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "E. coli O157"
+
+tokens <- c("escherichia coli","e. coli","e coli", "e. coli 0157")
     
 # Diagnosis codes:
     

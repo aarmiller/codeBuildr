@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Cerebral Venous Sinus Thrombosis"
+
+tokens <- c("cerebral venous sinus thrombosis","cvst")
     
 # Diagnosis codes:
     

@@ -5,6 +5,10 @@
 
 desc <- "Dyspnea"
 
+tokens <- c('dyspnea', "shortness of breath", "difficulty breathing",
+            "difficult breathing", "breathlessness", "painful breathing",
+            "labored breathing")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7860","78600","78601","78602",

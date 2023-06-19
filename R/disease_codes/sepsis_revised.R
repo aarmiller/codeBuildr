@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Revised Sepsis Codes"
+
+tokens <- c('revised sepsis codes')
     
 # Diagnosis codes:
     

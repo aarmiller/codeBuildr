@@ -5,6 +5,8 @@
 
 desc <- "Urinary Retention"
 
+tokens <- c('urinary retention')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7882")))

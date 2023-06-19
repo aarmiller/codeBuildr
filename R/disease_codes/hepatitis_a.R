@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Hepatitis A"
+
+tokens <- c('hepatitis a')
     
 # Diagnosis codes:
     

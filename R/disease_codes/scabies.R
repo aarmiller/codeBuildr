@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Scabies"
+
+tokens <- c('scabies')
     
 # Diagnosis codes:
     

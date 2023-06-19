@@ -5,6 +5,8 @@
 
 desc <- "Stroke"
 
+tokens <- c('stroke')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("43301","43311","43321","43331",

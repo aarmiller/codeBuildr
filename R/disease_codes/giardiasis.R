@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Giardiasis"
+
+tokens <- c("giardiasis","giardia","beaver fever","giardia duodenalis")
     
 # Diagnosis codes:
     

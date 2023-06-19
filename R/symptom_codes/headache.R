@@ -5,6 +5,8 @@
 
 desc <- "Headache"
 
+tokens <- c('headache')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(get_icd_from_ccs(c(84)))

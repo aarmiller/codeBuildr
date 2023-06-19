@@ -5,6 +5,8 @@
 
 desc <- "CFTR Mutation (CF or CF Carrier)"
 
+tokens <- c("cystic fibrosis transmembrane conductance regulator","cftr")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("2770","V8381")))

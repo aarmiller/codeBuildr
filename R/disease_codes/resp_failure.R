@@ -5,6 +5,8 @@
 
 desc <- "Respiratory Failure"
 
+tokens <- c('respiratory failure')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("51851","51852","51853","51881","51882",

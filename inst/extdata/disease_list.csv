@@ -1,5 +1,6 @@
 name,description
 ami,Acute Myocardial Infarction
+angina,Angina pectoris
 aortic_dissection,Aortic dissection
 append,Appendicitis
 ascities,Ascites
@@ -42,7 +43,7 @@ dengue,Dengue Fever
 diabetes_gest,Gestational Diabetes
 diabetes_sec,Secondary Diabetes
 diabetes_type1,Type I Diabetes
-diabetes_type2,
+diabetes_type2,Type II diabetes
 e_coli,E. coli O157
 echino,Echinococcosis
 ehrlic,Ehrlichiosis
@@ -175,6 +176,7 @@ stroke,Stroke
 sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
 tb,Tuberculosis
+test,Measles
 toxo,Toxoplasmosis
 trichomoniasis,Trichomoniasis
 tularemia,Tularemia

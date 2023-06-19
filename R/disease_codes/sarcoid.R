@@ -5,6 +5,8 @@
 
 desc <- "Sarcoidosis"
 
+tokens <- c('sarcoidosis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("135","3214")))

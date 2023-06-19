@@ -5,6 +5,10 @@
 
 desc <- "Congenital cystic lung"
 
+tokens <- c("congenital cystic lung","cystic adenomatoid malformation",
+            "bronchogenic cyst","pulmonary sequestration",
+            "congenital lobar emphysema")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7484")))

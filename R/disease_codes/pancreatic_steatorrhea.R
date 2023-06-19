@@ -5,6 +5,8 @@
 
 desc <- "Pancreatic Steatorrhea"
 
+tokens <- c('pancreatic steatorrhea')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("5794")))

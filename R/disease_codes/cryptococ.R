@@ -5,6 +5,9 @@
 
 desc <- "Cryptococcosis"
 
+tokens <- c("cryptococcosis","cryptococcus neoformans","cryptococcus",
+            "cryptococcus gattii")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("1175", "3210")))

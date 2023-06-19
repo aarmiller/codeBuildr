@@ -5,6 +5,8 @@
 
 desc <- "Nasal Polyposis"
 
+tokens <- c('nasal polyposis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("471")))

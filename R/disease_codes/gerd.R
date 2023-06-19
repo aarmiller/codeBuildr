@@ -5,6 +5,8 @@
 
 desc <- "Gastroesophageal reflux disease (GERD)"
 
+tokens <- c("gastroesophageal reflux disease","gerd","reflux","acid reflux")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("53081")))

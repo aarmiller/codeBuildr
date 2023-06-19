@@ -5,6 +5,8 @@
 
 desc <- "Hypertrophic osteoarthropathy/clubbing"
 
+tokens <- c("hypertrophic osteoarthropathy","clubbing","digital clubbing")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7815","7312")))

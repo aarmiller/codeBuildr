@@ -10,6 +10,8 @@
 # Description:
     
 desc <- "Lung Cancer"
+
+tokens <- c('lung cancer')
     
 # Diagnosis codes:
     

@@ -5,6 +5,8 @@
 
 desc <- "Cystic Fibrosis Carrier"
 
+tokens <- c("cystic fibrosis carrier","cf carrier")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children("V8381"))

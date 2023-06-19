@@ -5,6 +5,8 @@
 
 desc <- "Necrotizing Faciitis"
 
+tokens <- c('necrotizing faciitis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("72886","60883","0400","V1389")))

@@ -5,6 +5,8 @@
 
 desc <- "Cholelithiasis"
 
+tokens <- c("cholelithiasis","gallstones","gallstone")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("574")))

@@ -5,6 +5,8 @@
 
 desc <- "Ascites"
 
+tokens <- c("ascites")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7895")))

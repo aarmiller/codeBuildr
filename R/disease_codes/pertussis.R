@@ -5,6 +5,8 @@
 
 desc <- "Pertussis"
 
+tokens <- c('pertussis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("033")))

@@ -5,6 +5,8 @@
 
 desc <- "Gestational Diabetes"
 
+tokens <- c("gestational diabetes")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children(c("6488")))

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Shigella"
+
+tokens <- c('shigella')
     
 # Diagnosis codes:
     

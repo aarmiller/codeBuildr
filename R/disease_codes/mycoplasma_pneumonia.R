@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Mycoplasma pneumonia"
+
+tokens <- c('mycoplasma pneumonia')
     
 # Diagnosis codes:
     

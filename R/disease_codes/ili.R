@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Influenza-Like Illness"
+
+tokens <- c('influenza-like illness')
     
 # Diagnosis codes:
     

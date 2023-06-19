@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Campylobacter"
+
+tokens <- c("campylobacter", "campylobacteriosis")
     
 # Diagnosis codes:
     

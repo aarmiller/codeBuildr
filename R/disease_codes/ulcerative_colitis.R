@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Ulcerative colitis"
+
+tokens <- c('ulcerative colitis')
     
 # Diagnosis codes:
     

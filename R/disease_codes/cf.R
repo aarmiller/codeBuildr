@@ -5,6 +5,8 @@
 
 desc <- "Cystic Fibrosis"
 
+tokens <- c("cystic fibrosis","cf")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children(c("2770")))

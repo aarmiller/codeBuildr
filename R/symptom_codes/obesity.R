@@ -5,6 +5,8 @@
 
 desc <- "Obesity"
 
+tokens <- c('obesity')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("27800","27801","27803")))

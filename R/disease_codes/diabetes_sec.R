@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Secondary Diabetes"
+
+tokens <- c("secondary diabetes")
     
 # Diagnosis codes:
     

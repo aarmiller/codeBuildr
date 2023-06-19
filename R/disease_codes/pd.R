@@ -5,6 +5,8 @@
 
 desc <- "Parkinson's Disease"
 
+tokens <- c("parkinson's disease","parkinsons disease","parkinsons")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("3320")))

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Smoking or Tobacco Use"
+
+tokens <- c('smoking or tobacco use')
     
 # Diagnosis codes:
     

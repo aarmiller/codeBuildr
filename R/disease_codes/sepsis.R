@@ -5,6 +5,8 @@
 
 desc <- "Sepsis"
 
+tokens <- c('sepsis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("99592","78552","0223","0362","0545",

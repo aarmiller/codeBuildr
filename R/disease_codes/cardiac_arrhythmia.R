@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Cardiac arrhythmia"
+
+tokens <- c("cardiac arrhythmia","arrhythmia","irregular heartbeat")
     
 # Diagnosis codes:
     

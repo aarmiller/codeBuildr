@@ -5,6 +5,8 @@
 
 desc <- "Dengue Fever"
 
+tokens <- c("dengue fever","dengue","breakbone fever")
+
 # Diagnosis codes:
 
 icd9_codes <- children_safe(c("061","0654"))

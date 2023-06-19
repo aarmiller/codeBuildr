@@ -5,6 +5,8 @@
 
 desc <- "HIV infection"
 
+tokens <- c('hiv infection')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(get_icd_from_ccs(5))

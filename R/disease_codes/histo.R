@@ -5,6 +5,8 @@
 
 desc <- "Histoplasmosis"
 
+tokens <- c('histoplasmosis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children("115"))

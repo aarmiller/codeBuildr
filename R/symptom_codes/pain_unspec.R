@@ -5,6 +5,8 @@
 
 desc <- "Pain Unspecified"
 
+tokens <- c('pain unspecified')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("33819","78096")))

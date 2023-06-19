@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Granuloma inguinale"
+
+tokens <- c('granuloma inguinale')
     
 # Diagnosis codes:
     

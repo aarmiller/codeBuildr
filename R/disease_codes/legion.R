@@ -5,6 +5,8 @@
 
 desc <- "Legionellosis"
 
+tokens <- c('legionellosis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("48284","48283")))

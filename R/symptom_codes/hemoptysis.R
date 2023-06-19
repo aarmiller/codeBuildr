@@ -5,6 +5,8 @@
 
 desc <- "Hemoptysis"
 
+tokens <- c('hemoptysis', "cough blood", "coughing blood", "coughing up blood")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7863")))

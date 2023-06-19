@@ -5,6 +5,8 @@
 
 desc <- "Syphilis"
 
+tokens <- c('syphilis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("095","096","091","090","092","093",

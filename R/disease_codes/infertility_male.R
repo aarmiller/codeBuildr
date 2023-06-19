@@ -5,6 +5,8 @@
 
 desc <- "Male infertility"
 
+tokens <- c('male infertility')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("606")))

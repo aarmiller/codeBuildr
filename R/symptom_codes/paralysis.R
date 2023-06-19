@@ -5,6 +5,8 @@
 
 desc <- "Paralysis"
 
+tokens <- c('paralysis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("3449")))

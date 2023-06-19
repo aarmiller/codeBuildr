@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Multiple myeloma"
+
+tokens <- c('multiple myeloma')
     
 # Diagnosis codes:
     

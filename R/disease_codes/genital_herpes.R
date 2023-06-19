@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Genital Herpes"
+
+tokens <- c("genital herpes","herpes","herpes simplex virus")
     
 # Diagnosis codes:
     

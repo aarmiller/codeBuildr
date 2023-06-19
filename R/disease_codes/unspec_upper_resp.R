@@ -5,6 +5,8 @@
 
 desc <- "Upper Respiratory Infection-Unspecified"
 
+tokens <- c('upper respiratory infection-unspecified')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("465")))

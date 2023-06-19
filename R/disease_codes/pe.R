@@ -5,6 +5,8 @@
 
 desc <- "Pulmonary Embolism"
 
+tokens <- c('pulmonary embolism')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("4151")))

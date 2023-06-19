@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Pseudomonas Pneumonia"
+
+tokens <- c('pseudomonas pneumonia')
     
 # Diagnosis codes:
     

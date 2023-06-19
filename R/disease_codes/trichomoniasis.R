@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Trichomoniasis"
+
+tokens <- c('trichomoniasis')
     
 # Diagnosis codes:
     

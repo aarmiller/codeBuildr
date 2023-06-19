@@ -5,6 +5,8 @@
 
 desc <- "Coccidioidomycosis"
 
+tokens <- c("coccidioidomycosis","cocci","valley fever","coccidioides")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children("114"))

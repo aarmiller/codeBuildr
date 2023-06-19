@@ -5,6 +5,8 @@
 
 desc <- "Failure to thrive (child)"
 
+tokens <- c("failure to thrive child")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("78341")))

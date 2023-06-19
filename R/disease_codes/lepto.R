@@ -5,6 +5,8 @@
 
 desc <- "Leptospirosis"
 
+tokens <- c('leptospirosis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("100")))

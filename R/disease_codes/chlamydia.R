@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Clamydia"
+
+tokens <- c("clamydia","chlamydia bacteria infection")
     
 # Diagnosis codes:
     

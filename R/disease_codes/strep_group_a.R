@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Group A Streptococcus"
+
+tokens <- c('group a streptococcus')
     
 # Diagnosis codes:
     

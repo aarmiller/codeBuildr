@@ -5,6 +5,8 @@
 
 desc <- "Epidural Abscess"
 
+tokens <- c("epidural abscess","spinal abscess")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("3240","3241","3249")))

@@ -5,6 +5,8 @@
 
 desc <- "Meconium obstruction in fetus or newborn"
 
+tokens <- c('meconium obstruction in fetus or newborn')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7771")))

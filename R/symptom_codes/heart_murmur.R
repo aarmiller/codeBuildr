@@ -5,6 +5,8 @@
 
 desc <- "Heart Murmur"
 
+tokens <- c('heart murmur')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7852","7853")))

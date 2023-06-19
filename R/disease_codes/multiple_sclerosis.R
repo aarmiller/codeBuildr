@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Multiple sclerosis"
+
+tokens <- c('multiple sclerosis')
     
 # Diagnosis codes:
     

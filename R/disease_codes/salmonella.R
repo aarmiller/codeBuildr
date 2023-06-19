@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Salmonella"
+
+tokens <- c('salmonella')
     
 # Diagnosis codes:
     

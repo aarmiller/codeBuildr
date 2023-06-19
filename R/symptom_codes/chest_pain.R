@@ -5,6 +5,8 @@
 
 desc <- "Chest Pain"
 
+tokens <- c('chest pain')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7841","7865")))

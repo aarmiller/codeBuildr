@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Chronic ethmoidal sinusitis"
+
+tokens <- c('chronic ethmoidal sinusitis')
     
 # Diagnosis codes:
     

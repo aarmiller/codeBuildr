@@ -5,6 +5,9 @@
 
 desc <- "Cachexia and Adult Failure to thrive"
 
+tokens <- c("cachexia","adult failure to thrive","failure to thrive",
+            "wasting syndrome")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7994","7837")))

@@ -5,6 +5,8 @@
 
 desc <- "Lack of Expected Normal Development"
 
+tokens <- c('lack of expected normal development')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("78340")))

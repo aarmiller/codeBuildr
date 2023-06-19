@@ -5,6 +5,8 @@
 
 desc <- "Pharyngeal Cancer"
 
+tokens <- c('pharyngeal cancer')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("1490","1469","1619","1410","1418",

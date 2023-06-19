@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Rheumatoid arthritis"
+
+tokens <- c('rheumatoid arthritis')
     
 # Diagnosis codes:
     

@@ -5,6 +5,8 @@
 
 desc <- "Feeding difficulties and mismanagement"
 
+tokens <- c('feeding difficulties and mismanagement')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7833")))

@@ -5,6 +5,8 @@
 
 desc <- "Vertebral Osteomyelitis"
 
+tokens <- c('vertebral osteomyelitis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("73028")))

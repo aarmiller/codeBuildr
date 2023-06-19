@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Chronic frontal sinusitis"
+
+tokens <- c('chronic frontal sinusitis')
     
 # Diagnosis codes:
     

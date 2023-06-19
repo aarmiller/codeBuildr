@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Interstitial Lung Disease"
+
+tokens <- c('interstitial lung disease')
     
 # Diagnosis codes:
     

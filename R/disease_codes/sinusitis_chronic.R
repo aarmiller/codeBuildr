@@ -5,6 +5,8 @@
 
 desc <- "Chronic Sinusitis"
 
+tokens <- c('chronic sinusitis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("4730","4731","4732","4733","4738",

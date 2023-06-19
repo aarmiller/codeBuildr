@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Other chronic sinusitis"
+
+tokens <- c('other chronic sinusitis')
     
 # Diagnosis codes:
     

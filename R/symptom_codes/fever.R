@@ -5,6 +5,8 @@
 
 desc <- "Fever"
 
+tokens <- c('fever')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(get_icd_from_ccs(246))

@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Chronic skin ulcers"
+
+tokens <- c('chronic skin ulcers')
     
 # Diagnosis codes:
     

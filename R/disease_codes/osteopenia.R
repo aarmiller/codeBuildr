@@ -5,6 +5,8 @@
 
 desc <- "Osteopenia"
 
+tokens <- c('osteopenia')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("73390")))

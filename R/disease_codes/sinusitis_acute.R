@@ -5,6 +5,8 @@
 
 desc <- "Acute Sinusitis"
 
+tokens <- c('acute sinusitis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("4610","4611","4612","4613","4618")))

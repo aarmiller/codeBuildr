@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Other Crystal Arthropathies"
+
+tokens <- c("crystal arthropathies")
     
 # Diagnosis codes:
     

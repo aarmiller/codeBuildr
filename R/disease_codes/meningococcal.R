@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Meningococcal disease"
+
+tokens <- c('meningococcal disease')
     
 # Diagnosis codes:
     

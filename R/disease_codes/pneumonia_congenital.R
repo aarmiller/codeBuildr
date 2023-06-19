@@ -5,6 +5,8 @@
 
 desc <- "Congenital pneumonia"
 
+tokens <- c('congenital pneumonia')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("7700")))

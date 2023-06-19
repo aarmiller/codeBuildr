@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Reiter's disease"
+
+tokens <- c("reiter's disease")
     
 # Diagnosis codes:
     

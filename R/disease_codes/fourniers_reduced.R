@@ -4,6 +4,10 @@
 # Description:
     
 desc <- "Fournier's Final Codes (Updated 12/9/21)"
+
+tokens <- c("fournier's","fourniers","fournier's gangrene","fourniers gangrene",
+            "necrotizing fasciitis of genital","necrotizing fasciitis of scrotum",
+            "necrotizing fasciitis of penis","necrotizing fasciitis of perineum")
     
 # Diagnosis codes:
     

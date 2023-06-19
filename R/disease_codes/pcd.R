@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Primary Ciliary Dyskinesia"
+
+tokens <- c('primary ciliary dyskinesia')
     
 # Diagnosis codes:
     

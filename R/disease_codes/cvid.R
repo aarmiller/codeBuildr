@@ -5,6 +5,8 @@
 
 desc <- "Common Variable Immunodeficiency"
 
+tokens <- c("cvid","common variable immunodeficiency")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(icd10_to_icd9(children_safe(c("D83")))) %>% unique()

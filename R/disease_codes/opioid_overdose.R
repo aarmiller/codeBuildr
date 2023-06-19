@@ -5,6 +5,8 @@
 
 desc <- "Opioid Overdose"
 
+tokens <- c('opioid overdose')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("9650","E8500", "E8501", "E8502")))

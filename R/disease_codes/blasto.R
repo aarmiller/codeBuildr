@@ -5,6 +5,9 @@
 
 desc <- "Blastomycosis"
 
+tokens <- c("blastomycosis","blasto","blastomyces","blastomyces dermatitidis",
+            "blastomyces gilchristii")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children("116"))

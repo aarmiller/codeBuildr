@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Norovirus"
+
+tokens <- c('norovirus')
     
 # Diagnosis codes:
     

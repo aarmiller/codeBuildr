@@ -5,6 +5,8 @@
 
 desc <- "Meningitis"
 
+tokens <- c('meningitis')
+
 # Diagnosis codes:
 
 icd9_codes <- c(as.character(children_safe(c("00321","0270","0360","0361","320"))),

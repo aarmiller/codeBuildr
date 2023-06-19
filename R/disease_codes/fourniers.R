@@ -5,6 +5,10 @@
 
 desc <- "Fournier's Gangrene"
 
+tokens <- c("fournier's","fourniers","fournier's gangrene","fourniers gangrene",
+            "necrotizing fasciitis of genital","necrotizing fasciitis of scrotum",
+            "necrotizing fasciitis of penis","necrotizing fasciitis of perineum")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("60883","72886","6072","6084",

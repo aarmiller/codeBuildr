@@ -5,6 +5,8 @@
 
 desc <- "Bronchiectasis"
 
+tokens <- c("bronchiectasis")
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("494")))

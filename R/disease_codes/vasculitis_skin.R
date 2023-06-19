@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Vasculitis of the Skin"
+
+tokens <- c('vasculitis of the skin')
     
 # Diagnosis codes:
     

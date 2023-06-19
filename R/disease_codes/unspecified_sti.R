@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Unspecified STI"
+
+tokens <- c('unspecified sti')
     
 # Diagnosis codes:
     

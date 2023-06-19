@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Postinfective and reactive arthropathies"
+
+tokens <- c('postinfective and reactive arthropathies')
     
 # Diagnosis codes:
     

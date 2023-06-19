@@ -5,6 +5,8 @@
 
 desc <- "Personal history of recurrent pneumonia"
 
+tokens <- c('personal history of recurrent pneumonia')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("V1261")))

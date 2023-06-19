@@ -5,6 +5,8 @@
 
 desc <- "Scoliosis"
 
+tokens <- c('scoliosis')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("73730")))

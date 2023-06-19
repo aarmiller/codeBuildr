@@ -5,6 +5,8 @@
 
 desc <- "Diarrhea"
 
+tokens <- c('diarrhea')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("78791")))

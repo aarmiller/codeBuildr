@@ -5,6 +5,8 @@
 
 desc <- "Q Fever"
 
+tokens <- c('q fever')
+
 # Diagnosis codes:
 
 icd9_codes <- as.character(children_safe(c("0830")))

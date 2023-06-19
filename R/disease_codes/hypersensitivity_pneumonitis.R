@@ -4,6 +4,8 @@
 # Description:
     
 desc <- "Hypersensitivity Pneumonitis"
+
+tokens <- c('hypersensitivity pneumonitis')
     
 # Diagnosis codes:
     

@@ -17,6 +17,10 @@ build_code_sets <- function(){
   # description file
   desc_file <- tibble::tibble(name = character(),
                               description = character())
+  
+  # file to hold disease tokens
+  disease_tokens <- tibble::tibble(disease = character(),
+                                   token = character())
 
   # for each disease build code set
   for (i in disease_files){
@@ -41,17 +45,26 @@ build_code_sets <- function(){
     readr::write_csv(tmp, file = paste0("inst/extdata/diag_",dis_name,
                                         ".csv"))
 
+    # update description file
     tmp_row <- tibble::tibble(name = stringr::str_remove(i,".R"),
                               description = desc)
 
     desc_file <- rbind(desc_file,tmp_row)
+    
+    # add disease token
+    tmp_token <- tibble(disease = dis_name,
+                        token = tokens)
+    
+    disease_tokens <- rbind(disease_tokens,
+                            tmp_token)
 
     rm(desc, icd9_codes, icd10_codes, pr_codes_icd9, pr_codes_icd10,
-       pr_codes_cpt, rx_codes)
+       pr_codes_cpt, rx_codes, tokens, tmp_token)
 
   }
 
   readr::write_csv(desc_file, file = "inst/extdata/disease_list.csv")
+  readr::write_csv(disease_tokens, file = "inst/extdata/disease_tokens.csv")
 
   ## BUILD SYMPTOM CODE SETS ---------------------------------------------------
 
@@ -61,6 +74,10 @@ build_code_sets <- function(){
   # description file
   desc_file <- tibble::tibble(name = character(),
                               description = character())
+  
+  # file to hold disease tokens
+  symptom_tokens <- tibble::tibble(symptom = character(),
+                                   token = character())
 
   # for each disease build code set
   for (i in symp_files){
@@ -89,13 +106,21 @@ build_code_sets <- function(){
                               description = desc)
 
     desc_file <- rbind(desc_file,tmp_row)
+    
+    # add disease token
+    tmp_token <- tibble(symptom = symp_name,
+                        token = tokens)
+    
+    symptom_tokens <- rbind(symptom_tokens,
+                            tmp_token)
 
     rm(desc, icd9_codes, icd10_codes, pr_codes_icd9, pr_codes_icd10,
-       pr_codes_cpt, rx_codes)
+       pr_codes_cpt, rx_codes, tokens, tmp_token)
 
   }
 
   readr::write_csv(desc_file, file = "inst/extdata/symptom_list.csv")
+  readr::write_csv(symptom_tokens, file = "inst/extdata/symptom_tokens.csv")
   
   ## BUILD PROCEDURE CODE SETS -------------------------------------------------
   
@@ -218,6 +243,7 @@ build_cond_file <- function(cond_name, type = "disease"){
         '\n
     \n# Description:
     \ndesc <- ""
+    \ntokens <- c()
     \n# Diagnosis codes:
     \nicd9_codes <- as.character(children_safe(c()))
     \nicd10_codes <- as.character(children_safe(c()))
