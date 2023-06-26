@@ -11,6 +11,8 @@ hsv_enceph,HSV Encephalitis
 lung_cancer,Lung Cancer
 meningitis,Meningitis
 pe,Pulmonary Embolism
+sarcoid_lung,Sarcoidosis Skin
+sarcoid_skin,Sarcoidosis Lung
 sarcoid,Sarcoidosis
 sepsis_revised10,Sepsis
 sepsis,Sepsis
