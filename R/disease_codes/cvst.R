@@ -11,7 +11,7 @@ tokens <- c("cerebral venous sinus thrombosis","cvst")
     
 icd9_codes <- as.character(children_safe(c("325","4376","6715")))
     
-icd10_codes <- as.character(children_safe(c("I636","I676","G08","O225","0873")))
+icd10_codes <- as.character(children_safe(c("I636","I676","G08","O225","O873")))
     
 # Procedure codes:
     
