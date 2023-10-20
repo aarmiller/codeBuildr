@@ -1,6 +1,8 @@
 name,description
 ami,Acute myocardial infarction
 append,Appendicitis
+blasto,Blastomycosis
+cocci,Coccidioidomycosis
 colon_cancer,Colon Cancer
 crohns_uc,Crohn's Disease & Ulcerative Colitis
 cvst,Cerebral Venous Sinus Thrombosis
@@ -10,6 +12,7 @@ histo,Histoplasmosis
 hsv_enceph,HSV Encephalitis
 lung_cancer,Lung Cancer
 meningitis,Meningitis
+pcp,pneumocystis pneumonia
 pe,Pulmonary Embolism
 sarcoid_lung,Sarcoidosis Skin
 sarcoid_skin,Sarcoidosis Lung
