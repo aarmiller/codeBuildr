@@ -15,9 +15,9 @@ tokens <- c('lung cancer')
     
 # Diagnosis codes:
     
-icd9_codes <- as.character(children_safe(c("162")))
+icd9_codes <- get_icd_from_ccs(19)
     
-icd10_codes <- as.character(children_safe(c("C33","C34")))
+icd10_codes <- get_icd_from_ccs(19,icd_version = 10)
     
 # Procedure codes:
     
