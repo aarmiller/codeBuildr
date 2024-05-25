@@ -69,6 +69,9 @@ cirrhosis,hepatic cirrhosis
 clubbing,hypertrophic osteoarthropathy
 clubbing,clubbing
 clubbing,digital clubbing
+cmv,Cytomegalovirus
+cmv,CMV
+cmv,Cytomegalovirus infection
 cocci,coccidioidomycosis
 cocci,cocci
 cocci,valley fever
@@ -123,6 +126,9 @@ e_coli,escherichia coli
 e_coli,e. coli
 e_coli,e coli
 e_coli,e. coli 0157
+ebv,Epstein-Barr virus
+ebv,EBV
+ebv,Epstein-Barr virusinfection
 echino,echinococcosis
 echino,echinocococcus
 echino,cystic echinococcosis

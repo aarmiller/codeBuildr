@@ -28,6 +28,7 @@ chlamydia,Clamydia
 cholelithiasis,Cholelithiasis
 cirrhosis,Cirrhosis
 clubbing,Hypertrophic osteoarthropathy/clubbing
+cmv,Cytomegalovirus (CMV) infection
 cocci,Coccidioidomycosis
 colon_cancer,Colon Cancer
 conduction_disorders,Conduction disorders
@@ -46,6 +47,7 @@ diabetes_sec,Secondary Diabetes
 diabetes_type1,Type I Diabetes
 diabetes_type2,Type II diabetes
 e_coli,E. coli O157
+ebv,Epstein-Barr virus (EBV) infection
 echino,Echinococcosis
 ehrlic,Ehrlichiosis
 endocarditis,Endocarditis

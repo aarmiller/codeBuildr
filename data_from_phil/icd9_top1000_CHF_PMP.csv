@@ -1,0 +1,1002 @@
+from icd10,from plots,dx,n,desc
+,,4019,2783567,4019 - Unspecified essential hypertension
+,,25000,2386064,25000 - Diabetes mellitus without mention of com
+,,42731,1513376,42731 - Atrial fibrillation
+,,4011,1428254,4011 - Benign essential hypertension
+,Y,496,1403738,"496 - Chronic airway obstruction, not elsewher"
+,,2724,1120635,2724 - Other and unspecified hyperlipidemia
+,,5856,1110921,5856 - End stage renal disease
+,,41401,893362,41401 - Coronary atherosclerosis of native coron
+,,28521,739747,28521 - Anemia in chronic kidney disease
+,,7242,724471,7242 - Lumbago
+,,41400,685751,41400 - Coronary atherosclerosis of unspecified 
+Y,Y,78650,683837,"78650 - Chest pain, unspecified"
+,Y,78605,613455,78605 - Shortness of breath
+,,2859,574742,"2859 - Anemia, unspecified"
+,,V5861,573842,V5861 - Long-term (current) use of anticoagulant
+,,2809,548467,"2809 - Iron deficiency anemia, unspecified"
+Y,Y,7295,546044,7295 - Pain in limb
+,,25002,486067,25002 - Diabetes mellitus without mention of com
+,,32723,466115,32723 - Obstructive sleep apnea (adult)(pediatri
+,,2449,459754,2449 - Unspecified acquired hypothyroidism
+Y,Y,78079,444955,78079 - Other malaise and fatigue
+,,2720,443603,2720 - Pure hypercholesterolemia
+,,5990,441380,"5990 - Urinary tract infection, site not specif"
+,,1101,428031,1101 - Dermatophytosis of nail
+,,7812,426324,7812 - Abnormality of gait
+,,78099,411870,78099 - Other general symptoms
+,,311,386140,"311 - Depressive disorder, not elsewhere class"
+,,58881,364342,58881 - Secondary hyperparathyroidism (of renal 
+,,71946,363601,"71946 - Pain in joint, lower leg"
+Y,Y,72887,361701,72887 - Muscle weakness (generalized)
+Y,,53081,357358,53081 - Esophageal reflux
+Y,Y,7823,348954,7823 - Edema
+Y,Y,78609,341835,78609 - Other respiratory abnormalities
+,,9999,340741,9999 - Other and unspecified complications of m
+Y,Y,7862,336087,7862 - Cough
+Y,Y,486,332906,"486 - Pneumonia, organism unspecified"
+,,185,330669,185 - Malignant neoplasm of prostate
+,,V5869,324454,V5869 - Long-term (current) use of other medicat
+Y,Y,78900,323190,"78900 - Abdominal pain, unspecified site"
+,,7393,318403,"7393 - Nonallopathic lesions, lumbar region"
+,,71941,291482,"71941 - Pain in joint, shoulder region"
+,,4439,284795,"4439 - Peripheral vascular disease, unspecified"
+,,72252,283264,72252 - Degeneration of lumbar or lumbosacral in
+,,36616,277694,36616 - Senile nuclear sclerosis
+,,7197,277673,7197 - Difficulty in walking
+,,7020,274874,7020 - Actinic keratosis
+,,V571,272294,V571 - Care involving other physical therapy
+,,7231,269070,7231 - Cervicalgia
+,,1749,268613,"1749 - Malignant neoplasm of breast (female), u"
+,,7244,266812,7244 - Thoracic or lumbosacral neuritis or radi
+Y,Y,49390,258116,"49390 - Asthma, unspecified type, unspecified"
+,,V0481,255879,V0481 - Need for prophylactic vaccination and in
+,,71945,254895,"71945 - Pain in joint, pelvic region and thigh"
+,,4241,254570,4241 - Aortic valve disorders
+Y,Y,4660,243236,4660 - Acute bronchitis
+,,71590,240597,"71590 - Osteoarthrosis, unspecified whether gene"
+,,71516,237057,"71516 - Osteoarthrosis, localized, primary, lowe"
+Y,Y,7804,232637,7804 - Dizziness and giddiness
+,,36511,229781,36511 - Primary open angle glaucoma
+Y,Y,7245,225871,"7245 - Backache, unspecified"
+,,7140,225417,7140 - Rheumatoid arthritis
+,,7391,221964,"7391 - Nonallopathic lesions, cervical region"
+,,5853,220977,"5853 - Chronic kidney disease, Stage III (moder"
+,,25001,218863,25001 - Diabetes mellitus without mention of com
+,,4240,218793,4240 - Mitral valve disorders
+,,V709,217854,V709 - Unspecified general medical examination
+,,2722,217256,2722 - Mixed hyperlipidemia
+,,71596,216227,"71596 - Osteoarthrosis, unspecified whether gene"
+,,436,214800,"436 - Acute, but ill-defined, cerebrovascular "
+,,72402,214741,"72402 - Spinal stenosis, lumbar region, without "
+Y,Y,7802,210958,7802 - Syncope and collapse
+,,25060,210287,25060 - Diabetes with neurological manifestation
+,,7999,199352,7999 - Other unknown and unspecified cause of m
+,,30000,197903,"30000 - Anxiety state, unspecified"
+,,43310,197614,43310 - Occlusion and stenosis of carotid artery
+,,V7612,197432,V7612 - Other screening mammogram
+,,1629,191989,"1629 - Malignant neoplasm of bronchus and lung,"
+Y,,79431,189532,79431 - Nonspecific abnormal electrocardiogram [
+,,70715,186176,70715 - Ulcer of other part of foot
+,,V5789,185072,V5789 - Care involving other specified rehabilit
+,,7213,180004,7213 - Lumbosacral spondylosis without myelopat
+Y,Y,78659,178200,78659 - Other chest pain
+Y,Y,4139,174668,4139 - Other and unspecified angina pectoris
+Y,Y,79902,173859,79902 - Hypoxemia
+,,V5883,173334,V5883 - Encounter for therapeutic drug monitorin
+Y,Y,49121,172129,49121 - Obstructive chronic bronchitis with (acu
+Y,Y,7840,171003,7840 - Headache
+,,V700,169880,V700 - Routine general medical examination at a
+Y,,4254,168044,4254 - Other primary cardiomyopathies
+,,5849,167281,"5849 - Acute kidney failure, unspecified"
+,,3051,165706,3051 - Tobacco use disorder
+,,42781,163849,42781 - Sinoatrial node dysfunction
+Y,Y,51889,160185,"51889 - Other diseases of lung, not elsewhere cl"
+,,5859,159566,"5859 - Chronic kidney disease, unspecified"
+,Y,5119,158569,5119 - Unspecified pleural effusion
+,,42789,156650,42789 - Other specified cardiac dysrhythmias
+,,73300,155819,"73300 - Osteoporosis, unspecified"
+Y,Y,4293,154626,4293 - Cardiomegaly
+,,585,154401,585 - Chronic kidney disease (CKD)
+,,27800,151223,"27800 - Obesity, unspecified"
+,,V5811,150689,V5811 - Encounter for antineoplastic chemotherap
+,,7291,148022,"7291 - Myalgia and myositis, unspecified"
+,,319,147204,319 - Unspecified intellectual disabilities
+,,V4501,146413,V4501 - Cardiac pacemaker in situ
+,,3320,142236,3320 - Paralysis agitans
+Y,Y,78701,138326,78701 - Nausea with vomiting
+,,36252,138262,36252 - Exudative senile macular degeneration
+,,78791,137590,78791 - Diarrhea
+,,72210,137325,72210 - Displacement of lumbar intervertebral di
+,Y,72981,136926,72981 - Swelling of limb
+,,4779,136394,"4779 - Allergic rhinitis, cause unspecified"
+,,2382,135140,2382 - Neoplasm of uncertain behavior of skin
+Y,Y,6826,134540,"6826 - Cellulitis and abscess of leg, except fo"
+,,43491,134045,"43491 - Cerebral artery occlusion, unspecified w"
+,,5939,132632,5939 - Unspecified disorder of kidney and urete
+,,71690,130501,"71690 - Arthropathy, unspecified, site unspecifi"
+Y,,4659,127858,4659 - Acute upper respiratory infections of un
+,Y,7851,127033,7851 - Palpitations
+Y,,56210,125727,56210 - Diverticulosis of colon (without mention
+,,3310,124947,3310 - Alzheimer's disease
+,,60000,122342,60000 - Hypertrophy (benign) of prostate without
+,,7030,120920,7030 - Ingrowing nail
+,,56400,120845,"56400 - Constipation, unspecified"
+Y,Y,51881,120681,51881 - Acute respiratory failure
+,,27801,120098,27801 - Morbid obesity
+,,45981,119346,"45981 - Venous (peripheral) insufficiency, unspe"
+,,78053,119090,"78053 - Hypersomnia with sleep apnea, unspecifie"
+,,5854,118648,"5854 - Chronic kidney disease, Stage IV (severe"
+,,4279,118354,"4279 - Cardiac dysrhythmia, unspecified"
+,,20300,117651,"20300 - Multiple myeloma, without mention of hav"
+,,7243,116753,7243 - Sciatica
+,,4010,116321,4010 - Malignant essential hypertension
+,,4149,115828,"4149 - Chronic ischemic heart disease, unspecif"
+,,V7283,115574,V7283 - Other specified pre-operative examinatio
+,,25080,114263,25080 - Diabetes with other specified manifestat
+Y,Y,4928,113856,4928 - Other emphysema
+,,7813,113237,7813 - Lack of coordination
+Y,Y,27651,113137,27651 - Dehydration
+,,V4365,112635,V4365 - Knee joint replacement
+,,4619,112068,"4619 - Acute sinusitis, unspecified"
+Y,,6929,111371,"6929 - Contact dermatitis and other eczema, uns"
+,,V4581,110992,V4581 - Aortocoronary bypass status
+,,36251,110504,36251 - Nonexudative senile macular degeneration
+,,2689,109434,2689 - Unspecified vitamin D deficiency
+,,2113,107837,2113 - Benign neoplasm of colon
+,,V431,107057,V431 - Lens replaced by other means
+,,71947,107043,"71947 - Pain in joint, ankle and foot"
+,,3569,105677,3569 - Unspecified hereditary and idiopathic pe
+,,78720,105349,"78720 - Dysphagia, unspecified"
+,,78057,103530,78057 - Unspecified sleep apnea
+,,40390,103220,"40390 - Hypertensive chronic kidney disease, uns"
+,,40210,102413,40210 - Benign hypertensive heart disease withou
+,,412,102246,412 - Old myocardial infarction
+,,7993,102206,"7993 - Debility, unspecified"
+Y,Y,5180,102034,5180 - Pulmonary collapse
+,,4770,101827,4770 - Allergic rhinitis due to pollen
+,,3804,101717,3804 - Impacted cerumen
+,,20280,100806,"20280 - Other malignant lymphomas, unspecified s"
+,,2662,100032,2662 - Other B-complex deficiencies
+,,7392,99510,"7392 - Nonallopathic lesions, thoracic region"
+,,25040,99416,"25040 - Diabetes with renal manifestations, type"
+,,60001,98961,60001 - Hypertrophy (benign) of prostate with ur
+,,4359,98773,4359 - Unspecified transient cerebral ischemia
+,,2749,97846,"2749 - Gout, unspecified"
+,,78820,96530,"78820 - Retention of urine, unspecified"
+,,V7281,95827,V7281 - Pre-operative cardiovascular examination
+,,71509,95453,"71509 - Osteoarthrosis, generalized, multiple si"
+,,7224,94870,7224 - Degeneration of cervical intervertebral 
+Y,Y,2768,94569,2768 - Hypopotassemia
+,,V726,94399,V726 - Laboratory examination
+Y,Y,2761,94108,2761 - Hyposmolality and/or hyponatremia
+,,5789,92858,"5789 - Hemorrhage of gastrointestinal tract, un"
+,,44020,92137,44020 - Atherosclerosis of native arteries of th
+,,V4582,91693,V4582 - Percutaneous transluminal coronary angio
+,,7234,91433,7234 - Brachial neuritis or radiculitis NOS
+,,29632,91363,"29632 - Major depressive affective disorder, rec"
+,,33829,90391,33829 - Other chronic pain
+Y,Y,78651,90092,78651 - Precordial pain
+Y,Y,78097,89326,78097 - Altered mental status
+Y,Y,490,88821,"490 - Bronchitis, not specified as acute or ch"
+,,25070,88253,25070 - Diabetes with peripheral circulatory dis
+,,72610,87999,72610 - Disorders of bursae and tendons in shoul
+,,73390,86946,"73390 - Disorder of bone and cartilage, unspecif"
+Y,Y,6829,86586,6829 - Cellulitis and abscess of unspecified si
+,,5920,86427,5920 - Calculus of kidney
+,,515,86230,515 - Postinflammatory pulmonary fibrosis
+,,25050,85704,"25050 - Diabetes with ophthalmic manifestations,"
+,,4111,85289,4111 - Intermediate coronary syndrome
+,,78039,85250,78039 - Other convulsions
+,,70714,83561,70714 - Ulcer of heel and midfoot
+,,3572,82977,3572 - Polyneuropathy in diabetes
+,,41519,82348,41519 - Other pulmonary embolism and infarction
+,,4414,82119,4414 - Abdominal aneurysm without mention of ru
+,,1985,81342,1985 - Secondary malignant neoplasm of bone and
+Y,Y,78909,80806,"78909 - Abdominal pain, other specified site"
+,,7241,80787,7241 - Pain in thoracic spine
+,,3540,80624,3540 - Carpal tunnel syndrome
+,,V433,79776,V433 - Heart valve replaced by other means
+,,2572,79561,2572 - Other testicular hypofunction
+Y,Y,78907,79385,"78907 - Abdominal pain, generalized"
+,,2869,79294,2869 - Other and unspecified coagulation defect
+,,V5881,78589,V5881 - Fitting and adjustment of vascular cathe
+,,78060,77613,"78060 - Fever, unspecified"
+,,V580,77592,V580 - Encounter for radiotherapy
+,,29633,77514,"29633 - Major depressive affective disorder, rec"
+,,3004,77050,3004 - Dysthymic disorder
+,,2948,76472,2948 - Other persistent mental disorders due to
+,,V7284,76106,"V7284 - Pre-operative examination, unspecified"
+,,1889,76076,"1889 - Malignant neoplasm of bladder, part unsp"
+,,70219,75894,70219 - Other seborrheic keratosis
+,,30002,75818,30002 - Generalized anxiety disorder
+,,44021,75442,44021 - Atherosclerosis of native arteries of th
+,,7210,74753,7210 - Cervical spondylosis without myelopathy
+,,4271,73787,4271 - Paroxysmal ventricular tachycardia
+,,7820,73615,7820 - Disturbance of skin sensation
+,,V7231,73493,V7231 - Routine gynecological examination
+,,45340,73369,45340 - Acute venous embolism and thrombosis of 
+,,V691,73355,V691 - Inappropriate diet and eating habits
+,,586,73218,"586 - Renal failure, unspecified"
+,,4778,72855,4778 - Allergic rhinitis due to other allergen
+Y,Y,7931,72462,7931 - Lung field
+,,42732,72193,42732 - Atrial flutter
+Y,Y,78702,71874,78702 - Nausea alone
+,,7906,71717,7906 - Other abnormal blood chemistry
+,,72885,71673,72885 - Spasm of muscle
+,,8208,70791,8208 - Closed fracture of unspecified part of n
+,,5589,70194,5589 - Other and unspecified noninfectious gast
+,,37515,69980,"37515 - Tear film insufficiency, unspecified"
+,,78841,69739,78841 - Urinary frequency
+,Y,49120,69604,49120 - Obstructive chronic bronchitis without e
+,,1539,69325,"1539 - Malignant neoplasm of colon, unspecified"
+,,40290,69311,40290 - Unspecified hypertensive heart disease w
+,,4148,69264,4148 - Other specified forms of chronic ischemi
+,,3669,68937,3669 - Unspecified cataract
+,,V1588,68562,V1588 - History of fall
+,,78321,67680,78321 - Loss of weight
+,,71536,67564,"71536 - Osteoarthrosis, localized, not specified"
+,,71595,67135,"71595 - Osteoarthrosis, unspecified whether gene"
+,,5533,67100,5533 - Diaphragmatic hernia without mention of 
+,Y,4739,66792,4739 - Unspecified sinusitis (chronic)
+,,V4589,66689,V4589 - Other postprocedural status
+,,36653,66538,"36653 - After-cataract, obscuring vision"
+,,79093,66157,79093 - Elevated prostate specific antigen [PSA]
+,,70710,66004,"70710 - Ulcer of lower limb, unspecified"
+,,40391,66001,"40391 - Hypertensive chronic kidney disease, uns"
+,,2900,65917,"2900 - Senile dementia, uncomplicated"
+,,1733,65610,1733 - Other and unspecified malignant neoplasm
+,,V5481,65254,V5481 - Aftercare following joint replacement
+,,71500,65213,"71500 - Osteoarthrosis, generalized, site unspec"
+,,36201,65071,36201 - Background diabetic retinopathy
+,,78830,64650,"78830 - Urinary incontinence, unspecified"
+,,29420,64012,"29420 - Dementia, unspecified, without behaviora"
+,Y,78906,63299,"78906 - Abdominal pain, epigastric"
+,,4571,62996,4571 - Other lymphedema
+,,36501,62615,"36501 - Open angle with borderline findings, low"
+,,2810,62417,2810 - Pernicious anemia
+,,70211,62395,70211 - Inflamed seborrheic keratosis
+,,V7651,61718,V7651 - Special screening for malignant neoplasm
+,,V4364,61577,V4364 - Hip joint replacement
+,,V103,61392,V103 - Personal history of malignant neoplasm o
+,,340,61219,340 - Multiple sclerosis
+,,7038,61133,7038 - Other specified diseases of nail
+,,389,61060,0389 - Unspecified septicemia
+,Y,79319,60779,79319 - Other nonspecific abnormal finding of lu
+Y,Y,4589,60732,"4589 - Hypotension, unspecified"
+,,8404,60580,8404 - Rotator cuff (capsule) sprain
+,,2875,60533,"2875 - Thrombocytopenia, unspecified"
+,,V1582,60311,V1582 - Personal history of tobacco use
+,,59970,59948,"59970 - Hematuria, unspecified"
+,,2767,59848,2767 - Hyperpotassemia
+,,V4511,59694,V4511 - Renal dialysis status
+,,1623,59237,"1623 - Malignant neoplasm of upper lobe, bronch"
+Y,Y,6827,58651,"6827 - Cellulitis and abscess of foot, except t"
+,,V1083,58626,V1083 - Personal history of other malignant neop
+,Y,4168,58319,4168 - Other chronic pulmonary heart diseases
+,Y,7859,57821,7859 - Other symptoms involving cardiovascular 
+Y,Y,7850,56646,"7850 - Tachycardia, unspecified"
+,,7282,56632,"7282 - Muscular wasting and disuse atrophy, not"
+,,7265,56469,7265 - Enthesopathy of hip region
+Y,Y,4292,56248,"4292 - Cardiovascular disease, unspecified"
+,,78009,56142,78009 - Other alteration of consciousness
+,,462,55907,462 - Acute pharyngitis
+,,V420,55890,V420 - Kidney replaced by transplant
+,,1744,55485,1744 - Malignant neoplasm of upper-outer quadra
+,,95901,55306,"95901 - Head injury, unspecified"
+,,25090,54980,"25090 - Diabetes with unspecified complication, "
+,,5715,53991,5715 - Cirrhosis of liver without mention of al
+,,71515,53976,"71515 - Osteoarthrosis, localized, primary, pelv"
+,,36610,53887,"36610 - Senile cataract, unspecified"
+Y,Y,53550,53529,53550 - Unspecified gastritis and gastroduodenit
+Y,Y,49320,53144,"49320 - Chronic obstructive asthma, unspecified"
+,,38910,52978,"38910 - Sensorineural hearing loss, unspecified"
+,,61172,52975,61172 - Lump or mass in breast
+,,23875,52668,"23875 - Myelodysplastic syndrome, unspecified"
+,,25062,52575,25062 - Diabetes with neurological manifestation
+,,5693,52565,5693 - Hemorrhage of rectum and anus
+,,78052,52458,"78052 - Insomnia, unspecified"
+,Y,7852,52409,7852 - Undiagnosed cardiac murmurs
+,,72871,52408,72871 - Plantar fascial fibromatosis
+,,2989,52133,2989 - Unspecified psychosis
+,,7394,51908,"7394 - Nonallopathic lesions, sacral region"
+,Y,57420,51733,57420 - Calculus of gallbladder without mention 
+,,7354,51452,7354 - Other hammer toe (acquired)
+,,7866,51446,"7866 - Swelling, mass, or lump in chest"
+,,8472,51429,8472 - Sprain of lumbar
+,,5997,51332,5997 - Hematuria
+,,29630,51076,"29630 - Major depressive affective disorder, rec"
+,,25003,51012,25003 - Diabetes mellitus without mention of com
+,,20410,50503,"20410 - Chronic lymphoid leukemia, without menti"
+,,6961,50434,6961 - Other psoriasis
+,,1748,50191,1748 - Malignant neoplasm of other specified si
+Y,Y,4299,49999,"4299 - Heart disease, unspecified"
+,,3384,49795,3384 - Chronic pain syndrome
+,,30928,49553,30928 - Adjustment disorder with mixed anxiety a
+,,5932,49506,"5932 - Cyst of kidney, acquired"
+,,7821,48928,7821 - Rash and other nonspecific skin eruption
+Y,,53011,48878,53011 - Reflux esophagitis
+,,79029,48446,79029 - Other abnormal glucose
+,,2851,48221,2851 - Acute posthemorrhagic anemia
+Y,,28529,48022,28529 - Anemia of other chronic disease
+,,4260,47981,"4260 - Atrioventricular block, complete"
+,,7856,47951,7856 - Enlargement of lymph nodes
+,,V7644,47848,V7644 - Screening for malignant neoplasms of pro
+,,36202,47634,36202 - Proliferative diabetic retinopathy
+,,36250,47577,"36250 - Macular degeneration (senile), unspecifi"
+,,8470,47490,8470 - Sprain of neck
+,,49300,47386,"49300 - Extrinsic asthma, unspecified"
+,,5781,47357,5781 - Blood in stool
+,,72283,47293,"72283 - Postlaminectomy syndrome, lumbar region"
+,,7881,47121,7881 - Dysuria
+,,72400,47041,"72400 - Spinal stenosis, unspecified region"
+,,68111,46754,68111 - Onychia and paronychia of toe
+,,7100,45975,7100 - Systemic lupus erythematosus
+,,V762,45897,V762 - Screening for malignant neoplasms of cer
+,,78093,45808,78093 - Memory loss
+,,2800,45191,2800 - Iron deficiency anemia secondary to bloo
+,,2811,45082,2811 - Other vitamin B12 deficiency anemia
+Y,Y,56211,45031,56211 - Diverticulitis of colon (without mention
+Y,Y,28860,44805,"28860 - Leukocytosis, unspecified"
+,,37921,44769,37921 - Vitreous degeneration
+,,7011,44765,"7011 - Keratoderma, acquired"
+,,1890,44477,"1890 - Malignant neoplasm of kidney, except pel"
+,,V5866,44456,V5866 - Long-term (current) use of aspirin
+Y,Y,78901,44316,"78901 - Abdominal pain, right upper quadrant"
+,,7062,44305,7062 - Sebaceous cyst
+,,29410,44190,29410 - Dementia in conditions classified elsewh
+,,43330,43993,43330 - Occlusion and stenosis of multiple and b
+,,V1254,43907,V1254 - Personal history of transient ischemic a
+,Y,514,43782,514 - Pulmonary congestion and hypostasis
+,,1830,43761,1830 - Malignant neoplasm of ovary
+,,V0382,43524,V0382 - Other specified vaccinations against str
+,,4242,43257,"4242 - Tricuspid valve disorders, specified as "
+,,29570,43218,"29570 - Schizoaffective disorder, unspecified"
+,,700,42777,700 - Corns and callosities
+,,41071,42609,"41071 - Subendocardial infarction, initial episo"
+,,60784,42082,60784 - Impotence of organic origin
+,,V5331,41873,V5331 - Fitting and adjustment of cardiac pacema
+,,41090,41610,41090 - Acute myocardial infarction of unspecifi
+,,7969,41249,7969 - Other nonspecific abnormal findings
+,,V5867,41045,V5867 - Long-term (current) use of insulin
+,,99883,40671,99883 - Non-healing surgical wound
+,,V1272,40643,V1272 - Personal history of colonic polyps
+,,42769,40599,42769 - Other premature beats
+,,71591,40596,"71591 - Osteoarthrosis, unspecified whether gene"
+,,7220,40165,7220 - Displacement of cervical intervertebral 
+,,7847,40019,7847 - Epistaxis
+,,70719,39147,70719 - Ulcer of other part of lower limb
+,,3559,39034,3559 - Mononeuritis of unspecified site
+,,71943,38601,"71943 - Pain in joint, forearm"
+Y,,2639,38565,2639 - Unspecified protein-calorie malnutrition
+,,V053,38381,V053 - Need for prophylactic vaccination and in
+,,71949,38354,"71949 - Pain in joint, multiple sites"
+,Y,99591,38295,99591 - Sepsis
+,,7910,38294,7910 - Proteinuria
+,,25042,37983,"25042 - Diabetes with renal manifestations, type"
+,,43820,37732,"43820 - Late effects of cerebrovascular disease,"
+,,7262,37698,"7262 - Other affections of shoulder region, not"
+,,36510,37629,"36510 - Open-angle glaucoma, unspecified"
+,,V4502,37450,V4502 - Automatic implantable cardiac defibrilla
+,,36500,37429,"36500 - Preglaucoma, unspecified"
+,,317,37125,317 - Mild intellectual disabilities
+,,34590,37070,"34590 - Epilepsy, unspecified, without mention o"
+,,71944,36765,"71944 - Pain in joint, hand"
+Y,,78703,36657,78703 - Vomiting alone
+,,29680,36545,"29680 - Bipolar disorder, unspecified"
+,,36256,36312,36256 - Macular puckering
+,,5855,36202,"5855 - Chronic kidney disease, Stage V"
+,,2752,36141,2752 - Disorders of magnesium metabolism
+,,7202,36081,"7202 - Sacroiliitis, not elsewhere classified"
+,,73313,36077,73313 - Pathologic fracture of vertebrae
+,,36619,36063,36619 - Other and combined forms of senile catar
+,,4389,36021,4389 - Unspecified late effects of cerebrovascu
+Y,Y,78652,35958,78652 - Painful respiration
+,,78843,35912,78843 - Nocturia
+Y,Y,7806,35716,7806 - Fever and other physiologic disturbances
+,,9597,35672,"9597 - Knee, leg, ankle, and foot injury"
+,,71940,35576,"71940 - Pain in joint, site unspecified"
+,,4270,35474,4270 - Paroxysmal supraventricular tachycardia
+,,1541,35395,1541 - Malignant neoplasm of rectum
+,,7872,35354,7872 - Dysphagia
+,,4550,35317,4550 - Internal hemorrhoids without mention of 
+,,8360,34998,8360 - Tear of medial cartilage or meniscus of 
+,,30400,34645,"30400 - Opioid type dependence, unspecified"
+,,591,34494,591 - Hydronephrosis
+,,99859,34314,99859 - Other postoperative infection
+,,30390,34252,30390 - Other and unspecified alcohol dependence
+,,72761,34236,72761 - Complete rupture of rotator cuff
+,,30981,34108,30981 - Posttraumatic stress disorder
+,,5609,34040,5609 - Unspecified intestinal obstruction
+,,7230,34027,7230 - Spinal stenosis in cervical region
+Y,,2769,33976,2769 - Electrolyte and fluid disorders not else
+,,70705,33924,"70705 - Pressure ulcer, buttock"
+,,7292,33924,"7292 - Neuralgia, neuritis, and radiculitis, un"
+,,2165,33833,"2165 - Benign neoplasm of skin of trunk, except"
+Y,Y,4160,33498,4160 - Primary pulmonary hypertension
+,,70713,33484,70713 - Ulcer of ankle
+,,7099,33394,7099 - Unspecified disorder of skin and subcuta
+,,4371,33053,4371 - Other generalized ischemic cerebrovascul
+,,V560,32778,V560 - Encounter for extracorporeal dialysis
+,,4400,32775,4400 - Atherosclerosis of aorta
+,,43889,32765,43889 - Other late effects of cerebrovascular di
+,,78821,32690,78821 - Incomplete bladder emptying
+,,4540,32685,4540 - Varicose veins of lower extremities with
+,,V5721,32475,V5721 - Encounter for occupational therapy
+,,7842,32395,"7842 - Swelling, mass, or lump in head and neck"
+,,3319,32056,"3319 - Cerebral degeneration, unspecified"
+,,7260,31997,7260 - Adhesive capsulitis of shoulder
+Y,Y,78607,31939,78607 - Wheezing
+,,29620,31874,"29620 - Major depressive affective disorder, sin"
+,,70712,31854,70712 - Ulcer of calf
+Y,,34830,31845,"34830 - Encephalopathy, unspecified"
+Y,Y,49392,31777,"49392 - Asthma, unspecified type, with (acute) e"
+,,73301,31537,73301 - Senile osteoporosis
+,,71511,31459,"71511 - Osteoarthrosis, localized, primary, shou"
+,,99673,31390,99673 - Other complications due to renal dialysi
+,,8910,31329,"8910 - Open wound of knee, leg [except thigh], "
+,,70703,31301,"70703 - Pressure ulcer, lower back"
+,,6869,31144,6869 - Unspecified local infection of skin and 
+Y,Y,78904,30956,"78904 - Abdominal pain, left lower quadrant"
+,,539,30930,0539 - Herpes zoster without mention of complic
+,,7226,30914,"7226 - Degeneration of intervertebral disc, sit"
+,,68110,30912,"68110 - Cellulitis and abscess of toe, unspecifi"
+,,34690,30894,"34690 - Migraine, unspecified, without mention o"
+,,71906,30862,"71906 - Effusion of joint, lower leg"
+,,36283,30623,36283 - Retinal edema
+,,7962,30466,7962 - Elevated blood pressure reading without 
+,,38918,30364,"38918 - Sensorineural hearing loss, bilateral"
+,,7248,30322,7248 - Other symptoms referable to back
+Y,Y,4580,30220,4580 - Orthostatic hypotension
+,,59654,30046,59654 - Neurogenic bladder NOS
+,Y,5641,30039,5641 - Irritable bowel syndrome
+,,4539,30019,4539 - Other venous embolism and thrombosis of 
+,,1625,29934,"1625 - Malignant neoplasm of lower lobe, bronch"
+,,83920,29668,"83920 - Closed dislocation, lumbar vertebra"
+,,36615,29641,36615 - Cortical senile cataract
+,,845,29497,00845 - Intestinal infection due to Clostridium 
+,Y,5770,29468,5770 - Acute pancreatitis
+,Y,6822,29355,6822 - Cellulitis and abscess of trunk
+,,920,29310,"920 - Contusion of face, scalp, and neck excep"
+,,43822,29268,"43822 - Late effects of cerebrovascular disease,"
+,,7907,29195,7907 - Bacteremia
+,Y,78600,29180,"78600 - Respiratory abnormality, unspecified"
+,,78831,29095,78831 - Urge incontinence
+,,6272,29044,6272 - Symptomatic menopausal or female climact
+,,3970,29037,3970 - Diseases of tricuspid valve
+,,72989,29026,72989 - Other musculoskeletal symptoms referable
+,,4720,28994,4720 - Chronic rhinitis
+,,V1251,28994,V1251 - Personal history of venous thrombosis an
+,,73730,28776,"73730 - Scoliosis [and kyphoscoliosis], idiopath"
+,,V5882,28735,V5882 - Fitting and adjustment of nonvascular ca
+,,725,28640,725 - Polymyalgia rheumatica
+,,41402,28626,41402 - Coronary atherosclerosis of autologous v
+,,3659,28618,3659 - Unspecified glaucoma
+,,135,28450,135 - Sarcoidosis
+,,59972,28441,59972 - Microscopic hematuria
+,,V443,28439,V443 - Colostomy status
+,,40310,28427,"40310 - Hypertensive chronic kidney disease, ben"
+Y,,2819,28332,2819 - Unspecified deficiency anemia
+,,5718,28290,5718 - Other chronic nonalcoholic liver disease
+,,29411,28148,29411 - Dementia in conditions classified elsewh
+,,79430,28036,"79430 - Abnormal cardiovascular function study, "
+,,2410,27967,2410 - Nontoxic uninodular goiter
+,,3674,27965,3674 - Presbyopia
+,,43821,27954,"43821 - Late effects of cerebrovascular disease,"
+,,20500,27868,"20500 - Acute myeloid leukemia, without mention "
+Y,Y,2762,27868,2762 - Acidosis
+Y,,7873,27784,"7873 - Flatulence, eructation, and gas pain"
+,,8054,27604,8054 - Closed fracture of lumbar vertebra witho
+,,3899,27594,3899 - Unspecified hearing loss
+,,36207,27526,36207 - Diabetic macular edema
+Y,,78903,27511,"78903 - Abdominal pain, right lower quadrant"
+,,23872,27510,23872 - Low grade myelodysplastic syndrome lesio
+,,59971,27350,59971 - Gross hematuria
+,,7246,27193,7246 - Disorders of sacrum
+,,7054,26944,07054 - Chronic hepatitis C without mention of h
+Y,,78959,26917,78959 - Other ascites
+,,1104,26899,1104 - Dermatophytosis of foot
+,,73027,26823,"73027 - Unspecified osteomyelitis, ankle and foo"
+,,79380,26800,"79380 - Abnormal mammogram, unspecified"
+,,1977,26757,"1977 - Malignant neoplasm of liver, secondary"
+,,36617,26684,36617 - Total or mature cataract
+,,78002,26631,78002 - Transient alteration of awareness
+,,5852,26620,"5852 - Chronic kidney disease, Stage II (mild)"
+,,1509,26595,"1509 - Malignant neoplasm of esophagus, unspeci"
+,,44023,26538,44023 - Atherosclerosis of native arteries of th
+,,28803,26498,28803 - Drug induced neutropenia
+,,V6709,26497,"V6709 - Follow-up examination, following other s"
+,,4541,26446,4541 - Varicose veins of lower extremities with
+,,71597,26277,"71597 - Osteoarthrosis, unspecified whether gene"
+,Y,53510,26268,"53510 - Atrophic gastritis, without mention of h"
+Y,Y,53540,26242,"53540 - Other specified gastritis, without menti"
+,,1111,26197,1111 - Tinea nigra
+,,25081,26161,25081 - Diabetes with other specified manifestat
+,,5921,26097,5921 - Calculus of ureter
+,,E8889,25945,E8889 - Unspecified fall
+,,1970,25913,1970 - Secondary malignant neoplasm of lung
+,,37300,25884,"37300 - Blepharitis, unspecified"
+,,4263,25877,4263 - Other left bundle branch block
+,Y,51883,25836,51883 - Chronic respiratory failure
+,,V7260,25801,"V7260 - Laboratory examination, unspecified"
+,,72190,25654,"72190 - Spondylosis of unspecified site, without"
+,,25061,25644,25061 - Diabetes with neurological manifestation
+,,36504,25642,36504 - Ocular hypertension
+,,27542,25637,27542 - Hypercalcemia
+,,55090,25601,"55090 - Inguinal hernia, without mention of obst"
+,,7810,25441,"07810 - Viral warts, unspecified"
+,,2731,25413,2731 - Monoclonal paraproteinemia
+,,V669,25207,V669 - Unspecified convalescence
+,,5738,25135,5738 - Other specified disorders of liver
+Y,Y,5070,25111,5070 - Pneumonitis due to inhalation of food or
+,,3441,25088,3441 - Paraplegia
+,,72690,24984,72690 - Enthesopathy of unspecified site
+,,29590,24866,"29590 - Unspecified schizophrenia, unspecified"
+,,6989,24849,6989 - Unspecified pruritic disorder
+,,29530,24713,"29530 - Paranoid type schizophrenia, unspecified"
+,,2512,24598,"2512 - Hypoglycemia, unspecified"
+,,1579,24572,"1579 - Malignant neoplasm of pancreas, part uns"
+,,1991,24568,1991 - Other malignant neoplasm without specifi
+,,7350,24555,7350 - Hallux valgus (acquired)
+,,5183,24514,5183 - Pulmonary eosinophilia
+,,V5489,24493,V5489 - Other orthopedic aftercare
+,,3090,24492,3090 - Adjustment disorder with depressed mood
+,,33394,24490,33394 - Restless legs syndrome (RLS)
+,,71942,24445,"71942 - Pain in joint, upper arm"
+,,5559,24434,5559 - Regional enteritis of unspecified site
+,,2411,24391,2411 - Nontoxic multinodular goiter
+,,2387,24373,2387 - Other lymphatic and hematopoietic tissue
+Y,Y,4940,24206,4940 - Bronchiectasis without acute exacerbatio
+,,7384,24198,7384 - Acquired spondylolisthesis
+,,81200,24045,81200 - Closed fracture of unspecified part of u
+,,V1046,23982,V1046 - Personal history of malignant neoplasm o
+,,72251,23868,72251 - Degeneration of thoracic or thoracolumba
+,,V5878,23839,V5878 - Aftercare following surgery of the muscu
+,,4610,23794,4610 - Acute maxillary sinusitis
+Y,,53010,23713,"53010 - Esophagitis, unspecified"
+,,4264,23654,4264 - Right bundle branch block
+,,81342,23567,81342 - Other closed fractures of distal end of 
+,,53500,23453,"53500 - Acute gastritis, without mention of hemo"
+,,29622,23375,"29622 - Major depressive affective disorder, sin"
+,,78722,23358,"78722 - Dysphagia, oropharyngeal phase"
+,,24290,23278,24290 - Thyrotoxicosis without mention of goiter
+Y,Y,4829,23175,"4829 - Bacterial pneumonia, unspecified"
+,,71589,23157,"71589 - Osteoarthrosis involving, or with mentio"
+,,V6700,23090,"V6700 - Follow-up examination, following surgery"
+,,78096,23084,78096 - Generalized pain
+,,7810,23073,7810 - Abnormal involuntary movements
+,,7068,23036,7068 - Other specified diseases of sebaceous gl
+Y,,79389,23026,79389 - Other (abnormal) findings on radiologica
+,,6259,22975,6259 - Unspecified symptom associated with fema
+,,78799,22773,78799 - Other symptoms involving digestive syste
+,,7964,22769,7964 - Other abnormal clinical findings
+,,7905,22741,7905 - Other nonspecific abnormal serum enzyme 
+,,3829,22478,3829 - Unspecified otitis media
+,,33818,22459,33818 - Other acute postoperative pain
+,,30500,22458,"30500 - Alcohol abuse, unspecified"
+,,8911,22426,"8911 - Open wound of knee, leg [except thigh], "
+,,29623,22323,"29623 - Major depressive affective disorder, sin"
+,,5368,22312,5368 - Dyspepsia and other specified disorders 
+,,V725,22308,"V725 - Radiological examination, not elsewhere "
+,,V6759,22276,V6759 - Other follow-up examination
+,,82021,22258,82021 - Closed fracture of intertrochanteric sec
+,,79021,22236,79021 - Impaired fasting glucose
+,,84500,22222,"84500 - Sprain of ankle, unspecified site"
+,,34290,22189,"34290 - Hemiplegia, unspecified, affecting unspe"
+,,72703,22172,72703 - Trigger finger (acquired)
+,,7948,22163,7948 - Nonspecific abnormal results of function
+,,25092,22098,"25092 - Diabetes with unspecified complication, "
+,,45119,21965,45119 - Phlebitis and thrombophlebitis of deep v
+,,2392,21951,"2392 - Neoplasm of unspecified nature of bone, "
+Y,Y,79311,21818,79311 - Solitary pulmonary nodule
+,,5303,21738,5303 - Stricture and stenosis of esophagus
+,,53085,21679,53085 - Barrett's esophagus
+,,79092,21626,79092 - Abnormal coagulation profile
+,,1628,21605,1628 - Malignant neoplasm of other parts of bro
+,,4409,21593,4409 - Generalized and unspecified atherosclero
+,,79439,21492,79439 - Other nonspecific abnormal results of fu
+,,V5873,21423,V5873 - Aftercare following surgery of the circu
+,,3180,21373,3180 - Moderate intellectual disabilities
+,,8460,21304,8460 - Sprain of lumbosacral (joint) (ligament)
+,,4379,21254,4379 - Unspecified cerebrovascular disease
+,,47819,21218,47819 - Other disease of nasal cavity and sinuse
+,,28800,21158,"28800 - Neutropenia, unspecified"
+,,1820,21104,"1820 - Malignant neoplasm of corpus uteri, exce"
+,,7233,21104,7233 - Cervicobrachial syndrome (diffuse)
+,,69010,20921,"69010 - Seborrheic dermatitis, unspecified"
+,,25082,20895,25082 - Diabetes with other specified manifestat
+,,17331,20865,17331 - Basal cell carcinoma of skin of other an
+,,6823,20803,6823 - Cellulitis and abscess of upper arm and 
+,,1540,20773,1540 - Malignant neoplasm of rectosigmoid junct
+,,28522,20716,28522 - Anemia in neoplastic disease
+,,1736,20700,1736 - Other and unspecified malignant neoplasm
+Y,Y,51884,20578,51884 - Acute and chronic respiratory failure
+,,70707,20565,"70707 - Pressure ulcer, heel"
+,,6256,20551,"6256 - Stress incontinence, female"
+,,70909,20543,70909 - Other dyschromia
+,,4538,20513,4538 - Acute venous embolism and thrombosis of 
+,,2865,20470,2865 - Hemorrhagic disorder due to intrinsic ci
+,,42611,20467,42611 - First degree atrioventricular block
+,,8248,20453,"8248 - Unspecified fracture of ankle, closed"
+,,61610,20419,"61610 - Vaginitis and vulvovaginitis, unspecifie"
+,,25200,20361,"25200 - Hyperparathyroidism, unspecified"
+,,42,20280,042 - Human immunodeficiency virus [HIV] disea
+,,95909,20275,95909 - Injury of face and neck
+,,5950,20181,5950 - Acute cystitis
+,,2721,20144,2721 - Pure hyperglyceridemia
+,,7395,20116,"7395 - Nonallopathic lesions, pelvic region"
+,,38010,20113,"38010 - Infective otitis externa, unspecified"
+,,72673,20071,72673 - Calcaneal spur
+,,3963,20056,3963 - Mitral valve insufficiency and aortic va
+,,71598,20053,"71598 - Osteoarthrosis, unspecified whether gene"
+,,30001,20033,30001 - Panic disorder without agoraphobia
+,,29634,19978,"29634 - Major depressive affective disorder, rec"
+,,3331,19978,3331 - Essential and other specified forms of t
+,,2384,19936,2384 - Polycythemia vera
+,,71535,19931,"71535 - Osteoarthrosis, localized, not specified"
+,,38181,19892,38181 - Dysfunction of Eustachian tube
+,,37924,19822,37924 - Other vitreous opacities
+,,V7282,19760,V7282 - Pre-operative respiratory examination
+,,38611,19640,38611 - Benign paroxysmal positional vertigo
+,,82525,19639,82525 - Closed fracture of metatarsal bone(s)
+,,71951,19425,"71951 - Stiffness of joint, not elsewhere classi"
+,,36253,19407,36253 - Cystoid macular degeneration
+,,44422,19384,44422 - Arterial embolism and thrombosis of lowe
+,,71696,19333,"71696 - Arthropathy, unspecified, lower leg"
+,,69274,19315,69274 - Other chronic dermatitis due to solar ra
+,,4401,19254,4401 - Atherosclerosis of renal artery
+,,8052,19244,8052 - Closed fracture of dorsal [thoracic] ver
+,,29690,19168,29690 - Unspecified episodic mood disorder
+,Y,2765,19139,2765 - Volume depletion
+,Y,51882,19105,"51882 - Other pulmonary insufficiency, not elsew"
+,,V454,19100,V454 - Arthrodesis status
+,Y,7869,19061,7869 - Other symptoms involving respiratory sys
+,,78192,19027,78192 - Abnormal posture
+,,29689,18979,29689 - Other bipolar disorders
+,,V5413,18969,V5413 - Aftercare for healing traumatic fracture
+,,2448,18933,2448 - Other specified acquired hypothyroidism
+,,9953,18896,"9953 - Allergy, unspecified, not elsewhere clas"
+,,4380,18859,"4380 - Late effects of cerebrovascular disease,"
+,,5739,18845,5739 - Unspecified disorder of liver
+,,4239,18815,4239 - Unspecified disease of pericardium
+,,82100,18780,82100 - Closed fracture of unspecified part of f
+,,72679,18730,72679 - Other enthesopathy of ankle and tarsus
+,,9596,18688,9596 - Hip and thigh injury
+Y,Y,7999,18553,07999 - Unspecified viral infection
+,,7854,18518,7854 - Gangrene
+,,36614,18500,36614 - Posterior subcapsular polar senile catar
+,,59651,18381,59651 - Hypertonicity of bladder
+,,41091,18338,41091 - Acute myocardial infarction of unspecifi
+,,8471,18294,8471 - Sprain of thoracic
+,,7904,18276,7904 - Nonspecific elevation of levels of trans
+,,7843,18125,7843 - Aphasia
+,,7092,18124,7092 - Scar conditions and fibrosis of skin
+,,1983,18100,1983 - Secondary malignant neoplasm of brain an
+,,9961,18045,9961 - Mechanical complication of other vascula
+,,72671,18043,72671 - Achilles bursitis or tendinitis
+,,6918,17988,6918 - Other atopic dermatitis and related cond
+,,V462,17984,"V462 - Other dependence on machines, supplement"
+,,8449,17979,8449 - Sprains and strains of unspecified site 
+,,71956,17964,"71956 - Stiffness of joint, not elsewhere classi"
+,,2163,17917,2163 - Benign neoplasm of skin of other and uns
+,,V1005,17859,V1005 - Personal history of malignant neoplasm o
+,,7289,17821,"7289 - Unspecified disorder of muscle, ligament"
+,,71594,17780,"71594 - Osteoarthrosis, unspecified whether gene"
+,Y,49322,17774,49322 - Chronic obstructive asthma with (acute) 
+,,6271,17760,6271 - Postmenopausal bleeding
+,,78930,17673,"78930 - Abdominal or pelvic swelling, mass, or l"
+,,2753,17663,2753 - Disorders of phosphorus metabolism
+,,4412,17655,4412 - Thoracic aneurysm without mention of rup
+,,6953,17571,6953 - Rosacea
+,,42761,17556,42761 - Supraventricular premature beats
+Y,Y,49122,17471,49122 - Obstructive chronic bronchitis with acut
+,,5363,17414,5363 - Gastroparesis
+,,44389,17406,44389 - Other specified peripheral vascular dise
+,,72293,17381,"72293 - Other and unspecified disc disorder, lum"
+,,27400,17258,"27400 - Gouty arthropathy, unspecified"
+,,2729,17256,2729 - Unspecified disorder of lipoid metabolis
+,,4112,17235,04112 - Methicillin resistant Staphylococcus aur
+,,95911,17223,95911 - Other injury of chest wall
+,,43811,17194,"43811 - Late effects of cerebrovascular disease,"
+,,73007,17180,"73007 - Acute osteomyelitis, ankle and foot"
+,,25072,17167,25072 - Diabetes with peripheral circulatory dis
+,,5601,17154,5601 - Paralytic ileus
+,,29040,17078,"29040 - Vascular dementia, uncomplicated"
+,Y,4919,17037,4919 - Unspecified chronic bronchitis
+,,V5849,17018,V5849 - Other specified aftercare following surg
+,,2169,17003,"2169 - Benign neoplasm of skin, site unspecifie"
+,,470,16986,470 - Deviated nasal septum
+,,95919,16967,95919 - Other injury of other sites of trunk
+,,4471,16866,4471 - Stricture of artery
+,,1734,16804,1734 - Other and unspecified malignant neoplasm
+,,2469,16797,2469 - Unspecified disorder of thyroid
+,,4730,16789,4730 - Chronic maxillary sinusitis
+,,1735,16723,1735 - Other and unspecified malignant neoplasm
+,,4548,16715,4548 - Varicose veins of lower extremities with
+,,V6889,16685,V6889 - Encounters for other specified administr
+,,36257,16682,36257 - Drusen (degenerative)
+,Y,9221,16670,9221 - Contusion of chest wall
+,,38870,16669,"38870 - Otalgia, unspecified"
+,,71699,16652,"71699 - Arthropathy, unspecified, multiple sites"
+,,4556,16612,4556 - Unspecified hemorrhoids without mention 
+,,V7641,16596,V7641 - Screening for malignant neoplasms of rec
+,,9599,16577,9599 - Unspecified site injury
+,,V536,16563,V536 - Fitting and adjustment of urinary device
+,,92411,16465,92411 - Contusion of knee
+,,58889,16402,58889 - Other specified disorders resulting from
+,,3558,16364,"3558 - Mononeuritis of lower limb, unspecified"
+,,7149,16244,7149 - Unspecified inflammatory polyarthropathy
+,,V5830,16237,V5830 - Encounter for change or removal of nonsu
+,,7212,16199,7212 - Thoracic spondylosis without myelopathy
+,,7211,16118,7211 - Cervical spondylosis with myelopathy
+,,7921,16114,7921 - Nonspecific abnormal findings in stool c
+,,37230,16071,"37230 - Conjunctivitis, unspecified"
+Y,,27669,16029,27669 - Other fluid overload
+,,70700,15973,"70700 - Pressure ulcer, unspecified site"
+,,42490,15936,"42490 - Endocarditis, valve unspecified, unspeci"
+,,2409,15870,"2409 - Goiter, unspecified"
+,,72670,15835,"72670 - Enthesopathy of ankle and tarsus, unspec"
+,,V140,15825,V140 - Personal history of allergy to penicilli
+,,5960,15821,5960 - Bladder neck obstruction
+,,7822,15752,"7822 - Localized superficial swelling, mass, or"
+,,6273,15736,6273 - Postmenopausal atrophic vaginitis
+,,V681,15719,V681 - Issue of repeat prescriptions
+,,36236,15710,36236 - Venous tributary (branch) occlusion
+,,V1259,15690,V1259 - Personal history of other diseases of ci
+,,33819,15675,33819 - Other acute pain
+,,V1051,15671,V1051 - Personal history of malignant neoplasm o
+,,3181,15608,3181 - Severe intellectual disabilities
+Y,,2930,15594,2930 - Delirium due to conditions classified el
+,,37923,15580,37923 - Vitreous hemorrhage
+,,3688,15534,3688 - Other specified visual disturbances
+,,431,15476,431 - Intracerebral hemorrhage
+,,70722,15407,"70722 - Pressure ulcer, stage II"
+,,193,15266,193 - Malignant neoplasm of thyroid gland
+,,78863,15263,78863 - Urgency of urination
+,,5733,15247,"5733 - Hepatitis, unspecified"
+,,8409,15215,8409 - Sprains and strains of unspecified site 
+,,4111,15195,04111 - Methicillin susceptible Staphylococcus a
+,,78050,15126,"78050 - Sleep disturbance, unspecified"
+,,2858,15120,2858 - Other specified anemias
+,,7101,15115,7101 - Systemic sclerosis
+,,2888,15088,2888 - Other specified disease of white blood c
+,,34400,15084,"34400 - Quadriplegia, unspecified"
+,,36211,15025,36211 - Hypertensive retinopathy
+,Y,7990,15020,7990 - Asphyxia and hypoxemia
+,,V7189,15003,V7189 - Observation and evaluation for other spe
+,,41404,14999,41404 - Coronary atherosclerosis of artery bypas
+,,5569,14994,"5569 - Ulcerative colitis, unspecified"
+,,5989,14958,"5989 - Urethral stricture, unspecified"
+,,V061,14949,V061 - Need for prophylactic vaccination and in
+,,2967,14943,"2967 - Bipolar I disorder, most recent episode "
+,,7098,14940,7098 - Other specified disorders of skin
+,,37487,14896,37487 - Dermatochalasis
+,,55320,14862,"55320 - Ventral, unspecified, hernia without men"
+,,7070,14856,07070 - Unspecified viral hepatitis C without he
+,,72273,14854,72273 - Intervertebral disc disorder with myelop
+,,7177,14805,7177 - Chondromalacia of patella
+,,56989,14765,56989 - Other specified disorders of intestine
+,,72619,14758,72619 - Other specified disorders of bursae and 
+,,28981,14731,28981 - Primary hypercoagulable state
+,,4321,14728,4321 - Subdural hemorrhage
+,,8798,14688,8798 - Open wound(s) (multiple) of unspecified 
+,,44022,14686,44022 - Atherosclerosis of native arteries of th
+,,V7611,14686,V7611 - Screening mammogram for high-risk patien
+,,4871,14682,4871 - Influenza with other respiratory manifes
+,,7273,14651,7273 - Other bursitis
+,Y,57410,14612,57410 - Calculus of gallbladder with other chole
+,,79099,14526,79099 - Other nonspecific findings on examinatio
+,,41070,14516,"41070 - Subendocardial infarction, episode of ca"
+,,V573,14494,V573 - Care involving speech-language therapy
+,,81220,14466,81220 - Closed fracture of unspecified part of h
+,,70709,14460,"70709 - Pressure ulcer, other site"
+,,6101,14412,6101 - Diffuse cystic mastopathy
+,,78449,14405,78449 - Other voice and resonance disorders
+,,5712,14403,5712 - Alcoholic cirrhosis of liver
+,,2189,14393,"2189 - Leiomyoma of uterus, unspecified"
+,,5845,14372,5845 - Acute kidney failure with lesion of tubu
+,,40200,14357,40200 - Malignant hypertensive heart disease wit
+,,78833,14305,78833 - Mixed incontinence (male) (female)
+,,8920,14234,"8920 - Open wound of foot except toe(s) alone, "
+,,25052,14219,"25052 - Diabetes with ophthalmic manifestations,"
+,,37214,14154,37214 - Other chronic allergic conjunctivitis
+,,4542,14107,4542 - Varicose veins of lower extremities with
+,,2114,14054,2114 - Benign neoplasm of rectum and anal canal
+,,1120,14051,1120 - Candidiasis of mouth
+,,73679,14039,73679 - Other acquired deformities of ankle and 
+,,75612,14019,75612 - Spondylolisthesis
+,,7079,13976,7079 - Chronic ulcer of unspecified site
+,,73020,13947,"73020 - Unspecified osteomyelitis, site unspecif"
+,,V711,13942,V711 - Observation for suspected malignant neop
+,,7249,13933,7249 - Other unspecified back disorders
+,,72691,13931,72691 - Exostosis of unspecified site
+,,7078,13902,7078 - Chronic ulcer of other specified sites
+Y,,45341,13849,45341 - Acute venous embolism and thrombosis of 
+,,7019,13842,7019 - Unspecified hypertrophic and atrophic co
+,,V5419,13822,V5419 - Aftercare for healing traumatic fracture
+,,5880,13786,5880 - Renal osteodystrophy
+Y,Y,7830,13753,7830 - Anorexia
+,,29631,13744,"29631 - Major depressive affective disorder, rec"
+,,7919,13719,7919 - Other nonspecific findings on examinatio
+,,9592,13719,9592 - Shoulder and upper arm injury
+Y,Y,7837,13709,7837 - Adult failure to thrive
+,,2330,13693,2330 - Carcinoma in situ of breast
+,,2740,13680,2740 - Gouty arthropathy
+,Y,27650,13676,"27650 - Volume depletion, unspecified"
+,,99520,13655,99520 - Unspecified adverse effect of unspecifie
+,,1732,13559,1732 - Other and unspecified malignant neoplasm
+,,25071,13437,25071 - Diabetes with peripheral circulatory dis
+,,4370,13433,4370 - Cerebral atherosclerosis
+,,20510,13420,"20510 - Chronic myeloid leukemia, without mentio"
+Y,Y,53190,13416,"53190 - Gastric ulcer, unspecified as acute or c"
+,,V048,13394,V048 - Other viral diseases
+,,25051,13372,"25051 - Diabetes with ophthalmic manifestations,"
+,,V581,13345,V581 - Encounter for chemotherapy and immunothe
+,,3439,13308,"3439 - Infantile cerebral palsy, unspecified"
+,,1741,13243,1741 - Malignant neoplasm of central portion of
+,,78469,13200,78469 - Other symbolic dysfunction
+,,3591,13190,3591 - Hereditary progressive muscular dystroph
+Y,Y,5110,13150,5110 - Pleurisy without mention of effusion or 
+,,8088,13119,8088 - Closed unspecified fracture of pelvis
+,,1739,13090,1739 - Other and unspecified malignant neoplasm
+Y,,34831,13090,34831 - Metabolic encephalopathy
+,,73017,13015,"73017 - Chronic osteomyelitis, ankle and foot"
+,,E8859,13008,"E8859 - Fall from other slipping, tripping, or s"
+,,99832,12979,99832 - Disruption of external operation (surgic
+,Y,4910,12961,4910 - Simple chronic bronchitis
+,,V4981,12960,V4981 - Asymptomatic postmenopausal status (age-
+,,2111,12956,2111 - Benign neoplasm of stomach
+,,29383,12915,29383 - Mood disorder in conditions classified e
+,,29020,12867,29020 - Senile dementia with delusional features
+,,6202,12842,6202 - Other and unspecified ovarian cyst
+,,58381,12772,"58381 - Nephritis and nephropathy, not specified"
+,,2853,12735,2853 - Antineoplastic chemotherapy induced anem
+,,5959,12716,"5959 - Cystitis, unspecified"
+,,8830,12662,"8830 - Open wound of finger(s), without mention"
+,,3671,12625,3671 - Myopia
+,,2777,12612,2777 - Dysmetabolic syndrome X
+,,V1011,12566,V1011 - Personal history of malignant neoplasm o
+,,3670,12529,3670 - Hypermetropia
+,,2949,12494,2949 - Unspecified persistent mental disorders 
+,,5771,12475,5771 - Chronic pancreatitis
+,,8730,12473,"8730 - Open wound of scalp, without mention of "
+,,38911,12433,"38911 - Sensory hearing loss, bilateral"
+,,36512,12408,36512 - Low tension open-angle glaucoma
+,,V5812,12332,V5812 - Encounter for antineoplastic immunothera
+,,43882,12265,43882 - Other late effects of cerebrovascular di
+,,7179,12238,7179 - Unspecified internal derangement of knee
+,,33183,12215,"33183 - Mild cognitive impairment, so stated"
+,,36235,12205,36235 - Central retinal vein occlusion
+,,1950,12179,"1950 - Malignant neoplasm of head, face, and ne"
+,,V160,12163,V160 - Family history of malignant neoplasm of 
+,,45111,12145,45111 - Phlebitis and thrombophlebitis of femora
+Y,Y,78902,12126,"78902 - Abdominal pain, left upper quadrant"
+,,78459,12100,78459 - Other speech disturbance
+,,9593,12067,"9593 - Elbow, forearm, and wrist injury"
+,,38830,12053,"38830 - Tinnitus, unspecified"
+,,1519,12047,"1519 - Malignant neoplasm of stomach, unspecifi"
+,,3556,12013,3556 - Lesion of plantar nerve
+,,23871,11989,23871 - Essential thrombocythemia
+,,1742,11974,1742 - Malignant neoplasm of upper-inner quadra
+,,92401,11964,92401 - Contusion of hip
+,,25041,11931,"25041 - Diabetes with renal manifestations, type"
+,,27541,11910,27541 - Hypocalcemia
+,Y,49310,11883,"49310 - Intrinsic asthma, unspecified"
+,,72982,11873,72982 - Cramp of limb
+,,43411,11869,43411 - Cerebral embolism with cerebral infarcti
+,,5531,11866,5531 - Umbilical hernia without mention of obst
+,,6960,11865,6960 - Psoriatic arthropathy
+,,V5863,11861,V5863 - Long-term (current) use of antiplatelet/
+,,25091,11837,"25091 - Diabetes with unspecified complication, "
+,,V427,11833,V427 - Liver replaced by transplant
+,,78071,11822,78071 - Chronic fatigue syndrome
+,,28731,11798,28731 - Immune thrombocytopenic purpura
+,,8970,11788,8970 - Traumatic amputation of leg(s) (complete
+,,37272,11717,37272 - Conjunctival hemorrhage
+,,71517,11700,"71517 - Osteoarthrosis, localized, primary, ankl"
+,,43401,11686,43401 - Cerebral thrombosis with cerebral infarc
+,,83908,11677,"83908 - Closed dislocation, multiple cervical ve"
+Y,,28419,11666,28419 - Other pancytopenia
+,,37033,11658,"37033 - Keratoconjunctivitis sicca, not specifie"
+,,29021,11641,29021 - Senile dementia with depressive features
+,Y,7892,11636,7892 - Splenomegaly
+,,78199,11612,78199 - Other symptoms involving nervous and mus
+,,4419,11609,4419 - Aortic aneurysm of unspecified site with
+,,71514,11599,"71514 - Osteoarthrosis, localized, primary, hand"
+,,1729,11588,"1729 - Melanoma of skin, site unspecified"
+,,V741,11585,V741 - Screening examination for pulmonary tube
+,,61171,11571,61171 - Mastodynia
+,,99674,11570,99674 - Other complications due to other vascula
+,,3542,11552,3542 - Lesion of ulnar nerve
+,,1533,11531,1533 - Malignant neoplasm of sigmoid colon
+,,72633,11475,72633 - Olecranon bursitis
+,,55321,11449,55321 - Incisional hernia without mention of obs
+,,37405,11443,37405 - Trichiasis of eyelid without entropion
+,,E8490,11437,E8490 - Home accidents
+,,35800,11407,35800 - Myasthenia gravis without (acute) exacer
+,,37157,11400,37157 - Endothelial corneal dystrophy
+,,70723,11381,"70723 - Pressure ulcer, stage III"
+,,1505,11377,1505 - Malignant neoplasm of lower third of eso
+,,7934,11338,7934 - Nonspecific (abnormal) findings on radio
+,,V662,11322,V662 - Convalescence following chemotherapy
+,,20288,11303,"20288 - Other malignant lymphomas, lymph nodes o"
+,,2880,11259,2880 - Neutropenia
+,,7819,11241,07819 - Other specified viral warts
+,,7048,11182,7048 - Other specified diseases of hair and hai
+,,V5865,11161,V5865 - Long-term (current) use of steroids
+,,41189,11157,41189 - Other acute and subacute forms of ischem
+,,61801,11154,"61801 - Cystocele, midline"
+,,71531,11152,"71531 - Osteoarthrosis, localized, not specified"
+,,72706,11142,72706 - Tenosynovitis of foot and ankle
+,,V7263,11102,V7263 - Pre-procedural laboratory examination
+,,V5844,11100,V5844 - Aftercare following organ transplant
+,,1919,11078,"1919 - Malignant neoplasm of brain, unspecified"
+Y,Y,481,11078,481 - Pneumococcal pneumonia [Streptococcus pn
+,Y,7831,11010,7831 - Abnormal weight gain
+,,37200,11003,"37200 - Acute conjunctivitis, unspecified"
+Y,Y,7863,10990,7863 - Hemoptysis
+,,99666,10971,99666 - Infection and inflammatory reaction due 
+,,8921,10969,"8921 - Open wound of foot except toe(s) alone, "
+,,V653,10966,V653 - Dietary surveillance and counseling
+,,19889,10915,19889 - Secondary malignant neoplasm of other sp
+,,4169,10892,"4169 - Chronic pulmonary heart disease, unspeci"
+,,7222,10878,"7222 - Displacement of intervertebral disc, sit"
+,,37430,10843,"37430 - Ptosis of eyelid, unspecified"
+,,V5862,10821,V5862 - Long-term (current) use of antibiotics
+,,99681,10788,99681 - Complications of transplanted kidney
+,,3682,10770,3682 - Diplopia
+,,V1082,10752,V1082 - Personal history of malignant melanoma o
+,,3694,10741,"3694 - Legal blindness, as defined in U.S.A."
+,,45342,10704,45342 - Acute venous embolism and thrombosis of 
+,,V8281,10697,V8281 - Special screening for osteoporosis
+,,20190,10696,"20190 - Hodgkin's disease, unspecified type, uns"
+,,20200,10691,"20200 - Nodular lymphoma, unspecified site, extr"
+,,V4361,10670,V4361 - Shoulder joint replacement
+,,V5332,10669,V5332 - Fitting and adjustment of automatic impl
+,,79381,10667,79381 - Mammographic microcalcification
+,,22801,10665,22801 - Hemangioma of skin and subcutaneous tiss
+,,7271,10648,7271 - Bunion
+,,V078,10646,V078 - Other specified prophylactic or treatmen
+,,V163,10637,V163 - Family history of malignant neoplasm of 
+,Y,7867,10633,7867 - Abnormal chest sounds
+,,2167,10581,"2167 - Benign neoplasm of skin of lower limb, i"
+,,V1581,10559,V1581 - Personal history of noncompliance with m
+,,V5831,10512,V5831 - Encounter for change or removal of surgi
+,,41511,10461,41511 - Iatrogenic pulmonary embolism and infarc
+,,36216,10438,36216 - Retinal neovascularization NOS
+,,V065,10412,V065 - Need for prophylactic vaccination and in
+,,E9342,10395,E9342 - Anticoagulants causing adverse effects i
+,,3182,10387,3182 - Profound intellectual disabilities
+,,59080,10380,"59080 - Pyelonephritis, unspecified"
+,,17332,10379,17332 - Squamous cell carcinoma of skin of other
+Y,,2760,10378,2760 - Hyperosmolality and/or hypernatremia
+,,V672,10371,"V672 - Follow-up examination, following chemoth"
+,,3501,10357,3501 - Trigeminal neuralgia
+,,79989,10346,79989 - Other ill-defined conditions
+,,71691,10329,"71691 - Arthropathy, unspecified, shoulder regio"
+,,80700,10328,"80700 - Closed fracture of rib(s), unspecified"
+,,V5889,10327,V5889 - Other specified aftercare
+,,V714,10324,V714 - Observation following other accident
+,,44381,10323,44381 - Peripheral angiopathy in diseases classi
+,,1550,10314,"1550 - Malignant neoplasm of liver, primary"
+,,V440,10309,V440 - Tracheostomy status
+,,45989,10275,45989 - Other specified disorders of circulatory
+,,27900,10274,"27900 - Hypogammaglobulinemia, unspecified"
+,,1888,10269,1888 - Malignant neoplasm of other specified si
+,,4599,10262,4599 - Unspecified circulatory system disorder
+,,72672,10258,72672 - Tibialis tendinitis
+,,41092,10256,41092 - Acute myocardial infarction of unspecifi
+,,29650,10239,"29650 - Bipolar I disorder, most recent episode "
+,,36650,10227,"36650 - After-cataract, unspecified"
+,,43311,10189,43311 - Occlusion and stenosis of carotid artery
+,,5851,10168,"5851 - Chronic kidney disease, Stage I"
+,,1737,10160,1737 - Other and unspecified malignant neoplasm
+,,30924,10155,30924 - Adjustment disorder with anxiety
+,,V442,10127,V442 - Ileostomy status
+,,73028,10126,"73028 - Unspecified osteomyelitis, other specifi"
+,,8242,10110,"8242 - Fracture of lateral malleolus, closed"
+,,81201,10094,81201 - Closed fracture of surgical neck of hume
+,,8260,10073,8260 - Closed fracture of one or more phalanges
+,,8820,10063,8820 - Open wound of hand except finger(s) alon
+,,34889,10054,34889 - Other conditions of brain
+,104,,,

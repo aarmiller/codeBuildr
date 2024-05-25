@@ -1,0 +1,1001 @@
+FROM ICD 9,From ICD10,dx,n,desc
+,,I10,304399,I10 - Essential (primary) hypertension
+Y,,J449,202423,"J449 - Chronic obstructive pulmonary disease, u"
+,,E119,121038,E119 - Type 2 diabetes mellitus without complic
+,,Z7689,118728,Z7689 - Persons encountering health services in 
+Y,Y,R918,75474,R918 - Other nonspecific abnormal finding of lu
+,,E785,69678,"E785 - Hyperlipidemia, unspecified"
+,,R6889,65457,R6889 - Other general symptoms and signs
+Y,,I2510,56055,I2510 - Atherosclerotic heart disease of native 
+Y,Y,R911,53967,R911 - Solitary pulmonary nodule
+,,M545,47771,M545 - Low back pain
+Y,Y,R0602,37890,R0602 - Shortness of breath
+,,N186,34980,N186 - End stage renal disease
+Y,,K219,34263,K219 - Gastro-esophageal reflux disease without
+,,G4733,34018,G4733 - Obstructive sleep apnea (adult) (pediatr
+Y,,I509,32869,"I509 - Heart failure, unspecified"
+Y,Y,R05,32546,R05 - Cough
+,,Z724,31451,Z724 - Inappropriate diet and eating habits
+,,Z79899,31345,Z79899 - Other long term (current) drug therapy
+,,F17210,30731,"F17210 - Nicotine dependence, cigarettes, uncompl"
+Y,Y,J441,30621,J441 - Chronic obstructive pulmonary disease wi
+,,E039,29587,"E039 - Hypothyroidism, unspecified"
+Y,,M6281,29520,M6281 - Muscle weakness (generalized)
+,,Z5111,27956,Z5111 - Encounter for antineoplastic chemotherap
+Y,,F419,27042,"F419 - Anxiety disorder, unspecified"
+,Y,D649,25709,"D649 - Anemia, unspecified"
+,,F329,24858,"F329 - Major depressive disorder, single episod"
+,,E782,24470,E782 - Mixed hyperlipidemia
+,,E1165,24302,E1165 - Type 2 diabetes mellitus with hyperglyce
+Y,Y,J189,24069,"J189 - Pneumonia, unspecified organism"
+Y,Y,R079,23366,"R079 - Chest pain, unspecified"
+Y,Y,M542,22468,M542 - Cervicalgia
+,,F17200,22396,"F17200 - Nicotine dependence, unspecified, uncomp"
+,Y,I4891,22134,I4891 - Unspecified atrial fibrillation
+,,R69,21987,"R69 - Illness, unspecified"
+,,D509,21813,"D509 - Iron deficiency anemia, unspecified"
+,,Z23,21484,Z23 - Encounter for immunization
+,,I739,20654,"I739 - Peripheral vascular disease, unspecified"
+Y,,G8929,20448,G8929 - Other chronic pain
+,Y,J439,20311,"J439 - Emphysema, unspecified"
+,,Z87891,20100,Z87891 - Personal history of nicotine dependence
+,Y,C7951,19382,C7951 - Secondary malignant neoplasm of bone
+,,Z0000,19231,Z0000 - Encounter for general adult medical exam
+,,M1990,19045,"M1990 - Unspecified osteoarthritis, unspecified "
+,,D631,18581,D631 - Anemia in chronic kidney disease
+,,F1120,17283,"F1120 - Opioid dependence, uncomplicated"
+,,F411,17239,F411 - Generalized anxiety disorder
+,,Z510,16930,Z510 - Encounter for antineoplastic radiation t
+Y,Y,J90,16337,"J90 - Pleural effusion, not elsewhere classifi"
+,,C61,15863,C61 - Malignant neoplasm of prostate
+,,F79,15855,F79 - Unspecified intellectual disabilities
+,,C50919,15362,C50919 - Malignant neoplasm of unspecified site o
+Y,,M5136,15330,"M5136 - Other intervertebral disc degeneration, "
+,,Z7901,15260,Z7901 - Long term (current) use of anticoagulant
+,,E559,14962,"E559 - Vitamin D deficiency, unspecified"
+,,F209,14874,"F209 - Schizophrenia, unspecified"
+,,N390,14458,"N390 - Urinary tract infection, site not specif"
+,,C20,14338,C20 - Malignant neoplasm of rectum
+,,M150,14308,M150 - Primary generalized (osteo)arthritis
+,,B351,14285,B351 - Tinea unguium
+Y,Y,R109,13947,R109 - Unspecified abdominal pain
+Y,Y,J45909,13912,"J45909 - Unspecified asthma, uncomplicated"
+,,M129,13136,"M129 - Arthropathy, unspecified"
+Y,Y,R0902,13012,R0902 - Hypoxemia
+,,C787,12937,C787 - Secondary malignant neoplasm of liver an
+,,M5416,12898,"M5416 - Radiculopathy, lumbar region"
+,,Z01818,12862,Z01818 - Encounter for other preprocedural examin
+Y,Y,R0600,12856,"R0600 - Dyspnea, unspecified"
+Y,Y,R0789,12539,R0789 - Other chest pain
+Y,Y,J984,12320,J984 - Other disorders of lung
+,,E780,12261,E780 - Pure hypercholesterolemia
+,,N183,12256,"N183 - Chronic kidney disease, stage 3 (moderat"
+,,R262,12242,"R262 - Difficulty in walking, not elsewhere cla"
+,,F0390,11985,F0390 - Unspecified dementia without behavioral 
+,,Z992,11877,Z992 - Dependence on renal dialysis
+,,C7800,11856,C7800 - Secondary malignant neoplasm of unspecif
+Y,Y,M25511,11820,M25511 - Pain in right shoulder
+Y,Y,R590,11790,R590 - Localized enlarged lymph nodes
+,,G894,11662,G894 - Chronic pain syndrome
+,,M9903,11558,M9903 - Segmental and somatic dysfunction of lum
+,,C189,11509,"C189 - Malignant neoplasm of colon, unspecified"
+,,Z720,11489,Z720 - Tobacco use
+Y,Y,R531,11371,R531 - Weakness
+,,I480,11108,I480 - Paroxysmal atrial fibrillation
+,,E6601,11073,E6601 - Morbid (severe) obesity due to excess ca
+Y,Y,R5383,10966,R5383 - Other fatigue
+,,R1310,10779,"R1310 - Dysphagia, unspecified"
+,,F331,10615,"F331 - Major depressive disorder, recurrent, mo"
+,,M069,10584,"M069 - Rheumatoid arthritis, unspecified"
+,,N2581,10509,N2581 - Secondary hyperparathyroidism of renal o
+,,E669,10486,"E669 - Obesity, unspecified"
+,,Z1231,10465,Z1231 - Encounter for screening mammogram for ma
+,,M9901,10434,M9901 - Segmental and somatic dysfunction of cer
+,,M25561,10332,M25561 - Pain in right knee
+Y,Y,R42,10317,R42 - Dizziness and giddiness
+,,I129,9970,I129 - Hypertensive chronic kidney disease with
+,,C7801,9904,C7801 - Secondary malignant neoplasm of right lu
+,,F319,9777,"F319 - Bipolar disorder, unspecified"
+Y,Y,J209,9625,"J209 - Acute bronchitis, unspecified"
+Y,,M25512,9573,M25512 - Pain in left shoulder
+,,M25562,9221,M25562 - Pain in left knee
+Y,Y,M549,9196,"M549 - Dorsalgia, unspecified"
+,,F1020,9128,"F1020 - Alcohol dependence, uncomplicated"
+,,M810,9114,M810 - Age-related osteoporosis without current
+,Y,R112,8994,"R112 - Nausea with vomiting, unspecified"
+,Y,R9431,8916,R9431 - Abnormal electrocardiogram [ECG] [EKG]
+,,L570,8770,L570 - Actinic keratosis
+,,E7800,8631,"E7800 - Pure hypercholesterolemia, unspecified"
+,,N179,8631,"N179 - Acute kidney failure, unspecified"
+Y,Y,E871,8479,E871 - Hypo-osmolality and hyponatremia
+Y,Y,J9811,8433,J9811 - Atelectasis
+Y,Y,R51,8430,R51 - Headache
+,,C801,8429,"C801 - Malignant (primary) neoplasm, unspecifie"
+,Y,E860,8325,E860 - Dehydration
+,,C7802,8273,C7802 - Secondary malignant neoplasm of left lun
+,,G309,8009,"G309 - Alzheimer's disease, unspecified"
+,,E1140,8006,E1140 - Type 2 diabetes mellitus with diabetic n
+Y,Y,E876,8002,E876 - Hypokalemia
+,,K5900,7927,"K5900 - Constipation, unspecified"
+Y,Y,M546,7927,M546 - Pain in thoracic spine
+,,Z5181,7908,Z5181 - Encounter for therapeutic drug level mon
+Y,Y,R634,7834,R634 - Abnormal weight loss
+Y,,M25551,7823,M25551 - Pain in right hip
+,,E118,7765,E118 - Type 2 diabetes mellitus with unspecifie
+,,E1142,7734,E1142 - Type 2 diabetes mellitus with diabetic p
+,,Z1211,7557,Z1211 - Encounter for screening for malignant ne
+,,Z853,7552,Z853 - Personal history of malignant neoplasm o
+,,G629,7466,"G629 - Polyneuropathy, unspecified"
+,,C50912,7382,C50912 - Malignant neoplasm of unspecified site o
+,,N189,7375,"N189 - Chronic kidney disease, unspecified"
+,,C50911,7344,C50911 - Malignant neoplasm of unspecified site o
+Y,,M25552,7200,M25552 - Pain in left hip
+Y,Y,J069,7138,"J069 - Acute upper respiratory infection, unspe"
+Y,,M47816,7124,M47816 - Spondylosis without myelopathy or radicu
+,,F1010,7042,"F1010 - Alcohol abuse, uncomplicated"
+,,E1122,7013,E1122 - Type 2 diabetes mellitus with diabetic c
+,,G4700,6964,"G4700 - Insomnia, unspecified"
+,,H2513,6957,"H2513 - Age-related nuclear cataract, bilateral"
+,,R2689,6945,R2689 - Other abnormalities of gait and mobility
+,,I639,6891,"I639 - Cerebral infarction, unspecified"
+,,M1711,6879,"M1711 - Unilateral primary osteoarthritis, right"
+,,Z7982,6839,Z7982 - Long term (current) use of aspirin
+Y,Y,R110,6793,R110 - Nausea
+,,M5412,6770,"M5412 - Radiculopathy, cervical region"
+,,M9902,6757,M9902 - Segmental and somatic dysfunction of tho
+,,Z170,6726,Z170 - Estrogen receptor positive status [ER+]
+,,Z452,6700,Z452 - Encounter for adjustment and management 
+,,R197,6662,"R197 - Diarrhea, unspecified"
+Y,Y,R600,6553,R600 - Localized edema
+,,I110,6538,I110 - Hypertensive heart disease with heart fa
+Y,,I252,6499,I252 - Old myocardial infarction
+Y,,R569,6418,R569 - Unspecified convulsions
+,,F332,6361,"F332 - Major depressive disorder, recurrent sev"
+Y,Y,R55,6313,R55 - Syncope and collapse
+,,M109,6311,"M109 - Gout, unspecified"
+,,D485,6291,D485 - Neoplasm of uncertain behavior of skin
+,,N401,6287,N401 - Benign prostatic hyperplasia with lower 
+,,M1712,6266,"M1712 - Unilateral primary osteoarthritis, left "
+,,J301,6207,J301 - Allergic rhinitis due to pollen
+Y,Y,M4806,6159,"M4806 - Spinal stenosis, lumbar region"
+Y,Y,J9601,6154,J9601 - Acute respiratory failure with hypoxia
+,,E784,6074,E784 - Other hyperlipidemia
+,,I482,6073,I482 - Chronic atrial fibrillation
+,,R32,6070,R32 - Unspecified urinary incontinence
+Y,Y,K5730,6055,K5730 - Diverticulosis of large intestine withou
+Y,Y,C7931,5937,C7931 - Secondary malignant neoplasm of brain
+,,Z01810,5937,Z01810 - Encounter for preprocedural cardiovascul
+,,Z79891,5921,Z79891 - Long term (current) use of opiate analge
+,,A419,5906,"A419 - Sepsis, unspecified organism"
+Y,Y,I517,5882,I517 - Cardiomegaly
+Y,Y,J440,5882,J440 - Chronic obstructive pulmonary disease wi
+,,C50412,5881,C50412 - Malignant neoplasm of upper-outer quadra
+Y,Y,J40,5703,"J40 - Bronchitis, not specified as acute or ch"
+,,C187,5700,C187 - Malignant neoplasm of sigmoid colon
+,,C7989,5684,C7989 - Secondary malignant neoplasm of other sp
+Y,Y,R5381,5677,R5381 - Other malaise
+,,R269,5583,R269 - Unspecified abnormalities of gait and mo
+,,C679,5560,"C679 - Malignant neoplasm of bladder, unspecifi"
+Y,Y,R000,5559,"R000 - Tachycardia, unspecified"
+Y,Y,R222,5535,"R222 - Localized swelling, mass and lump, trunk"
+Y,Y,D72829,5487,"D72829 - Elevated white blood cell count, unspeci"
+,,C499,5477,C499 - Malignant neoplasm of connective and sof
+,,F4310,5474,"F4310 - Post-traumatic stress disorder, unspecif"
+,,E538,5376,E538 - Deficiency of other specified B group vi
+,,N400,5369,N400 - Benign prostatic hyperplasia without low
+Y,Y,R938,5353,R938 - Abnormal findings on diagnostic imaging 
+,,Z794,5349,Z794 - Long term (current) use of insulin
+Y,Y,R509,5320,"R509 - Fever, unspecified"
+Y,Y,J432,5313,J432 - Centrilobular emphysema
+,,C50411,5253,C50411 - Malignant neoplasm of upper-outer quadra
+,,F259,5231,"F259 - Schizoaffective disorder, unspecified"
+,,R99,5219,R99 - Ill-defined and unknown cause of mortali
+,,J309,5167,"J309 - Allergic rhinitis, unspecified"
+,,G40909,5065,"G40909 - Epilepsy, unspecified, not intractable, "
+,,I6523,5016,I6523 - Occlusion and stenosis of bilateral caro
+Y,Y,R0609,5002,R0609 - Other forms of dyspnea
+,,Z5112,4993,Z5112 - Encounter for antineoplastic immunothera
+,,C770,4950,C770 - Secondary and unspecified malignant neop
+,,F341,4936,F341 - Dysthymic disorder
+Y,Y,R4182,4924,"R4182 - Altered mental status, unspecified"
+Y,Y,I2699,4920,I2699 - Other pulmonary embolism without acute c
+Y,,N200,4911,N200 - Calculus of kidney
+,,J3089,4904,J3089 - Other allergic rhinitis
+Y,,M7989,4881,M7989 - Other specified soft tissue disorders
+,,F200,4840,F200 - Paranoid schizophrenia
+,,M5137,4815,"M5137 - Other intervertebral disc degeneration, "
+Y,,I6789,4785,I6789 - Other cerebrovascular disease
+,,M79671,4778,M79671 - Pain in right foot
+Y,Y,R1084,4776,R1084 - Generalized abdominal pain
+,,I714,4773,"I714 - Abdominal aortic aneurysm, without ruptu"
+,,Z01419,4760,Z01419 - Encounter for gynecological examination 
+,,I429,4746,"I429 - Cardiomyopathy, unspecified"
+Y,,M47812,4743,M47812 - Spondylosis without myelopathy or radicu
+,,F250,4742,"F250 - Schizoaffective disorder, bipolar type"
+,,L821,4740,L821 - Other seborrheic keratosis
+,,G35,4711,G35 - Multiple sclerosis
+,,C649,4708,C649 - Malignant neoplasm of unspecified kidney
+Y,,M5126,4700,"M5126 - Other intervertebral disc displacement, "
+Y,Y,R002,4681,R002 - Palpitations
+,,C159,4675,"C159 - Malignant neoplasm of esophagus, unspeci"
+,,N184,4668,"N184 - Chronic kidney disease, stage 4 (severe)"
+,,M791,4637,M791 - Myalgia
+Y,,M47817,4631,M47817 - Spondylosis without myelopathy or radicu
+Y,Y,R1013,4617,R1013 - Epigastric pain
+Y,Y,I340,4606,I340 - Nonrheumatic mitral (valve) insufficienc
+,,M79674,4514,M79674 - Pain in right toe(s)
+,,C541,4504,C541 - Malignant neoplasm of endometrium
+,,Z98890,4487,Z98890 - Other specified postprocedural states
+,,D696,4441,"D696 - Thrombocytopenia, unspecified"
+,,I119,4427,I119 - Hypertensive heart disease without heart
+,,H04123,4395,H04123 - Dry eye syndrome of bilateral lacrimal g
+,,M170,4380,M170 - Bilateral primary osteoarthritis of knee
+,,N281,4348,"N281 - Cyst of kidney, acquired"
+,,E109,4332,E109 - Type 1 diabetes mellitus without complic
+,,G893,4294,G893 - Neoplasm related pain (acute) (chronic)
+,,R7989,4288,R7989 - Other specified abnormal findings of blo
+Y,Y,R042,4279,R042 - Hemoptysis
+Y,Y,J0190,4248,"J0190 - Acute sinusitis, unspecified"
+,,R339,4202,"R339 - Retention of urine, unspecified"
+Y,Y,K449,4162,K449 - Diaphragmatic hernia without obstruction
+,,I5032,4153,I5032 - Chronic diastolic (congestive) heart fai
+,,D701,4149,D701 - Agranulocytosis secondary to cancer chem
+Y,,R0989,4148,R0989 - Other specified symptoms and signs invol
+,,I872,4112,I872 - Venous insufficiency (chronic) (peripher
+Y,,M159,4112,"M159 - Polyosteoarthritis, unspecified"
+,,M5417,4097,"M5417 - Radiculopathy, lumbosacral region"
+,,C73,4086,C73 - Malignant neoplasm of thyroid gland
+,,R2681,4083,R2681 - Unsteadiness on feet
+,,Z5189,4077,Z5189 - Encounter for other specified aftercare
+,,I5022,4074,I5022 - Chronic systolic (congestive) heart fail
+,,F418,4067,F418 - Other specified anxiety disorders
+,,F339,4052,"F339 - Major depressive disorder, recurrent, un"
+,,Z0289,4052,Z0289 - Encounter for other administrative exami
+,,C760,4039,"C760 - Malignant neoplasm of head, face and nec"
+Y,Y,R609,4002,"R609 - Edema, unspecified"
+,,M79672,3982,M79672 - Pain in left foot
+,,I6990,3962,I6990 - Unspecified sequelae of unspecified cere
+Y,Y,R52,3956,"R52 - Pain, unspecified"
+,,Z471,3953,Z471 - Aftercare following joint replacement su
+,,M79604,3899,M79604 - Pain in right leg
+,,D500,3857,D500 - Iron deficiency anemia secondary to bloo
+,,C569,3850,C569 - Malignant neoplasm of unspecified ovary
+,,Z961,3835,Z961 - Presence of intraocular lens
+Y,Y,J9611,3774,J9611 - Chronic respiratory failure with hypoxia
+Y,,M2550,3774,M2550 - Pain in unspecified joint
+Y,Y,J8410,3764,"J8410 - Pulmonary fibrosis, unspecified"
+,,C641,3759,"C641 - Malignant neoplasm of right kidney, exce"
+,,C329,3757,"C329 - Malignant neoplasm of larynx, unspecifie"
+,,F0280,3734,F0280 - Dementia in other diseases classified el
+,,R1312,3733,"R1312 - Dysphagia, oropharyngeal phase"
+,,I890,3730,"I890 - Lymphedema, not elsewhere classified"
+,,E041,3716,E041 - Nontoxic single thyroid nodule
+,,H903,3715,"H903 - Sensorineural hearing loss, bilateral"
+Y,Y,J9600,3705,"J9600 - Acute respiratory failure, unspecified w"
+Y,Y,J181,3690,"J181 - Lobar pneumonia, unspecified organism"
+,,Z9889,3685,Z9889 - Other specified postprocedural states
+Y,,G4730,3667,"G4730 - Sleep apnea, unspecified"
+,,Z08,3667,Z08 - Encounter for follow-up examination afte
+,,F70,3635,F70 - Mild intellectual disabilities
+,,G20,3630,G20 - Parkinson's disease
+Y,,J029,3630,"J029 - Acute pharyngitis, unspecified"
+,,E8342,3623,E8342 - Hypomagnesemia
+,,M79605,3623,M79605 - Pain in left leg
+,,M797,3578,M797 - Fibromyalgia
+,,E875,3577,E875 - Hyperkalemia
+,,R300,3558,R300 - Dysuria
+,,Z01812,3558,Z01812 - Encounter for preprocedural laboratory e
+,,M179,3547,"M179 - Osteoarthritis of knee, unspecified"
+,,R319,3533,"R319 - Hematuria, unspecified"
+,,E291,3527,E291 - Testicular hypofunction
+,,C321,3526,C321 - Malignant neoplasm of supraglottis
+,,B1920,3525,B1920 - Unspecified viral hepatitis C without he
+,,Z8673,3512,Z8673 - Personal history of transient ischemic a
+Y,Y,R062,3510,R062 - Wheezing
+,,Z86010,3503,Z86010 - Personal history of colonic polyps
+,,C01,3499,C01 - Malignant neoplasm of base of tongue
+,,C155,3479,C155 - Malignant neoplasm of lower third of eso
+,,D62,3448,D62 - Acute posthemorrhagic anemia
+Y,Y,R221,3448,"R221 - Localized swelling, mass and lump, neck"
+,,R350,3423,R350 - Frequency of micturition
+,,Z09,3421,Z09 - Encounter for follow-up examination afte
+Y,Y,I959,3416,"I959 - Hypotension, unspecified"
+,,B182,3414,B182 - Chronic viral hepatitis C
+,,Z85828,3387,Z85828 - Personal history of other malignant neop
+,,F4323,3374,F4323 - Adjustment disorder with mixed anxiety a
+,,Z171,3374,Z171 - Estrogen receptor negative status [ER-]
+,,B20,3371,B20 - Human immunodeficiency virus [HIV] disea
+,,C9000,3369,C9000 - Multiple myeloma not having achieved rem
+Y,Y,R001,3367,"R001 - Bradycardia, unspecified"
+Y,Y,I350,3358,I350 - Nonrheumatic aortic (valve) stenosis
+,Y,J9621,3357,J9621 - Acute and chronic respiratory failure wi
+,,I700,3317,I700 - Atherosclerosis of aorta
+Y,Y,J9610,3310,"J9610 - Chronic respiratory failure, unspecified"
+,Y,K922,3284,"K922 - Gastrointestinal hemorrhage, unspecified"
+,,F71,3282,F71 - Moderate intellectual disabilities
+,,K7460,3258,K7460 - Unspecified cirrhosis of liver
+,,I6350,3257,I6350 - Cerebral infarction due to unspecified o
+,,L600,3249,L600 - Ingrowing nail
+Y,Y,K8020,3245,K8020 - Calculus of gallbladder without cholecys
+Y,Y,I259,3239,"I259 - Chronic ischemic heart disease, unspecif"
+,,H524,3228,H524 - Presbyopia
+,,Z933,3222,Z933 - Colostomy status
+,,Z9221,3220,Z9221 - Personal history of antineoplastic chemo
+,,C19,3213,C19 - Malignant neoplasm of rectosigmoid junct
+,,C799,3197,C799 - Secondary malignant neoplasm of unspecif
+,,H548,3197,"H548 - Legal blindness, as defined in USA"
+,,Z9181,3196,Z9181 - History of falling
+,,K635,3189,K635 - Polyp of colon
+,,K760,3189,"K760 - Fatty (change of) liver, not elsewhere c"
+,,I255,3186,I255 - Ischemic cardiomyopathy
+,,Z125,3177,Z125 - Encounter for screening for malignant ne
+Y,Y,J329,3150,"J329 - Chronic sinusitis, unspecified"
+,,Z950,3146,Z950 - Presence of cardiac pacemaker
+,,C099,3143,"C099 - Malignant neoplasm of tonsil, unspecifie"
+,,M62830,3141,M62830 - Muscle spasm of back
+,,M461,3136,"M461 - Sacroiliitis, not elsewhere classified"
+,,C419,3126,C419 - Malignant neoplasm of bone and articular
+,,C439,3114,"C439 - Malignant melanoma of skin, unspecified"
+Y,,I519,3103,"I519 - Heart disease, unspecified"
+Y,Y,R599,3099,"R599 - Enlarged lymph nodes, unspecified"
+,,Z85038,3086,Z85038 - Personal history of other malignant neop
+,,R030,3079,"R030 - Elevated blood-pressure reading, without"
+,,C642,3074,"C642 - Malignant neoplasm of left kidney, excep"
+Y,Y,K7689,3068,K7689 - Other specified diseases of liver
+,,C773,3055,C773 - Secondary and unspecified malignant neop
+,,Z951,3053,Z951 - Presence of aortocoronary bypass graft
+,,F251,3049,"F251 - Schizoaffective disorder, depressive typ"
+,,Z923,3037,Z923 - Personal history of irradiation
+Y,,G459,3029,"G459 - Transient cerebral ischemic attack, unsp"
+Y,,K210,3020,K210 - Gastro-esophageal reflux disease with es
+,,E042,3017,E042 - Nontoxic multinodular goiter
+,,Z008,2999,Z008 - Encounter for other general examination
+Y,Y,K769,2996,"K769 - Liver disease, unspecified"
+,,M4802,2990,"M4802 - Spinal stenosis, cervical region"
+,,N289,2987,"N289 - Disorder of kidney and ureter, unspecifi"
+,,Z9981,2976,Z9981 - Dependence on supplemental oxygen
+,,E1151,2972,E1151 - Type 2 diabetes mellitus with diabetic p
+Y,Y,R591,2953,R591 - Generalized enlarged lymph nodes
+,,N2889,2939,N2889 - Other specified disorders of kidney and 
+,,R739,2921,"R739 - Hyperglycemia, unspecified"
+,,M5030,2891,"M5030 - Other cervical disc degeneration, unspec"
+Y,,R1011,2888,R1011 - Right upper quadrant pain
+,Y,M62838,2878,M62838 - Other muscle spasm
+,Y,E46,2875,E46 - Unspecified protein-calorie malnutrition
+,,C771,2871,C771 - Secondary and unspecified malignant neop
+Y,Y,M5441,2822,"M5441 - Lumbago with sciatica, right side"
+,,M79675,2817,M79675 - Pain in left toe(s)
+,,I120,2800,I120 - Hypertensive chronic kidney disease with
+Y,Y,M5442,2758,"M5442 - Lumbago with sciatica, left side"
+,,I5030,2748,I5030 - Unspecified diastolic (congestive) heart
+,,R7309,2744,R7309 - Other abnormal glucose
+,,R21,2741,R21 - Rash and other nonspecific skin eruption
+,,C259,2729,"C259 - Malignant neoplasm of pancreas, unspecif"
+,,C772,2727,C772 - Secondary and unspecified malignant neop
+,,F3181,2723,F3181 - Bipolar II disorder
+,,K529,2721,K529 - Noninfective gastroenteritis and colitis
+,,M961,2680,"M961 - Postlaminectomy syndrome, not elsewhere "
+Y,Y,K2970,2673,"K2970 - Gastritis, unspecified, without bleeding"
+Y,Y,R0781,2651,R0781 - Pleurodynia
+,,G8918,2650,G8918 - Other acute postprocedural pain
+,,Z96651,2634,Z96651 - Presence of right artificial knee joint
+,,E1121,2627,E1121 - Type 2 diabetes mellitus with diabetic n
+,,Z20828,2617,Z20828 - Contact with and (suspected) exposure to
+,,D225,2607,D225 - Melanocytic nevi of trunk
+,,Z4789,2586,Z4789 - Encounter for other orthopedic aftercare
+,,E1169,2576,E1169 - Type 2 diabetes mellitus with other spec
+,,D689,2572,"D689 - Coagulation defect, unspecified"
+,,Z0001,2569,Z0001 - Encounter for general adult medical exam
+,,R296,2567,R296 - Repeated falls
+Y,Y,I499,2561,"I499 - Cardiac arrhythmia, unspecified"
+,,E038,2553,E038 - Other specified hypothyroidism
+,,R928,2551,R928 - Other abnormal and inconclusive findings
+,,C140,2526,"C140 - Malignant neoplasm of pharynx, unspecifi"
+,,R413,2519,R413 - Other amnesia
+,,E872,2510,E872 - Acidosis
+,Y,J849,2510,"J849 - Interstitial pulmonary disease, unspecif"
+Y,Y,J4520,2504,"J4520 - Mild intermittent asthma, uncomplicated"
+,,Z955,2498,Z955 - Presence of coronary angioplasty implant
+,,Z4682,2491,Z4682 - Encounter for fitting and adjustment of 
+,,F0150,2479,F0150 - Vascular dementia without behavioral dis
+Y,Y,I70213,2477,I70213 - Atherosclerosis of native arteries of ex
+,,Z483,2476,Z483 - Aftercare following surgery for neoplasm
+,,N19,2475,N19 - Unspecified kidney failure
+,,F333,2470,"F333 - Major depressive disorder, recurrent, se"
+,,H3532,2466,H3532 - Exudative age-related macular degenerati
+,,Z0389,2465,Z0389 - Encounter for observation for other susp
+,,G609,2460,"G609 - Hereditary and idiopathic neuropathy, un"
+,,Z952,2460,Z952 - Presence of prosthetic heart valve
+,,C182,2459,C182 - Malignant neoplasm of ascending colon
+,,F410,2456,F410 - Panic disorder [episodic paroxysmal anxi
+,,M48061,2456,"M48061 - Spinal stenosis, lumbar region without n"
+,,C029,2452,"C029 - Malignant neoplasm of tongue, unspecifie"
+,,L820,2434,L820 - Inflamed seborrheic keratosis
+,,L84,2431,L84 - Corns and callosities
+,,R310,2425,R310 - Gross hematuria
+,,I214,2411,I214 - Non-ST elevation (NSTEMI) myocardial inf
+,,T451X5A,2411,T451X5A - Adverse effect of antineoplastic and imm
+,,M722,2396,M722 - Plantar fascial fibromatosis
+,,Z930,2396,Z930 - Tracheostomy status
+,,D6481,2393,D6481 - Anemia due to antineoplastic chemotherap
+,,H3531,2391,H3531 - Nonexudative age-related macular degener
+,,R160,2391,"R160 - Hepatomegaly, not elsewhere classified"
+,,H2512,2374,"H2512 - Age-related nuclear cataract, left eye"
+,,H6123,2374,"H6123 - Impacted cerumen, bilateral"
+,,F330,2359,"F330 - Major depressive disorder, recurrent, mi"
+,,M5116,2358,M5116 - Intervertebral disc disorders with radic
+Y,Y,M899,2335,"M899 - Disorder of bone, unspecified"
+,,I130,2332,I130 - Hypertensive heart and chronic kidney di
+,,Z1389,2320,Z1389 - Encounter for screening for other disord
+,,F068,2310,F068 - Other specified mental disorders due to 
+,,M19011,2310,"M19011 - Primary osteoarthritis, right shoulder"
+,,K625,2306,K625 - Hemorrhage of anus and rectum
+,,E663,2300,E663 - Overweight
+,,Z96652,2295,Z96652 - Presence of left artificial knee joint
+,,C50812,2287,C50812 - Malignant neoplasm of overlapping sites 
+,,C786,2280,C786 - Secondary malignant neoplasm of retroper
+,,L309,2277,"L309 - Dermatitis, unspecified"
+Y,Y,J45901,2273,J45901 - Unspecified asthma with (acute) exacerba
+,,R748,2269,R748 - Abnormal levels of other serum enzymes
+,,K921,2264,K921 - Melena
+,,E11621,2259,E11621 - Type 2 diabetes mellitus with foot ulcer
+,,D709,2258,"D709 - Neutropenia, unspecified"
+,,H409,2247,H409 - Unspecified glaucoma
+,Y,I471,2242,I471 - Supraventricular tachycardia
+,,Z9049,2240,Z9049 - Acquired absence of other specified part
+,,M8580,2237,M8580 - Other specified disorders of bone densit
+,,M1611,2233,"M1611 - Unilateral primary osteoarthritis, right"
+,,R279,2231,R279 - Unspecified lack of coordination
+Y,Y,J9690,2230,"J9690 - Respiratory failure, unspecified, unspec"
+,,N1330,2227,N1330 - Unspecified hydronephrosis
+,,R7301,2226,R7301 - Impaired fasting glucose
+Y,Y,R0689,2223,R0689 - Other abnormalities of breathing
+,,R202,2210,R202 - Paresthesia of skin
+,,H2511,2207,"H2511 - Age-related nuclear cataract, right eye"
+Y,Y,E8352,2177,E8352 - Hypercalcemia
+Y,Y,J42,2177,J42 - Unspecified chronic bronchitis
+,,Z006,2177,Z006 - Encounter for examination for normal com
+,,L814,2155,L814 - Other melanin hyperpigmentation
+Y,,N63,2150,N63 - Unspecified lump in breast
+,,D508,2149,D508 - Other iron deficiency anemias
+Y,,I495,2139,I495 - Sick sinus syndrome
+,,D381,2136,D381 - Neoplasm of uncertain behavior of trache
+,,M25571,2133,M25571 - Pain in right ankle and joints of right 
+,,I209,2128,"I209 - Angina pectoris, unspecified"
+,,Z8546,2128,Z8546 - Personal history of malignant neoplasm o
+,,J910,2126,J910 - Malignant pleural effusion
+,,J939,2124,"J939 - Pneumothorax, unspecified"
+,,Z803,2116,Z803 - Family history of malignant neoplasm of 
+,,R102,2114,R102 - Pelvic and perineal pain
+,Y,E43,2113,E43 - Unspecified severe protein-calorie malnu
+,,L03116,2113,L03116 - Cellulitis of left lower limb
+Y,,I82409,2110,I82409 - Acute embolism and thrombosis of unspeci
+Y,,I25119,2106,I25119 - Atherosclerotic heart disease of native 
+Y,Y,R1032,2105,R1032 - Left lower quadrant pain
+,,Z86718,2100,Z86718 - Personal history of other venous thrombo
+,,M9904,2090,M9904 - Segmental and somatic dysfunction of sac
+,,C539,2081,"C539 - Malignant neoplasm of cervix uteri, unsp"
+,,S0990XA,2080,"S0990XA - Unspecified injury of head, initial enco"
+,,I5033,2078,I5033 - Acute on chronic diastolic (congestive) 
+Y,Y,R072,2076,R072 - Precordial pain
+Y,Y,I272,2074,I272 - Other secondary pulmonary hypertension
+,,R490,2071,R490 - Dysphonia
+,,D638,2066,D638 - Anemia in other chronic diseases classif
+,Y,R140,2056,R140 - Abdominal distension (gaseous)
+,,Z1159,2051,Z1159 - Encounter for screening for other viral 
+Y,Y,J479,2048,"J479 - Bronchiectasis, uncomplicated"
+Y,,M5430,2046,"M5430 - Sciatica, unspecified side"
+,,C50811,2045,C50811 - Malignant neoplasm of overlapping sites 
+,,Z95810,2045,Z95810 - Presence of automatic (implantable) card
+,,C220,2042,C220 - Liver cell carcinoma
+,,J0100,2040,"J0100 - Acute maxillary sinusitis, unspecified"
+,,G43909,2039,"G43909 - Migraine, unspecified, not intractable, "
+,,K861,2037,K861 - Other chronic pancreatitis
+,,C221,2022,C221 - Intrahepatic bile duct carcinoma
+,,E1129,2019,E1129 - Type 2 diabetes mellitus with other diab
+,,M1389,2016,"M1389 - Other specified arthritis, multiple site"
+,Y,R188,2016,R188 - Other ascites
+,,I6529,2005,I6529 - Occlusion and stenosis of unspecified ca
+Y,Y,I313,2001,I313 - Pericardial effusion (noninflammatory)
+,,C9110,1996,C9110 - Chronic lymphocytic leukemia of B-cell t
+,,M25572,1988,M25572 - Pain in left ankle and joints of left fo
+,,R351,1988,R351 - Nocturia
+,,M0579,1970,M0579 - Rheumatoid arthritis with rheumatoid fac
+Y,,I472,1959,I472 - Ventricular tachycardia
+Y,Y,R9389,1952,R9389 - Abnormal findings on diagnostic imaging 
+,,M25569,1942,M25569 - Pain in unspecified knee
+,,M19012,1940,"M19012 - Primary osteoarthritis, left shoulder"
+,,C55,1933,"C55 - Malignant neoplasm of uterus, part unspe"
+,,I69351,1928,I69351 - Hemiplegia and hemiparesis following cer
+,,H40013,1927,"H40013 - Open angle with borderline findings, low"
+,,J302,1924,J302 - Other seasonal allergic rhinitis
+,,M1612,1921,"M1612 - Unilateral primary osteoarthritis, left "
+,,G2581,1919,G2581 - Restless legs syndrome
+,,H540,1906,"H540 - Blindness, both eyes"
+,,L03115,1904,L03115 - Cellulitis of right lower limb
+,,H43813,1899,"H43813 - Vitreous degeneration, bilateral"
+,,K648,1894,K648 - Other hemorrhoids
+,,M792,1891,"M792 - Neuralgia and neuritis, unspecified"
+,,G9340,1888,"G9340 - Encephalopathy, unspecified"
+Y,Y,J438,1877,J438 - Other emphysema
+,,M4316,1871,"M4316 - Spondylolisthesis, lumbar region"
+,,G3184,1869,"G3184 - Mild cognitive impairment, so stated"
+Y,Y,R1031,1868,R1031 - Right lower quadrant pain
+,,R200,1866,R200 - Anesthesia of skin
+,,Z136,1866,Z136 - Encounter for screening for cardiovascul
+,,F0281,1859,F0281 - Dementia in other diseases classified el
+Y,Y,R1030,1859,"R1030 - Lower abdominal pain, unspecified"
+,,Z124,1832,Z124 - Encounter for screening for malignant ne
+,,C109,1824,"C109 - Malignant neoplasm of oropharynx, unspec"
+,,N393,1824,N393 - Stress incontinence (female) (male)
+,,I69354,1814,I69354 - Hemiplegia and hemiparesis following cer
+,,F1420,1813,"F1420 - Cocaine dependence, uncomplicated"
+,,H25813,1810,"H25813 - Combined forms of age-related cataract, "
+Y,Y,R410,1806,"R410 - Disorientation, unspecified"
+,,C250,1801,C250 - Malignant neoplasm of head of pancreas
+,,G809,1801,"G809 - Cerebral palsy, unspecified"
+,Y,I4892,1798,I4892 - Unspecified atrial flutter
+,,C779,1794,C779 - Secondary and unspecified malignant neop
+,,D469,1793,"D469 - Myelodysplastic syndrome, unspecified"
+,,M5134,1792,"M5134 - Other intervertebral disc degeneration, "
+Y,Y,I493,1790,I493 - Ventricular premature depolarization
+,,E1065,1785,E1065 - Type 1 diabetes mellitus with hyperglyce
+,,Z880,1783,Z880 - Allergy status to penicillin
+Y,,M5431,1775,"M5431 - Sciatica, right side"
+,,W19XXXA,1768,"W19XXXA - Unspecified fall, initial encounter"
+,,E890,1765,E890 - Postprocedural hypothyroidism
+,,F321,1763,"F321 - Major depressive disorder, single episod"
+,,C8590,1734,"C8590 - Non-Hodgkin lymphoma, unspecified, unspe"
+,,R293,1732,R293 - Abnormal posture
+,,Z48812,1732,Z48812 - Encounter for surgical aftercare followi
+,,D123,1726,D123 - Benign neoplasm of transverse colon
+,,F39,1723,F39 - Unspecified mood [affective] disorder
+,,F0391,1705,F0391 - Unspecified dementia with behavioral dis
+Y,Y,J159,1705,J159 - Unspecified bacterial pneumonia
+,,J3081,1701,J3081 - Allergic rhinitis due to animal (cat) (d
+,,Z981,1696,Z981 - Arthrodesis status
+Y,Y,J4540,1695,"J4540 - Moderate persistent asthma, uncomplicate"
+,,I69398,1694,I69398 - Other sequelae of cerebral infarction
+,,Z20822,1694,Z20822 - NA
+,,T8189XA,1692,"T8189XA - Other complications of procedures, not e"
+,,Z85048,1691,Z85048 - Personal history of other malignant neop
+,Y,I481,1690,I481 - Persistent atrial fibrillation
+,,K2270,1683,K2270 - Barrett's esophagus without dysplasia
+,,N529,1682,"N529 - Male erectile dysfunction, unspecified"
+,,B370,1680,B370 - Candidal stomatitis
+,,R29898,1678,R29898 - Other symptoms and signs involving the m
+,,F2089,1677,F2089 - Other schizophrenia
+,,Z029,1676,Z029 - Encounter for administrative examination
+,,Z800,1676,Z800 - Family history of malignant neoplasm of 
+,,Z8551,1671,Z8551 - Personal history of malignant neoplasm o
+,,R4584,1654,R4584 - Anhedonia
+,,R7303,1652,R7303 - Prediabetes
+,,C4922,1647,C4922 - Malignant neoplasm of connective and sof
+Y,Y,I361,1647,I361 - Nonrheumatic tricuspid (valve) insuffici
+Y,,M25519,1645,M25519 - Pain in unspecified shoulder
+,,M79641,1642,M79641 - Pain in right hand
+,,L989,1638,L989 - Disorder of the skin and subcutaneous ti
+Y,,M4726,1635,"M4726 - Other spondylosis with radiculopathy, lu"
+,,C180,1634,C180 - Malignant neoplasm of cecum
+,Y,J9620,1629,"J9620 - Acute and chronic respiratory failure, u"
+Y,Y,M5489,1625,M5489 - Other dorsalgia
+Y,Y,R1110,1619,"R1110 - Vomiting, unspecified"
+,,G5601,1612,"G5601 - Carpal tunnel syndrome, right upper limb"
+,,F29,1611,F29 - Unspecified psychosis not due to a subst
+,,I69959,1611,I69959 - Hemiplegia and hemiparesis following uns
+,,J310,1607,J310 - Chronic rhinitis
+,,N3941,1606,N3941 - Urge incontinence
+,,H269,1601,H269 - Unspecified cataract
+,,C50112,1600,C50112 - Malignant neoplasm of central portion of
+,,Z85820,1600,Z85820 - Personal history of malignant melanoma o
+,,F1410,1599,"F1410 - Cocaine abuse, uncomplicated"
+,,E1159,1597,E1159 - Type 2 diabetes mellitus with other circ
+Y,,M25559,1597,M25559 - Pain in unspecified hip
+,,M533,1596,"M533 - Sacrococcygeal disorders, not elsewhere "
+,,J811,1587,J811 - Chronic pulmonary edema
+,,C50212,1586,C50212 - Malignant neoplasm of upper-inner quadra
+,,M7541,1584,M7541 - Impingement syndrome of right shoulder
+,,R9720,1584,R9720 - Elevated prostate specific antigen [PSA]
+,,L578,1567,L578 - Other skin changes due to chronic exposu
+Y,,K2950,1559,K2950 - Unspecified chronic gastritis without bl
+,,D1801,1552,D1801 - Hemangioma of skin and subcutaneous tiss
+,,Z4801,1552,Z4801 - Encounter for change or removal of surgi
+,,C782,1538,C782 - Secondary malignant neoplasm of pleura
+,,N319,1530,"N319 - Neuromuscular dysfunction of bladder, un"
+Y,Y,R220,1529,"R220 - Localized swelling, mass and lump, head"
+Y,Y,J918,1528,J918 - Pleural effusion in other conditions cla
+,,D519,1524,"D519 - Vitamin B12 deficiency anemia, unspecifi"
+,,Z681,1522,"Z681 - Body mass index (BMI) 19.9 or less, adul"
+,,R5382,1521,"R5382 - Chronic fatigue, unspecified"
+,,Z6841,1520,"Z6841 - Body mass index (BMI) 40.0-44.9, adult"
+,,N182,1518,"N182 - Chronic kidney disease, stage 2 (mild)"
+,,R7881,1517,R7881 - Bacteremia
+,,H5203,1514,"H5203 - Hypermetropia, bilateral"
+,,K222,1513,K222 - Esophageal obstruction
+,,R972,1512,R972 - Elevated prostate specific antigen [PSA]
+,,C160,1510,C160 - Malignant neoplasm of cardia
+,,D122,1507,D122 - Benign neoplasm of ascending colon
+Y,,M47896,1503,"M47896 - Other spondylosis, lumbar region"
+,,K589,1499,K589 - Irritable bowel syndrome without diarrhe
+,,Z96642,1499,Z96642 - Presence of left artificial hip joint
+Y,,I25810,1498,I25810 - Atherosclerosis of coronary artery bypas
+Y,,I70203,1498,I70203 - Unspecified atherosclerosis of native ar
+,,D125,1494,D125 - Benign neoplasm of sigmoid colon
+,,E079,1494,"E079 - Disorder of thyroid, unspecified"
+,,Z940,1493,Z940 - Kidney transplant status
+,,I351,1484,I351 - Nonrheumatic aortic (valve) insufficienc
+,,I7389,1481,I7389 - Other specified peripheral vascular dise
+,,F3132,1479,"F3132 - Bipolar disorder, current episode depres"
+,,N3000,1468,N3000 - Acute cystitis without hematuria
+,,E0590,1467,"E0590 - Thyrotoxicosis, unspecified without thyr"
+,Y,E279,1463,"E279 - Disorder of adrenal gland, unspecified"
+,,F17290,1459,"F17290 - Nicotine dependence, other tobacco produ"
+,,G40309,1458,G40309 - Generalized idiopathic epilepsy and epil
+,,Z743,1458,Z743 - Need for continuous supervision
+,,I5023,1456,I5023 - Acute on chronic systolic (congestive) h
+,,M25611,1455,"M25611 - Stiffness of right shoulder, not elsewhe"
+,,L299,1448,"L299 - Pruritus, unspecified"
+,,Z780,1447,Z780 - Asymptomatic menopausal state
+,,Z96641,1447,Z96641 - Presence of right artificial hip joint
+,,K5790,1446,"K5790 - Diverticulosis of intestine, part unspec"
+,,Z85528,1444,Z85528 - Personal history of other malignant neop
+,,F320,1441,"F320 - Major depressive disorder, single episod"
+Y,,R011,1439,"R011 - Cardiac murmur, unspecified"
+,,I4510,1436,I4510 - Unspecified right bundle-branch block
+,,C169,1425,"C169 - Malignant neoplasm of stomach, unspecifi"
+,,Z9114,1425,Z9114 - Patient's other noncompliance with medic
+,,I420,1422,I420 - Dilated cardiomyopathy
+,,Z7409,1417,Z7409 - Other reduced mobility
+,,G620,1408,G620 - Drug-induced polyneuropathy
+,,R040,1406,R040 - Epistaxis
+,,E781,1400,E781 - Pure hyperglyceridemia
+,,Z7189,1400,Z7189 - Other specified counseling
+,,K3189,1391,K3189 - Other diseases of stomach and duodenum
+Y,Y,J690,1390,J690 - Pneumonitis due to inhalation of food an
+,,M160,1390,M160 - Bilateral primary osteoarthritis of hip
+,,R252,1390,R252 - Cramp and spasm
+,,M79609,1379,M79609 - Pain in unspecified limb
+,,M25531,1373,M25531 - Pain in right wrist
+,,C775,1372,C775 - Secondary and unspecified malignant neop
+Y,Y,R1900,1372,"R1900 - Intra-abdominal and pelvic swelling, mas"
+,,D472,1371,D472 - Monoclonal gammopathy
+,,H9190,1370,"H9190 - Unspecified hearing loss, unspecified ea"
+,,E1149,1369,E1149 - Type 2 diabetes mellitus with other diab
+,,D751,1367,D751 - Secondary polycythemia
+,,I712,1366,"I712 - Thoracic aortic aneurysm, without ruptur"
+,,M48062,1366,"M48062 - Spinal stenosis, lumbar region with neur"
+,,I69951,1365,I69951 - Hemiplegia and hemiparesis following uns
+,,G250,1364,G250 - Essential tremor
+,,D61818,1362,D61818 - Other pancytopenia
+,,R278,1360,R278 - Other lack of coordination
+,,C07,1359,C07 - Malignant neoplasm of parotid gland
+,,Z122,1354,Z122 - Encounter for screening for malignant ne
+,,M79642,1347,M79642 - Pain in left hand
+,,Z7984,1346,Z7984 - Long term (current) use of oral hypoglyc
+,,Z13220,1343,Z13220 - Encounter for screening for lipoid disor
+,,Z0189,1334,Z0189 - Encounter for other specified special ex
+,,I5042,1333,I5042 - Chronic combined systolic (congestive) a
+,,L400,1332,L400 - Psoriasis vulgaris
+,,K5909,1330,K5909 - Other constipation
+,,Z4889,1329,Z4889 - Encounter for other specified surgical a
+,,Z7902,1327,Z7902 - Long term (current) use of antithromboti
+,,Z90710,1325,Z90710 - Acquired absence of both cervix and uter
+,,C320,1324,C320 - Malignant neoplasm of glottis
+,,G9389,1321,G9389 - Other specified disorders of brain
+,,E6609,1315,E6609 - Other obesity due to excess calories
+Y,,J410,1314,J410 - Simple chronic bronchitis
+,,D6489,1313,D6489 - Other specified anemias
+,,L905,1312,L905 - Scar conditions and fibrosis of skin
+,,C4442,1309,C4442 - Squamous cell carcinoma of skin of scalp
+,,I7300,1304,I7300 - Raynaud's syndrome without gangrene
+,,M2041,1304,"M2041 - Other hammer toe(s) (acquired), right fo"
+,,F1210,1301,"F1210 - Cannabis abuse, uncomplicated"
+,,C186,1297,C186 - Malignant neoplasm of descending colon
+,,R0981,1293,R0981 - Nasal congestion
+,,I69954,1290,I69954 - Hemiplegia and hemiparesis following uns
+,,K4090,1288,"K4090 - Unilateral inguinal hernia, without obst"
+,,K6389,1288,K6389 - Other specified diseases of intestine
+Y,Y,R630,1284,R630 - Anorexia
+,Y,R945,1276,R945 - Abnormal results of liver function studi
+,,F4312,1273,"F4312 - Post-traumatic stress disorder, chronic"
+,,L853,1273,L853 - Xerosis cutis
+,,N3946,1273,N3946 - Mixed incontinence
+,,Z86711,1269,Z86711 - Personal history of pulmonary embolism
+,Y,J431,1265,J431 - Panlobular emphysema
+,,N951,1265,N951 - Menopausal and female climacteric states
+,,C50111,1264,C50111 - Malignant neoplasm of central portion of
+,,M4800,1264,"M4800 - Spinal stenosis, site unspecified"
+Y,,M5432,1261,"M5432 - Sciatica, left side"
+,,D126,1258,"D126 - Benign neoplasm of colon, unspecified"
+,,R922,1252,R922 - Inconclusive mammogram
+,,M5032,1250,"M5032 - Other cervical disc degeneration, mid-ce"
+,,I951,1249,I951 - Orthostatic hypotension
+,,M7061,1249,"M7061 - Trochanteric bursitis, right hip"
+,,Z905,1248,Z905 - Acquired absence of kidney
+,,C50511,1240,C50511 - Malignant neoplasm of lower-outer quadra
+,,Z9861,1240,Z9861 - Coronary angioplasty status
+Y,,I25118,1239,I25118 - Atherosclerotic heart disease of native 
+,,F3130,1238,"F3130 - Bipolar disorder, current episode depres"
+,,C210,1222,"C210 - Malignant neoplasm of anus, unspecified"
+,,M2560,1222,"M2560 - Stiffness of unspecified joint, not else"
+,,L720,1220,L720 - Epidermal cyst
+,,H5213,1217,"H5213 - Myopia, bilateral"
+,,K30,1217,K30 - Functional dyspepsia
+,,C50211,1216,C50211 - Malignant neoplasm of upper-inner quadra
+,,F4321,1212,F4321 - Adjustment disorder with depressed mood
+,,G5602,1210,"G5602 - Carpal tunnel syndrome, left upper limb"
+Y,,J45998,1208,J45998 - Other asthma
+,,B353,1206,B353 - Tinea pedis
+,,Z7951,1205,Z7951 - Long term (current) use of inhaled stero
+,,J342,1202,J342 - Deviated nasal septum
+,,Z139,1198,"Z139 - Encounter for screening, unspecified"
+,,F328,1194,F328 - Other depressive episodes
+,,M169,1192,"M169 - Osteoarthritis of hip, unspecified"
+,,E878,1191,E878 - Other disorders of electrolyte and fluid
+,,K5190,1190,"K5190 - Ulcerative colitis, unspecified, without"
+,,I5020,1189,I5020 - Unspecified systolic (congestive) heart 
+,,F201,1187,F201 - Disorganized schizophrenia
+,,G8250,1187,"G8250 - Quadriplegia, unspecified"
+,,Z789,1185,Z789 - Other specified health status
+,,C719,1183,"C719 - Malignant neoplasm of brain, unspecified"
+,,M7542,1183,M7542 - Impingement syndrome of left shoulder
+,,G8220,1182,"G8220 - Paraplegia, unspecified"
+Y,,I25110,1181,I25110 - Atherosclerotic heart disease of native 
+,,I5040,1180,I5040 - Unspecified combined systolic (congestiv
+,,M25532,1180,M25532 - Pain in left wrist
+,,Z6826,1177,"Z6826 - Body mass index (BMI) 26.0-26.9, adult"
+,,C7A1,1174,C7A1 - Malignant poorly differentiated neuroend
+Y,Y,J320,1171,J320 - Chronic maxillary sinusitis
+,,I5021,1165,I5021 - Acute systolic (congestive) heart failur
+,,F5101,1164,F5101 - Primary insomnia
+,,C50512,1163,C50512 - Malignant neoplasm of lower-outer quadra
+,,Z6825,1160,"Z6825 - Body mass index (BMI) 25.0-25.9, adult"
+,,D473,1155,D473 - Essential (hemorrhagic) thrombocythemia
+,,L0390,1155,"L0390 - Cellulitis, unspecified"
+,,D510,1154,D510 - Vitamin B12 deficiency anemia due to int
+,,R1311,1154,"R1311 - Dysphagia, oral phase"
+Y,Y,R933,1152,R933 - Abnormal findings on diagnostic imaging 
+,,Z8249,1152,Z8249 - Family history of ischemic heart disease
+,,F72,1151,F72 - Severe intellectual disabilities
+,,N3281,1151,N3281 - Overactive bladder
+,,C4021,1149,C4021 - Malignant neoplasm of long bones of righ
+,,D259,1149,"D259 - Leiomyoma of uterus, unspecified"
+,,H4011X1,1148,H4011X1 - NA
+,,F4322,1147,F4322 - Adjustment disorder with anxiety
+,,M79601,1145,M79601 - Pain in right arm
+Y,,D492,1143,D492 - Neoplasm of unspecified behavior of bone
+,,C4921,1139,C4921 - Malignant neoplasm of connective and sof
+,,G9009,1132,G9009 - Other idiopathic peripheral autonomic ne
+,,N950,1132,N950 - Postmenopausal bleeding
+,,R312,1131,R312 - Other microscopic hematuria
+,Y,G9341,1127,G9341 - Metabolic encephalopathy
+Y,Y,R1012,1127,R1012 - Left upper quadrant pain
+,,C8580,1125,C8580 - Other specified types of non-Hodgkin lym
+,,C44319,1123,C44319 - Basal cell carcinoma of skin of other pa
+,,Z6827,1122,"Z6827 - Body mass index (BMI) 27.0-27.9, adult"
+,,C7A8,1121,C7A8 - Other malignant neuroendocrine tumors
+,,M79602,1121,M79602 - Pain in left arm
+,Y,E440,1120,E440 - Moderate protein-calorie malnutrition
+,,M25612,1120,"M25612 - Stiffness of left shoulder, not elsewher"
+,Y,J9622,1119,J9622 - Acute and chronic respiratory failure wi
+,,L089,1119,L089 - Local infection of the skin and subcutan
+,,Z888,1119,"Z888 - Allergy status to other drugs, medicamen"
+,,M75121,1118,M75121 - Complete rotator cuff tear or rupture of
+,,J3489,1115,J3489 - Other specified disorders of nose and na
+,,H4011X2,1111,H4011X2 - NA
+,,M5127,1111,"M5127 - Other intervertebral disc displacement, "
+,,B9689,1109,B9689 - Other specified bacterial agents as the 
+,,D491,1108,D491 - Neoplasm of unspecified behavior of resp
+,Y,E8770,1107,"E8770 - Fluid overload, unspecified"
+,,A047,1103,A047 - Enterocolitis due to Clostridium diffici
+,,C069,1103,"C069 - Malignant neoplasm of mouth, unspecified"
+,,M79662,1103,M79662 - Pain in left lower leg
+,,Z713,1103,Z713 - Dietary counseling and surveillance
+Y,Y,I2720,1100,"I2720 - Pulmonary hypertension, unspecified"
+,,M9905,1098,M9905 - Segmental and somatic dysfunction of pel
+,,R195,1094,R195 - Other fecal abnormalities
+,,I5043,1093,I5043 - Acute on chronic combined systolic (cong
+,Y,G939,1092,"G939 - Disorder of brain, unspecified"
+,,L603,1092,L603 - Nail dystrophy
+,,I428,1084,I428 - Other cardiomyopathies
+Y,,M5440,1084,"M5440 - Lumbago with sciatica, unspecified side"
+,,K5660,1083,K5660 - Unspecified intestinal obstruction
+,,C778,1081,C778 - Secondary and unspecified malignant neop
+,,F1021,1080,"F1021 - Alcohol dependence, in remission"
+,,Z7952,1079,Z7952 - Long term (current) use of systemic ster
+,,E049,1078,"E049 - Nontoxic goiter, unspecified"
+Y,Y,J9602,1077,J9602 - Acute respiratory failure with hypercapn
+,,K3184,1073,K3184 - Gastroparesis
+,,K6289,1073,K6289 - Other specified diseases of anus and rec
+,,I6521,1070,I6521 - Occlusion and stenosis of right carotid 
+,,K209,1070,"K209 - Esophagitis, unspecified"
+Y,,K5732,1068,K5732 - Diverticulitis of large intestine withou
+,,E611,1067,E611 - Iron deficiency
+,,Z131,1067,Z131 - Encounter for screening for diabetes mel
+,,B029,1064,B029 - Zoster without complications
+,,H538,1062,H538 - Other visual disturbances
+,,K439,1061,K439 - Ventral hernia without obstruction or ga
+,,K7030,1061,K7030 - Alcoholic cirrhosis of liver without asc
+,,Z6828,1060,"Z6828 - Body mass index (BMI) 28.0-28.9, adult"
+,,M4807,1058,"M4807 - Spinal stenosis, lumbosacral region"
+,,Z885,1057,Z885 - Allergy status to narcotic agent status
+,,M25461,1044,"M25461 - Effusion, right knee"
+,,H26493,1042,"H26493 - Other secondary cataract, bilateral"
+,,J84112,1041,J84112 - Idiopathic pulmonary fibrosis
+,,R809,1037,"R809 - Proteinuria, unspecified"
+,,I6522,1036,I6522 - Occlusion and stenosis of left carotid a
+,,D6959,1033,D6959 - Other secondary thrombocytopenia
+,,R260,1032,R260 - Ataxic gait
+,,Z6830,1032,"Z6830 - Body mass index (BMI) 30.0-30.9, adult"
+,Y,I447,1030,"I447 - Left bundle-branch block, unspecified"
+Y,Y,R935,1030,R935 - Abnormal findings on diagnostic imaging 
+,,M79661,1029,M79661 - Pain in right lower leg
+,,E139,1028,E139 - Other specified diabetes mellitus withou
+Y,Y,J188,1027,"J188 - Other pneumonia, unspecified organism"
+,,F3341,1026,"F3341 - Major depressive disorder, recurrent, in"
+,,Z515,1026,Z515 - Encounter for palliative care
+,,M7062,1025,"M7062 - Trochanteric bursitis, left hip"
+,,F322,1019,"F322 - Major depressive disorder, single episod"
+,,R791,1018,R791 - Abnormal coagulation profile
+,,K429,1015,K429 - Umbilical hernia without obstruction or 
+,,E032,1014,E032 - Hypothyroidism due to medicaments and ot
+,,C678,1012,C678 - Malignant neoplasm of overlapping sites 
+,Y,G319,1011,"G319 - Degenerative disease of nervous system, "
+,,H5410,1009,"H5410 - Blindness, one eye, low vision other eye"
+,,I972,1008,I972 - Postmastectomy lymphedema syndrome
+,Y,E278,1007,E278 - Other specified disorders of adrenal gla
+Y,Y,I498,1007,I498 - Other specified cardiac arrhythmias
+,,Z418,1007,Z418 - Encounter for other procedures for purpo
+,,N3289,1006,N3289 - Other specified disorders of bladder
+Y,,I208,1004,I208 - Other forms of angina pectoris
+,,Z01811,1003,Z01811 - Encounter for preprocedural respiratory 
+,,L723,1002,L723 - Sebaceous cyst
+,,M79606,1000,"M79606 - Pain in leg, unspecified"
+,,F73,999,F73 - Profound intellectual disabilities
+,,I749,998,I749 - Embolism and thrombosis of unspecified a
+,,M329,997,"M329 - Systemic lupus erythematosus, unspecifie"
+,,N952,992,N952 - Postmenopausal atrophic vaginitis
+,,M25462,990,"M25462 - Effusion, left knee"
+,,C153,988,C153 - Malignant neoplasm of upper third of eso
+,,E089,988,E089 - Diabetes mellitus due to underlying cond
+,,M869,988,"M869 - Osteomyelitis, unspecified"
+,,N185,988,"N185 - Chronic kidney disease, stage 5"
+,,Z6829,988,"Z6829 - Body mass index (BMI) 29.0-29.9, adult"
+,,M519,987,"M519 - Unspecified thoracic, thoracolumbar and "
+Y,,M5020,986,"M5020 - Other cervical disc displacement, unspec"
+,,E8351,982,E8351 - Hypocalcemia
+,,Z1239,982,Z1239 - Encounter for other screening for malign
+,,Z6824,980,"Z6824 - Body mass index (BMI) 24.0-24.9, adult"
+,,M5117,977,M5117 - Intervertebral disc disorders with radic
+,,C4492,974,"C4492 - Squamous cell carcinoma of skin, unspeci"
+,,I69359,973,I69359 - Hemiplegia and hemiparesis following cer
+,,C434,972,C434 - Malignant melanoma of scalp and neck
+,,D61810,972,D61810 - Antineoplastic chemotherapy induced panc
+,,I6930,972,I6930 - Unspecified sequelae of cerebral infarct
+,,R0982,970,R0982 - Postnasal drip
+,,H905,967,H905 - Unspecified sensorineural hearing loss
+Y,,M47814,967,M47814 - Spondylosis without myelopathy or radicu
+,,I679,965,"I679 - Cerebrovascular disease, unspecified"
+,,R3915,964,R3915 - Urgency of urination
+Y,,J4530,963,"J4530 - Mild persistent asthma, uncomplicated"
+,,R251,963,"R251 - Tremor, unspecified"
+,,M75101,960,M75101 - Unspecified rotator cuff tear or rupture
+,,N312,960,"N312 - Flaccid neuropathic bladder, not elsewhe"
+,,D229,959,"D229 - Melanocytic nevi, unspecified"
+,,Z466,959,Z466 - Encounter for fitting and adjustment of 
+,,Z716,959,Z716 - Tobacco abuse counseling
+,,Z48813,957,Z48813 - Encounter for surgical aftercare followi
+,,C228,955,"C228 - Malignant neoplasm of liver, primary, un"
+,,I671,954,"I671 - Cerebral aneurysm, nonruptured"
+,,D124,947,D124 - Benign neoplasm of descending colon
+,,Z6831,946,"Z6831 - Body mass index (BMI) 31.0-31.9, adult"
+,,Z13820,944,Z13820 - Encounter for screening for osteoporosis
+,,C37,942,C37 - Malignant neoplasm of thymus
+Y,Y,J208,942,J208 - Acute bronchitis due to other specified 
+,,N201,940,N201 - Calculus of ureter
+,,H52223,939,"H52223 - Regular astigmatism, bilateral"
+,,H3530,938,H3530 - Unspecified macular degeneration
+,,N644,937,N644 - Mastodynia
+,,F22,935,F22 - Delusional disorders
+,,F1220,933,"F1220 - Cannabis dependence, uncomplicated"
+,,C8330,932,"C8330 - Diffuse large B-cell lymphoma, unspecifi"
+,,M609,932,"M609 - Myositis, unspecified"
+,,L280,931,L280 - Lichen simplex chronicus
+,,M6282,931,M6282 - Rhabdomyolysis
+,,R338,931,R338 - Other retention of urine
+,,S39012A,931,"S39012A - Strain of muscle, fascia and tendon of l"
+,,Z931,928,Z931 - Gastrostomy status
+,,R9439,927,R9439 - Abnormal result of other cardiovascular 
+,,D72819,926,"D72819 - Decreased white blood cell count, unspec"
+Y,Y,R942,926,R942 - Abnormal results of pulmonary function s
+,,H40003,925,"H40003 - Preglaucoma, unspecified, bilateral"
+,,B1710,924,B1710 - Acute hepatitis C without hepatic coma
+,,M353,923,M353 - Polymyalgia rheumatica
+,,Z21,923,Z21 - Asymptomatic human immunodeficiency viru
+,,Z431,922,Z431 - Encounter for attention to gastrostomy
+,,Z8521,922,Z8521 - Personal history of malignant neoplasm o
+,,Z8679,920,Z8679 - Personal history of other diseases of th
+,,G4710,919,"G4710 - Hypersomnia, unspecified"
+Y,,M4722,919,"M4722 - Other spondylosis with radiculopathy, ce"
+,,Z932,919,Z932 - Ileostomy status
+,,K621,918,K621 - Rectal polyp
+Y,Y,I491,912,I491 - Atrial premature depolarization
+,,M19071,912,"M19071 - Primary osteoarthritis, right ankle and "
+Y,,I270,911,I270 - Primary pulmonary hypertension
+Y,Y,I440,911,"I440 - Atrioventricular block, first degree"
+,,L598,910,L598 - Other specified disorders of the skin an
+,,Z8719,910,Z8719 - Personal history of other diseases of th
+,,D630,908,D630 - Anemia in neoplastic disease
+Y,,I2582,907,I2582 - Chronic total occlusion of coronary arte
+,,C184,906,C184 - Malignant neoplasm of transverse colon
+,,C4022,904,C4022 - Malignant neoplasm of long bones of left
+,,F10129,900,"F10129 - Alcohol abuse with intoxication, unspeci"
+,,K5792,900,"K5792 - Diverticulitis of intestine, part unspec"
+,,M531,900,M531 - Cervicobrachial syndrome
+,,I213,899,I213 - ST elevation (STEMI) myocardial infarcti
+,,T148,899,T148 - Other injury of unspecified body region
+,,Z9012,898,Z9012 - Acquired absence of left breast and nipp
+,,I5031,895,I5031 - Acute diastolic (congestive) heart failu
+,,M19041,889,"M19041 - Primary osteoarthritis, right hand"
+,,R921,889,R921 - Mammographic calcification found on diag
+,,L409,888,"L409 - Psoriasis, unspecified"
+,,M75122,886,M75122 - Complete rotator cuff tear or rupture of
+,,Z8619,886,Z8619 - Personal history of other infectious and
+,,I69898,884,I69898 - Other sequelae of other cerebrovascular 
+,,C561,883,C561 - Malignant neoplasm of right ovary
+,,D235,880,D235 - Other benign neoplasm of skin of trunk
+,,M419,879,"M419 - Scoliosis, unspecified"
+,,C44529,878,C44529 - Squamous cell carcinoma of skin of other
+,,C44329,876,C44329 - Squamous cell carcinoma of skin of other
+,,Z944,874,Z944 - Liver transplant status
+,,H25811,872,"H25811 - Combined forms of age-related cataract, "
+,,M1380,871,"M1380 - Other specified arthritis, unspecified s"
+,,M2042,871,"M2042 - Other hammer toe(s) (acquired), left foo"
+Y,,D490,869,D490 - Neoplasm of unspecified behavior of dige
+,,N6489,868,N6489 - Other specified disorders of breast
+,,G4089,865,G4089 - Other seizures
+,,D120,864,D120 - Benign neoplasm of cecum
+,,M6250,864,"M6250 - Muscle wasting and atrophy, not elsewher"
+,,M059,863,M059 - Rheumatoid arthritis with rheumatoid fac
+,,C4359,861,C4359 - Malignant melanoma of other part of trun
+,,C774,860,C774 - Secondary and unspecified malignant neop
+,,D869,857,"D869 - Sarcoidosis, unspecified"
+,,E162,857,"E162 - Hypoglycemia, unspecified"
+,,K5090,857,"K5090 - Crohn's disease, unspecified, without co"
+,,Z9013,857,Z9013 - Acquired absence of bilateral breasts an
+,,Z936,857,Z936 - Other artificial openings of urinary tra
+,,H25812,856,"H25812 - Combined forms of age-related cataract, "
+,,C251,855,C251 - Malignant neoplasm of body of pancreas
+,,T814XXA,853,T814XXA - NA
+,,M25662,851,"M25662 - Stiffness of left knee, not elsewhere cl"
+,,I442,849,"I442 - Atrioventricular block, complete"
+Y,,K2900,849,K2900 - Acute gastritis without bleeding
+,,C139,847,"C139 - Malignant neoplasm of hypopharynx, unspe"
+Y,,S134XXA,844,"S134XXA - Sprain of ligaments of cervical spine, i"
+,,H16223,842,"H16223 - Keratoconjunctivitis sicca, not specifie"
+,,L03119,842,L03119 - Cellulitis of unspecified part of limb
+Y,,I200,841,I200 - Unstable angina
+,,J95811,841,J95811 - Postprocedural pneumothorax
+,,B078,840,B078 - Other viral warts
+,,I6782,839,I6782 - Cerebral ischemia
+,,H26491,837,"H26491 - Other secondary cataract, right eye"
+,,R194,837,R194 - Change in bowel habit
+,,Z792,837,Z792 - Long term (current) use of antibiotics
+,,F900,835,F900 - Attention-deficit hyperactivity disorder
+,,I771,835,I771 - Stricture of artery
+,,M7501,835,M7501 - Adhesive capsulitis of right shoulder
+,,F4320,834,"F4320 - Adjustment disorder, unspecified"
+,,F4542,834,F4542 - Pain disorder with related psychological
+,,H35033,834,"H35033 - Hypertensive retinopathy, bilateral"
+,,Z791,834,Z791 - Long term (current) use of non-steroidal
+,,B9562,831,B9562 - Methicillin resistant Staphylococcus aur
+Y,,R1010,831,"R1010 - Upper abdominal pain, unspecified"
+,,C495,829,C495 - Malignant neoplasm of connective and sof
+,,Z882,828,Z882 - Allergy status to sulfonamides status
+,,M25661,827,"M25661 - Stiffness of right knee, not elsewhere c"
+,,C672,826,C672 - Malignant neoplasm of lateral wall of bl
+,,M25521,826,M25521 - Pain in right elbow
+,,Z8701,826,Z8701 - Personal history of pneumonia (recurrent
+,,B349,824,"B349 - Viral infection, unspecified"
+,,F1920,824,"F1920 - Other psychoactive substance dependence,"
+,,R161,824,"R161 - Splenomegaly, not elsewhere classified"
