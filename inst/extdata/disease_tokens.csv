@@ -1,4 +1,5 @@
 disease,token
+acute_myeloid_leukemia,acute myeloid leukemia
 ami,acute myocardial infarction
 ami,ami
 ami,heart attack
@@ -183,12 +184,15 @@ gonorrhea,neisseria gonorrhoeae
 gonorrhea,the clap
 gout,gout
 granuloma_inguinale,granuloma inguinale
+hairy_cell_leukemia,hairy cell leukemia
 hanta,hantavirus
 head_neck_cancer,head and neck cancer
 hepatitis_a,hepatitis a
 hepatitis_chronic,chronic hepatitis
 histo,histoplasmosis
 hiv,hiv infection
+hodgkins_lymphoma,Hodgkin’s Lymphoma
+hodgkins_lymphoma,Hodgkins
 hpv,human papillomavirus
 hsv_enceph,herpes simplex virus encephalitis
 hypersensitivity_pneumonitis,hypersensitivity pneumonitis
@@ -266,6 +270,7 @@ pyoderma_gangrenosum,pyoderma gangrenosum
 q_fever,q fever
 ra,rheumatoid arthritis
 reiters,reiter's disease
+renal_cell_cancer,renal cell cancer
 resp_failure_newborn,respiratory failure of newborn
 resp_failure,respiratory failure
 rheumatoid_arthritis,rheumatoid arthritis

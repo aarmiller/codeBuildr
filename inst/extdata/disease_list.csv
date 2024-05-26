@@ -1,4 +1,5 @@
 name,description
+acute_myeloid_leukemia,Acute Myeloid Leukemia
 ami,Acute Myocardial Infarction
 angina,Angina pectoris
 aortic_dissection,Aortic dissection
@@ -66,12 +67,14 @@ giardiasis,Giardiasis
 gonorrhea,Gonorrhea
 gout,Gout
 granuloma_inguinale,Granuloma inguinale
+hairy_cell_leukemia,Hairy Cell Leukemia
 hanta,Hantavirus
 head_neck_cancer,Head and Neck Cancer
 hepatitis_a,Hepatitis A
 hepatitis_chronic,Chronic Hepatitis
 histo,Histoplasmosis
 hiv,HIV infection
+hodgkins_lymphoma,Hodgkin’s Lymphoma
 hpv,Human papillomavirus
 hsv_enceph,Herpes Simplex Virus Encephalitis
 hypersensitivity_pneumonitis,Hypersensitivity Pneumonitis
@@ -143,6 +146,7 @@ pyoderma_gangrenosum,Pyoderma gangrenosum
 q_fever,Q Fever
 ra,Rheumatoid arthritis
 reiters,Reiter's disease
+renal_cell_cancer,Renal Cell Cancer
 resp_failure_newborn,Respiratory Failure of Newborn
 resp_failure,Respiratory Failure
 rheumatoid_arthritis,Rheumatoid arthritis 
