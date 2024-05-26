@@ -205,6 +205,8 @@ intestinal_malabsorption,intestinal malabsorption
 intestinal_obstruction,intestinal obstruction
 ipd,interstitial pulmonary diseases
 ipf,idiopathic pulmonary fibrosis
+kawasaki,mucocutaneous lymph node syndrome
+kawasaki,kawasaki
 lack_of_development,lack of expected normal development
 legion,legionellosis
 lepto,leptospirosis
@@ -301,6 +303,9 @@ sinusitis_chronic_sphenoidal,chronic sphenoidal sinusitis
 sinusitis_chronic_unspecified,unspecified sinusitis chronic
 sinusitis_chronic,chronic sinusitis
 skin_ulcers_chronic,chronic skin ulcers
+sle,systemic lupus erythematosus (SLE)
+sle,SLE
+sle,systemic lupus erythematosus
 spine_abs,spinal abscess
 sporotrichosis,sporotrichosis
 stomach_cancer,stomach cancer
@@ -322,3 +327,7 @@ venous_insuf,Venous insufficiency (chronic peripheral)
 venous_insuf,Venous insufficiency
 venous_thromboembolism,venous thromboembolism
 vert_osteo,vertebral osteomyelitis
+wegeners,granulomatosis with polyangiitis
+wegeners,wegener's granulomatosis
+wegeners,wegeners
+wegeners,wegeners granulomatosis
