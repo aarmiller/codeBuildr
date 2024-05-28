@@ -1,5 +1,6 @@
 name,description
 acute_myeloid_leukemia,Acute Myeloid Leukemia
+adult_stills,Adult Still’s disease
 ami,Acute Myocardial Infarction
 angina,Angina pectoris
 aortic_dissection,Aortic dissection
@@ -8,6 +9,7 @@ ascities,Ascites
 aspergillosis,Aspergillosis associated disease
 asthma,Asthma
 babesiosis,Babesiosis
+behcet,Behçet disease
 bladder_cancer,Bladder Cancer
 blasto,Blastomycosis
 breast_cancer,Breast Cancer
@@ -63,6 +65,7 @@ fourniers,Fournier's Gangrene
 genital_herpes,Genital Herpes
 gerd,Gastroesophageal reflux disease (GERD)
 gi_cancer,Cancer of other GI organs; peritoneum
+giant_cell_arteritis,Giant cell arteritis
 giardiasis,Giardiasis
 gonorrhea,Gonorrhea
 gout,Gout
@@ -131,6 +134,7 @@ pcd,Primary Ciliary Dyskinesia
 pcp,Pneumocystic Pneumonia
 pd,Parkinson's Disease
 pe,Pulmonary Embolism
+periodic_fever,Periodic fever syndromes (Familial Mediterranean fever)
 pertussis,Pertussis
 phar_cancer,Pharyngeal Cancer
 pneumonia_congenital,Congenital pneumonia
@@ -186,8 +190,10 @@ strep_group_a,Group A Streptococcus
 stroke,Stroke
 sweets_syndrome,Sweet’s Syndrome
 syphilis,Syphilis
+takayasu,Aortic arch syndrome (Takayasu)
 tb,Tuberculosis
 test,Measles
+thyroiditis,Thyroiditis
 toxo,Toxoplasmosis
 trichomoniasis,Trichomoniasis
 tularemia,Tularemia

@@ -1,5 +1,7 @@
 disease,token
 acute_myeloid_leukemia,acute myeloid leukemia
+adult_stills,adult still’s disease
+adult_stills,adult stills disease
 ami,acute myocardial infarction
 ami,ami
 ami,heart attack
@@ -15,6 +17,10 @@ aspergillosis,aspergillosis associated disease
 asthma,asthma
 babesiosis,babesiosis
 babesiosis,babesia
+behcet,behçet disease
+behcet,behcet disease
+behcet,behçet
+behcet,behcet
 bladder_cancer,bladder cancer
 bladder_cancer,bladder carcinoma
 blasto,blastomycosis
@@ -175,6 +181,7 @@ gerd,gerd
 gerd,reflux
 gerd,acid reflux
 gi_cancer,gastrointestinal cancer
+giant_cell_arteritis,giant cell arteritis
 giardiasis,giardiasis
 giardiasis,giardia
 giardiasis,beaver fever
@@ -256,6 +263,8 @@ pd,parkinson's disease
 pd,parkinsons disease
 pd,parkinsons
 pe,pulmonary embolism
+periodic_fever,periodic fever syndrome
+periodic_fever,familial mediterranean fever
 pertussis,pertussis
 phar_cancer,pharyngeal cancer
 pneumonia_congenital,congenital pneumonia
@@ -313,8 +322,12 @@ strep_group_a,group a streptococcus
 stroke,stroke
 sweets_syndrome,sweet’s syndrome
 syphilis,syphilis
+takayasu,aortic arch syndrome (Takayasu)
+takayasu,aortic arch syndrome
+takayasu,takayasu
 tb,tuberculosis
 test,measles
+thyroiditis,thyroiditis
 toxo,toxoplasmosis
 trichomoniasis,trichomoniasis
 tularemia,tularemia
