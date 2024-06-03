@@ -9,11 +9,9 @@ tokens <- c('chronic sinusitis')
 
 # Diagnosis codes:
 
-icd9_codes <- as.character(children_safe(c("4730","4731","4732","4733","4738",
-                                           "4739")))
+icd9_codes <- as.character(children_safe(c("473")))
 
-icd10_codes <- as.character(children_safe(c("J320","J321","J322","J323","J324",
-                                            "J328","J329")))
+icd10_codes <- as.character(children_safe(c("J32")))
 
 # Procedure codes:
 
