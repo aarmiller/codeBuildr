@@ -121,6 +121,7 @@ V7282,icd9
 V1582,icd9
 2392,icd9
 V7263,icd9
+V718,icd9
 V7189,icd9
 4476,icd9
 36012,icd9
@@ -144,9 +145,13 @@ V725,icd9
 V6709,icd9
 37739,icd9
 2358,icd9
+796,icd9
 7969,icd9
 4242,icd9
+348,icd9
+3488,icd9
 34889,icd9
+7909,icd9
 79099,icd9
 1991,icd9
 V6759,icd9
@@ -161,6 +166,7 @@ V6759,icd9
 5921,icd9
 5932,icd9
 5849,icd9
+4278,icd9
 42789,icd9
 4279,icd9
 4139,icd9
@@ -184,6 +190,8 @@ V6759,icd9
 3559,icd9
 3369,icd9
 34830,icd9
+6961,icd9
+6983,icd9
 R590,icd10
 R918,icd10
 R591,icd10
@@ -191,11 +199,13 @@ R911,icd10
 R599,icd10
 R9431,icd10
 R938,icd10
+R9389,icd10
 R000,icd10
 J90,icd10
 R0902,icd10
 J9811,icd10
 I517,icd10
+R798,icd10
 R7989,icd10
 D72829,icd10
 R748,icd10
@@ -209,6 +219,7 @@ J939,icd10
 R0602,icd10
 R05,icd10
 R079,icd10
+R078,icd10
 R0789,icd10
 R0600,icd10
 R51,icd10
@@ -234,9 +245,11 @@ R1011,icd10
 R5381,icd10
 R062,icd10
 R042,icd10
+R098,icd10
 R0989,icd10
 M79605,icd10
 R0781,icd10
+R068,icd10
 R0689,icd10
 R072,icd10
 J449,icd10
@@ -248,6 +261,7 @@ J9601,icd10
 J441,icd10
 J811,icd10
 J45901,icd10
+J18,icd10
 J189,icd10
 J209,icd10
 J069,icd10
@@ -262,6 +276,7 @@ I888,icd10
 M064,icd10
 Z01810,icd10
 H209,icd10
+Z2082,icd10
 Z20828,icd10
 Z01812,icd10
 F17200,icd10
@@ -275,6 +290,7 @@ D485,icd10
 H469,icd10
 Z48813,icd10
 L309,icd10
+D898,icd10
 D8989,icd10
 H44112,icd10
 H4710,icd10
@@ -284,6 +300,7 @@ H20042,icd10
 M25572,icd10
 G510,icd10
 H532,icd10
+Z115,icd10
 Z1159,icd10
 M25571,icd10
 H21513,icd10
@@ -321,6 +338,7 @@ N12,icd10
 Z862,icd10
 D1431,icd10
 R768,icd10
+Z018,icd10
 Z0189,icd10
 H3091,icd10
 N200,icd10
@@ -332,6 +350,7 @@ I493,icd10
 I471,icd10
 I442,icd10
 J479,icd10
+M798,icd10
 M7989,icd10
 E860,icd10
 K8020,icd10
@@ -340,3 +359,7 @@ G629,icd10
 G9340,icd10
 I889,icd10
 I2699,icd10
+L930,icd10
+L409,icd10
+L4050,icd10
+L929,icd10
