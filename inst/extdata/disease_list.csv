@@ -99,6 +99,7 @@ long_covid,"Post COVID-19 condition, unspecified"
 lung_cancer,Lung Cancer
 lupus,Lupus
 lyme,Lyme Disease
+lymphang,Lymphangioleiomyomatosis
 malaria,Malaria
 measles,Measles
 meconium_ileus,Meconium obstruction in fetus or newborn
@@ -196,6 +197,7 @@ test,Measles
 thyroiditis,Thyroiditis
 toxo,Toxoplasmosis
 trichomoniasis,Trichomoniasis
+tuberous_sclerosis,Tuberous sclerosis complex
 tularemia,Tularemia
 ulcerative_colitis,Ulcerative colitis
 unspec_upper_resp,Upper Respiratory Infection-Unspecified

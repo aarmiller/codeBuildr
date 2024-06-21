@@ -224,6 +224,7 @@ long_covid,long covid-19
 lung_cancer,lung cancer
 lupus,lupus
 lyme,lyme disease
+lymphang,lymphangioleiomyomatosis
 malaria,malaria
 measles,measles
 meconium_ileus,meconium obstruction in fetus or newborn
@@ -330,6 +331,8 @@ test,measles
 thyroiditis,thyroiditis
 toxo,toxoplasmosis
 trichomoniasis,trichomoniasis
+tuberous_sclerosis,tuberous sclerosis complex
+tuberous_sclerosis,tuberous sclerosis
 tularemia,tularemia
 ulcerative_colitis,ulcerative colitis
 unspec_upper_resp,upper respiratory infection-unspecified
