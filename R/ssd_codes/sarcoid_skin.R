@@ -5,7 +5,7 @@
     
 # Description:
     
-desc <- "Sarcoidosis Lung"
+desc <- "Sarcoidosis Skin"
     
 tokens <- c("sarcoidosis","sarcoid")
     
