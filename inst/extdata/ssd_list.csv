@@ -15,8 +15,8 @@ lung_cancer,Lung Cancer
 meningitis,Meningitis
 pcp,pneumocystis pneumonia
 pe,Pulmonary Embolism
-sarcoid_lung,Sarcoidosis Skin
-sarcoid_skin,Sarcoidosis Lung
+sarcoid_lung,Sarcoidosis Lung
+sarcoid_skin,Sarcoidosis Skin
 sarcoid,Sarcoidosis
 sepsis_revised10,Sepsis
 sepsis,Sepsis
