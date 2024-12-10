@@ -9,9 +9,9 @@ tokens <- c('nephrolithiasis')
 
 # Diagnosis codes:
 
-icd9_codes <- as.character(children_safe(c("5920")))
+icd9_codes <- as.character(children_safe(c("592")))
 
-icd10_codes <- as.character(children_safe(c("N200")))
+icd10_codes <- as.character(children_safe(c("N20")))
 
 # Procedure codes:
 
