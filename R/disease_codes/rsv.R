@@ -11,7 +11,7 @@ tokens <- c('respiratory syncytial virus (rsv)')
     
 icd9_codes <- as.character(children_safe(c("4801","46611","0796")))
     
-icd10_codes <- as.character(children_safe(c("J121","J210","J205")))
+icd10_codes <- as.character(children_safe(c("J121","J210","J205","B974")))
     
 # Procedure codes:
     
