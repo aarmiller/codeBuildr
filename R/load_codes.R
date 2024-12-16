@@ -10,7 +10,7 @@
 #' @param project_names a vector of project names to get codes for
 #'
 #' @export
-load_disease_codes <- function(project_names){
+load_disease_codes <- function(project_names, return_tibble = FALSE){
 
   # get_descriptions
   descriptions <- avail_disease_codes()
@@ -35,8 +35,25 @@ load_disease_codes <- function(project_names){
                           icd10pcs_codes = tmp[tmp$type=="icd10pcs",]$code,
                           rx_codes = tmp[tmp$type=="ndc",]$code)
   }
-
-  return(out_list)
+  
+  if (return_tibble==TRUE){
+    
+    tmp1 <- enframe(map(out_list,~.$icd9_codes),name = "condition",value = "dx") %>% 
+      unnest(dx) %>% 
+      mutate(dx_ver = 9L)
+    
+    tmp2 <- enframe(map(out_list,~.$icd10_codes),name = "condition",value = "dx") %>% 
+      unnest(dx) %>% 
+      mutate(dx_ver = 10L)
+    
+    out_tab <- bind_rows(tmp1,tmp2) %>% arrange(condition)
+    
+    
+    return(out_tab)
+    
+  } else {
+    return(out_list)
+  }
 }
 
 
