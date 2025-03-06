@@ -50,6 +50,7 @@ diabetes_gest,Gestational Diabetes
 diabetes_sec,Secondary Diabetes
 diabetes_type1,Type I Diabetes
 diabetes_type2,Type II diabetes
+diabetes10,Diabetes (ICD-10)
 dvt,Deep Venous Thrombosis
 e_coli,E. coli O157
 ebv,Epstein-Barr virus (EBV) infection

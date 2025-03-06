@@ -81,7 +81,7 @@ new_abx <- rbind(abx_old,
 write_csv(new_abx,"inst/extdata/rx_all_abx.csv")
 
 
-## expanded 9/27/22
+## expanded 9/27/22 ------------------------------------------------------------
 
 abx_old <- read_csv("inst/extdata/rx_all_abx.csv")
 
@@ -267,3 +267,14 @@ final_labels %>%
   write_csv("inst/extdata/misc_abx_classes.csv")
 
 rm(list =ls())
+
+
+### Updated 1/6/2025 -----------------------------------------------------------
+
+library(haven)
+
+old_abx <- read_csv("inst/extdata/rx_all_abx.csv")
+
+redbook <- haven::read_sas("~/Data/redbook/redbook_1_6_25.sas7bdat")
+
+redbook
