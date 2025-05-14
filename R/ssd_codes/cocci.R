@@ -52,7 +52,6 @@ icd9_codes <- as.character(children_safe(c('71940', #Pain in joint, site unspeci
                                            '0389', #Unspecified septicemia
                                            '07999', #Unspecified viral infection
                                            '3229', #Meningitis, unspecified
-                                           '340', #Multiple sclerosis
                                            '4619', #Acute sinusitis, unspecified
                                            '462', #Acute pharyngitis
                                            '4658', #Acute upper respiratory infections of other multiple sites
@@ -124,7 +123,8 @@ icd9_codes <- as.character(children_safe(c('71940', #Pain in joint, site unspeci
                                            '79311', #Solitary pulmonary nodule
                                            '79319', #Other nonspecific abnormal finding of lung field
                                            '79902', #Hypoxemia
-                                           'V741' #Screening examination for pulmonary tuberculosis
+                                           'V741', #Screening examination for pulmonary tuberculosis
+                                           '6952'  #Erythema nodosum
                                            )))
     
 icd10_codes <- as.character(children_safe(c('M2550', #Pain in unspecified joint
@@ -248,7 +248,9 @@ icd10_codes <- as.character(children_safe(c('M2550', #Pain in unspecified joint
                                             'R911', #Solitary pulmonary nodule
                                             'R918', #Other nonspecific abnormal finding of lung field
                                             'R945', #Abnormal results of liver function studies
-                                            'Z111' #Encounter for screening for respiratory tuberculosis
+                                            'Z111', #Encounter for screening for respiratory tuberculosis
+                                            'R21',  #Rash and other nonspecific skin eruption
+                                            'L52'   #Erythema nodosum
                                             )))
     
 # Procedure codes:

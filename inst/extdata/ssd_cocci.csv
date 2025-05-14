@@ -14,7 +14,6 @@ code,type
 2883,icd9
 28860,icd9
 3229,icd9
-340,icd9
 4239,icd9
 4280,icd9
 4293,icd9
@@ -64,6 +63,7 @@ code,type
 51884,icd9
 51889,icd9
 51911,icd9
+6952,icd9
 71940,icd9
 7291,icd9
 7806,icd9
@@ -237,3 +237,5 @@ R911,icd10
 R918,icd10
 R945,icd10
 Z111,icd10
+R21,icd10
+L52,icd10
