@@ -11,7 +11,7 @@ tokens <- c("bronchitis", "chronic bronchitis")
 
 icd9_codes <- as.character(children_safe(c("491")))
 
-icd10_codes <- as.character(icd9_to_icd10(children_safe(c("491"))))
+icd10_codes <- as.character(children_safe(c("J41","J42")))
 
 # Procedure codes:
 
