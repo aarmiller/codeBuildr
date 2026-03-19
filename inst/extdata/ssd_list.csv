@@ -2,6 +2,7 @@ name,description
 ami,Acute myocardial infarction
 append,Appendicitis
 blasto,Blastomycosis
+bronchiectasis,
 cocci,Coccidioidomycosis
 colon_cancer,Colon Cancer
 crohns_uc,Crohn's Disease & Ulcerative Colitis
